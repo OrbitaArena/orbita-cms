@@ -2,6 +2,7 @@
   { "id": "orbita", "name": "Orbita Arena", "slug": "orbitaarena" }
   { "id": "arenautas", "name": "Arenautas", "slug": "bastidores" }
   { "id": "futebol", "name": "Futebol", "slug": "futebol" },
+  { "id": "copadomundo", "name": "Copa do Mundo", "slug": "copadomundo" },
   { "id": "analise-tatica", "name": "Análise Tática", "slug": "analise-tatica" },
   { "id": "brasileirao-a", "name": "Brasileirão Série A", "slug": "brasileirao-a" },
   { "id": "brasileirao-b", "name": "Brasileirão Série B", "slug": "brasileirao-b" },
