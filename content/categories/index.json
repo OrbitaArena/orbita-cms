@@ -1,0 +1,20 @@
+[
+  { "id": "orbita", "name": "Orbita Arena", "slug": "orbitaarena" }
+  { "id": "arenautas", "name": "Arenautas", "slug": "bastidores" }
+  { "id": "futebol", "name": "Futebol", "slug": "futebol" },
+  { "id": "analise-tatica", "name": "Análise Tática", "slug": "analise-tatica" },
+  { "id": "brasileirao-a", "name": "Brasileirão Série A", "slug": "brasileirao-a" },
+  { "id": "brasileirao-b", "name": "Brasileirão Série B", "slug": "brasileirao-b" },
+  { "id": "brasileirao-c", "name": "Brasileirão Série C", "slug": "brasileirao-c" },
+  { "id": "brasileirao-d", "name": "Brasileirão Série D", "slug": "brasileirao-d" },
+  { "id": "nfl", "name": "NFL", "slug": "nfl" },
+  { "id": "nhl", "name": "NHL", "slug": "nhl" },
+  { "id": "mlb", "name": "MLB", "slug": "mlb" },
+  { "id": "nba", "name": "NBA", "slug": "nba" },
+  { "id": "nba", "name": "Cornhole", "slug": "cornhole" },
+  { "id": "nba", "name": "Dardos", "slug": "dardos" },
+  { "id": "nba", "name": "Handebol", "slug": "handebol" },
+  { "id": "nba", "name": "Badminton", "slug": "badminton" },
+  { "id": "olimpicos", "name": "Esportes Olímpicos", "slug": "esportes-olimpicos" },
+  { "id": "college", "name": "NCAA College", "slug": "college" }
+]
