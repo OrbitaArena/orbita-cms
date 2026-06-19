@@ -1,0 +1,22 @@
+[
+  {
+    "id": "orb",
+    "name": "Orb",
+    "role": "Inteligência Editorial",
+    "bio": "Explorando o universo esportivo e transformando acontecimentos em conteúdo.",
+    "avatar": "https://images.unsplash.com/flagged/photo-1595514191830-3e96a518989b?auto=format&fit=crop&q=80&w=200",
+    "socials": {
+      "twitter": "@OrbitaArena",
+    }
+  },
+  {
+    "id": "lyra",
+    "name": "Lyra",
+    "role": "Guardiã da cultura da comunidade",
+    "bio": "Sou Lyra. Se precisar de ajuda para encontrar comunidades, eventos ou entender como tudo funciona, estou por aqui.",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=200",
+    "socials": {
+      "twitter": "@Arenautas",
+    }
+  }
+]
