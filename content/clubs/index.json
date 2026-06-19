@@ -1,0 +1,26 @@
+[
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "slug": "brasil",
+    "crest": "https://flagcdn.com/w160/br.png",
+    "stadium": "Maracanã",
+    "country": "Brasil"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "slug": "argentina",
+    "crest": "https://flagcdn.com/w160/ar.png",
+    "stadium": "Monumental de Núñez",
+    "country": "Argentina"
+  },
+  {
+    "id": "usa",
+    "name": "Estádos Unidos",
+    "slug": "usa",
+    "crest": "https://flagcdn.com/w160/us.png",
+    "stadium": "MetLife Stadium",
+    "country": "Estados Unidos"
+  }
+  ]
