@@ -1,0 +1,26 @@
+[
+  {
+    "id": "live-1",
+    "title": "Final Mensal de Junho - LATAM",
+    "badge": "KING JOE",
+    "dateTime": "20 JUN - 16:00",
+    "category": "eSports",
+    "image": "https://i.ytimg.com/vi/Se3NZ_Et0a0/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Brawl Stars Championship 2026 - Final Mensal de Junho - LATAM",
+    "youtubeId": "Se3NZ_Et0a0",
+    "streamUrl": "https://www.youtube.com/watch?v=Se3NZ_Et0a0"
+  },
+  {
+    "id": "live-2",
+    "title": "NIKKEY MARÍLIA 🆚 NIPPON BLUE JAYS AO VIVO ⚾",
+    "badge": "Terrão TV",
+    "dateTime": "20 JUN - 14:00",
+    "category": "Baseball",
+    "image": "https://i.ytimg.com/vi/N65VsooWWoI/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "26º Campeonato Brasileiro de Beisebol Juvenil Aberto",
+    "youtubeId": "v9xhguBBgxI",
+    "streamUrl": "https://www.youtube.com/watch?v=v9xhguBBgxI"
+  }
+]
