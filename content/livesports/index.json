@@ -1,26 +1,62 @@
 [
   {
     "id": "live-1",
+    "title": "SOFTBALL SENIOR LEAGUE LATIN AMERICA TOURNAMENT 2026: BRAZIL vs PUERTO RICO",
+    "badge": "Sport CW",
+    "dateTime": "21 JUN - 16:30",
+    "category": "Softball",
+    "image": "https://i.ytimg.com/vi/Lr0aHey5ioc/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "SOFTBALL SENIOR LEAGUE LATIN AMERICA TOURNAMENT 2026: BRAZIL vs PUERTO RICO",
+    "youtubeId": "Lr0aHey5ioc",
+    "streamUrl": "https://www.youtube.com/watch?v=Lr0aHey5ioc"
+  },
+  {
+    "id": "live-2",
+    "title": "GRANDE FINAL: TUCUNDUVA X AUGUSTO PESTANA",
+    "badge": "RÁDIO VERA CRUZ FM100.3",
+    "dateTime": "21 JUN - 16:30",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/CXO32_EznvA/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "FINAL DO REGIONAL DE BOCHAS EM HORIZONTINA",
+    "youtubeId": "Lr0aHey5ioc",
+    "streamUrl": "https://www.youtube.com/watch?v=Lr0aHey5ioc"
+  },
+  {
+    "id": "live-3",
+    "title": "GIGANTE 🆚 NIKKEY MARÍLIA – FINAL AO VIVO ⚾",
+    "badge": "Terrão TV",
+    "dateTime": "21 JUN - 14:00",
+    "category": "Baseball",
+    "image": "https://i.ytimg.com/vi/s5fR3GUK1QM/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "26º Campeonato Brasileiro de Beisebol Juvenil Aberto",
+    "youtubeId": "v9xhguBBgxI",
+    "streamUrl": "https://www.youtube.com/watch?v=v9xhguBBgxI"
+  },
+  {
+    "id": "live-4",
+    "title": "TORNEIO DE BOCHA - DUPLAS - SOCIEDADE 22 DE MAIO - LINHA HERVAL - FINAIS",
+    "badge": "Gazeta Sobradinho",
+    "dateTime": "21 JUN - 14:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/3N4yyXnQDbs/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "TORNEIO DE BOCHA - DUPLAS - SOCIEDADE 22 DE MAIO - LINHA HERVAL - FINAIS",
+    "youtubeId": "YUeP6KLEU5c",
+    "streamUrl": "https://www.youtube.com/watch?v=YUeP6KLEU5c"
+  },
+  {
+    "id": "live-5",
     "title": "Final Mensal de Junho - LATAM",
     "badge": "KING JOE",
     "dateTime": "20 JUN - 16:00",
     "category": "eSports",
     "image": "https://i.ytimg.com/vi/Se3NZ_Et0a0/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "Brawl Stars Championship 2026 - Final Mensal de Junho - LATAM",
     "youtubeId": "Se3NZ_Et0a0",
     "streamUrl": "https://www.youtube.com/watch?v=Se3NZ_Et0a0"
-  },
-  {
-    "id": "live-2",
-    "title": "NIKKEY MARÍLIA 🆚 NIPPON BLUE JAYS AO VIVO ⚾",
-    "badge": "Terrão TV",
-    "dateTime": "20 JUN - 14:00",
-    "category": "Baseball",
-    "image": "https://i.ytimg.com/vi/N65VsooWWoI/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "26º Campeonato Brasileiro de Beisebol Juvenil Aberto",
-    "youtubeId": "v9xhguBBgxI",
-    "streamUrl": "https://www.youtube.com/watch?v=v9xhguBBgxI"
   }
 ]
