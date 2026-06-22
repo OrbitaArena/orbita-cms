@@ -1,17 +1,5 @@
 [
   {
-    "id": "copa-00",
-    "title": "AO VIVO: BRASIL X ESCÓCIA",
-    "badge": "CazéTV",
-    "dateTime": "24 JUN - 19:00",
-    "category": "COPA 2026",
-    "image": "https://i.ytimg.com/vi/dxYTTxhgVNU/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "AO VIVO: BRASIL X ESCÓCIA | COPA DO MUNDO FIFA™ 2026 | 3ª RODADA | FASE DE GRUPOS",
-    "youtubeId": "dxYTTxhgVNU",
-    "streamUrl": "https://www.youtube.com/watch?v=dxYTTxhgVNU"
-  },
-  {
     "id": "copa-01",
     "title": "AO VIVO: ARGENTINA x ÁUSTRIA",
     "badge": "CazéTV",
@@ -34,6 +22,18 @@
     "videoUrlPlaceholder": "AO VIVO: FRANÇA X IRAQUE | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
     "youtubeId": "tvijPHlN9WE",
     "streamUrl": "https://www.youtube.com/watch?v=tvijPHlN9WE"
+  },
+  {
+    "id": "copa-03",
+    "title": "AO VIVO: NORUEGA X SENEGAL",
+    "badge": "CazéTV",
+    "dateTime": "22 JUN - 21:00",
+    "category": "COPA 2026",
+    "image": "https://i.ytimg.com/vi/OweGZocHnjk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "AO VIVO: NORUEGA X SENEGAL | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
+    "youtubeId": "OweGZocHnjk",
+    "streamUrl": "https://www.youtube.com/watch?v=OweGZocHnjk"
   },
   {
     "id": "live-ldb01",
@@ -70,6 +70,18 @@
     "videoUrlPlaceholder": "LDB 2026 | Basquete Cearense x Campo Mourão | Sede Rio Claro | 22/06/26 | Ao vivo | 20:15",
     "youtubeId": "-vTFDoK-vKI",
     "streamUrl": "https://www.youtube.com/watch?v=-vTFDoK-vKI"
+  },
+  {
+    "id": "copa-00",
+    "title": "AO VIVO: BRASIL X ESCÓCIA",
+    "badge": "CazéTV",
+    "dateTime": "24 JUN - 19:00",
+    "category": "COPA 2026",
+    "image": "https://i.ytimg.com/vi/dxYTTxhgVNU/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "AO VIVO: BRASIL X ESCÓCIA | COPA DO MUNDO FIFA™ 2026 | 3ª RODADA | FASE DE GRUPOS",
+    "youtubeId": "dxYTTxhgVNU",
+    "streamUrl": "https://www.youtube.com/watch?v=dxYTTxhgVNU"
   },
   {
     "id": "live-wnba01",
