@@ -54,7 +54,7 @@
     "dateTime": "22 JUN - 13:30",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/2Kso2DzA89s/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "LDB 2026 | Flamengo x São José Basketball | Sede Mogi das Cruzes | 22/06/26 | Ao vivo | 13:30",
     "youtubeId": "2Kso2DzA89s",
     "streamUrl": "https://www.youtube.com/watch?v=2Kso2DzA89s"
@@ -66,7 +66,7 @@
     "dateTime": "22 JUN - 20:15",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/-vTFDoK-vKI/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "LDB 2026 | Basquete Cearense x Campo Mourão | Sede Rio Claro | 22/06/26 | Ao vivo | 20:15",
     "youtubeId": "-vTFDoK-vKI",
     "streamUrl": "https://www.youtube.com/watch?v=-vTFDoK-vKI"
