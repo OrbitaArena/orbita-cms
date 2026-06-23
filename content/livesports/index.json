@@ -6,7 +6,7 @@
     "dateTime": "23 JUN - 14:00",
     "category": "COPA 2026",
     "image": "https://i.ytimg.com/vi/vTnBwT_hN5o/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "AO VIVO: PORTUGAL X UZBEQUISTÃO | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
     "youtubeId": "vTnBwT_hN5o",
     "streamUrl": "https://www.youtube.com/watch?v=vTnBwT_hN5o"
@@ -18,7 +18,7 @@
     "dateTime": "23 JUN - 17:00",
     "category": "COPA 2026",
     "image": "https://i.ytimg.com/vi/pmWqrAV3PXo/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "AO VIVO: INGLATERRA X GANA | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
     "youtubeId": "pmWqrAV3PXo",
     "streamUrl": "https://www.youtube.com/watch?v=pmWqrAV3PXo"
@@ -42,7 +42,7 @@
     "dateTime": "23 JUN - 13:30",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/Wf7JIWX85aE/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "LDB 2026 | Pato Basquete x Flamengo | Sede Mogi das Cruzes | 23/06/26 | Ao vivo | 13:30",
     "youtubeId": "Wf7JIWX85aE",
     "streamUrl": "https://www.youtube.com/watch?v=Wf7JIWX85aE"
