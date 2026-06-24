@@ -1,77 +1,5 @@
 [
   {
-    "id": "copa-01",
-    "title": "AO VIVO: PORTUGAL X UZBEQUISTÃO",
-    "badge": "CazéTV",
-    "dateTime": "23 JUN - 14:00",
-    "category": "COPA 2026",
-    "image": "https://i.ytimg.com/vi/vTnBwT_hN5o/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "AO VIVO: PORTUGAL X UZBEQUISTÃO | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
-    "youtubeId": "vTnBwT_hN5o",
-    "streamUrl": "https://www.youtube.com/watch?v=vTnBwT_hN5o"
-  },
-  {
-    "id": "copa-02",
-    "title": "AO VIVO: INGLATERRA X GANA",
-    "badge": "CazéTV",
-    "dateTime": "23 JUN - 17:00",
-    "category": "COPA 2026",
-    "image": "https://i.ytimg.com/vi/pmWqrAV3PXo/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "AO VIVO: INGLATERRA X GANA | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPOS",
-    "youtubeId": "pmWqrAV3PXo",
-    "streamUrl": "https://www.youtube.com/watch?v=pmWqrAV3PXo"
-  },
-  {
-    "id": "copa-03",
-    "title": "AO VIVO: PANAMÁ X CROÁCIA",
-    "badge": "CazéTV",
-    "dateTime": "23 JUN - 20:00",
-    "category": "COPA 2026",
-    "image": "https://i.ytimg.com/vi/WUvxr2xCpjQ/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "AO VIVO: PANAMÁ X CROÁCIA | COPA DO MUNDO FIFA™ 2026 | 2ª RODADA | FASE DE GRUPO",
-    "youtubeId": "WUvxr2xCpjQ",
-    "streamUrl": "https://www.youtube.com/watch?v=WUvxr2xCpjQ"
-  },
-  {
-    "id": "live-ldb01",
-    "title": "LDB 2026 | Pato Basquete x Flamengo",
-    "badge": "NBB Caixa",
-    "dateTime": "23 JUN - 13:30",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/Wf7JIWX85aE/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "LDB 2026 | Pato Basquete x Flamengo | Sede Mogi das Cruzes | 23/06/26 | Ao vivo | 13:30",
-    "youtubeId": "Wf7JIWX85aE",
-    "streamUrl": "https://www.youtube.com/watch?v=Wf7JIWX85aE"
-  },
-  {
-    "id": "live-ldb02",
-    "title": "LDB 2026 | Mogi x Vasco",
-    "badge": "NBB Caixa",
-    "dateTime": "23 JUN - 20:15",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/_0rhk0R32ug/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "LDB 2026 | Mogi x Vasco | Sede Mogi das Cruzes | 23/06/26 | Ao vivo | 20:15",
-    "youtubeId": "_0rhk0R32ug",
-    "streamUrl": "https://www.youtube.com/watch?v=_0rhk0R32ug"
-  },
-  {
-    "id": "live-ldb03",
-    "title": "LDB 2026 |Pinheiros x Basquete Cearense",
-    "badge": "NBB Caixa",
-    "dateTime": "22 JUN - 20:15",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/rIj6W5oFiwY/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "LDB 2026 |Pinheiros x Basquete Cearense | Sede Rio Claro | 23/06/26 | Ao vivo | 20:15",
-    "youtubeId": "rIj6W5oFiwY",
-    "streamUrl": "https://www.youtube.com/watch?v=rIj6W5oFiwY"
-  },
-  {
     "id": "copa-00",
     "title": "AO VIVO: BRASIL X ESCÓCIA",
     "badge": "CazéTV",
@@ -94,6 +22,54 @@
     "videoUrlPlaceholder": "Prepare-se para assistir a uma partida incrível entre Portland Fire e Chicago Sky!",
     "youtubeId": "WQiXmsJPlnM",
     "streamUrl": "https://www.youtube.com/watch?v=WQiXmsJPlnM"
+  },
+  {
+    "id": "live-nba",
+    "title": "NBA DRAFT 2026 AO VIVO",
+    "badge": "NBA Brasil",
+    "dateTime": "23 JUN - 20:30",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/a3T5QOPBZWg/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "NBA DRAFT 2026 AO VIVO ⭐️ AJ DYBANTSA É A PRIMEIRA ESCOLHA + Análises!",
+    "youtubeId": "a3T5QOPBZWg",
+    "streamUrl": "https://www.youtube.com/watch?v=a3T5QOPBZWg"
+  },
+  {
+    "id": "live-ldb01",
+    "title": "LDB 2026 | Pato Basquete x Flamengo",
+    "badge": "NBB Caixa",
+    "dateTime": "23 JUN - 13:30",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/Wf7JIWX85aE/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "LDB 2026 | Pato Basquete x Flamengo | Sede Mogi das Cruzes | 23/06/26 | Ao vivo | 13:30",
+    "youtubeId": "Wf7JIWX85aE",
+    "streamUrl": "https://www.youtube.com/watch?v=Wf7JIWX85aE"
+  },
+  {
+    "id": "live-ldb02",
+    "title": "LDB 2026 | Mogi x Vasco",
+    "badge": "NBB Caixa",
+    "dateTime": "23 JUN - 20:15",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/r3etd6O8pCs/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "LDB 2026 | Mogi x Vasco | Sede Mogi das Cruzes | 23/06/26 | Ao vivo | 20:15",
+    "youtubeId": "r3etd6O8pCs",
+    "streamUrl": "https://www.youtube.com/watch?v=r3etd6O8pCs"
+  },
+  {
+    "id": "live-ldb03",
+    "title": "LDB 2026 |Pinheiros x Basquete Cearense",
+    "badge": "NBB Caixa",
+    "dateTime": "22 JUN - 20:15",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/rIj6W5oFiwY/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "LDB 2026 |Pinheiros x Basquete Cearense | Sede Rio Claro | 23/06/26 | Ao vivo | 20:15",
+    "youtubeId": "rIj6W5oFiwY",
+    "streamUrl": "https://www.youtube.com/watch?v=rIj6W5oFiwY"
   },
   {
     "id": "live-1",
