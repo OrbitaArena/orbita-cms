@@ -78,7 +78,7 @@
     "dateTime": "25 JUN - 09:00",
     "category": "Levantamento de Pesos",
     "image": "https://i.ytimg.com/vi/RIbExOb0v6s/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": live,
+    "isLive": true,
     "videoUrlPlaceholder": "Campeonato Brasileiro Adulto e Sub-20 2026 - Dia 2 (25/06)",
     "youtubeId": "RIbExOb0v6s",
     "streamUrl": "https://www.youtube.com/watch?v=RIbExOb0v6s"
@@ -90,7 +90,7 @@
     "dateTime": "25 JUN - 19:00",
     "category": "Futsal",
     "image": "https://i.ytimg.com/vi/_n2fvZhBbRc/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": live,
+    "isLive": true,
     "videoUrlPlaceholder": "AO VIVO - CAMPEONATO DE FUTSAL DE PORTO BELO 2026 - 4 JOGOS NA SEQUÊNCIA",
     "youtubeId": "_n2fvZhBbRc",
     "streamUrl": "https://www.youtube.com/watch?v=_n2fvZhBbRc"
