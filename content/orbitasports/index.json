@@ -1,0 +1,14 @@
+[
+  {
+      "id": "pll-can-red",
+      "sport": "PLL Lacrosse",
+      "time": "17:00",
+      "date": "27/06",
+      "group": "PLL 2026",
+      "tv": "ESPN+",
+      "youtubeId": "",
+      "teamA": { "name": "Cannons", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122997.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "teamB": { "name": "Redwoods", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127636.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "status": "UPCOMING"
+  }
+]
