@@ -7,8 +7,8 @@
       "group": "US Darts Masters",
       "tv": "PDC TV",
       "youtubeId": "",
-      "teamA": { "name": "Luke Littler", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/2026-03-26_Premier_League_Darts_%E2%80%93_Night_8_%E2%80%93_Berlin_2026_by_Sandro_Halank%E2%80%93168.jpg/500px-2026-03-26_Premier_League_Darts_%E2%80%93_Night_8_%E2%80%93_Berlin_2026_by_Sandro_Halank%E2%80%93168.jpg&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 7 },
-      "teamB": { "name": "Luke Humphries", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2026-03-26_Premier_League_Darts_%E2%80%93_Night_8_%E2%80%93_Berlin_2026_by_Sandro_Halank%E2%80%93049.jpg/500px-2026-03-26_Premier_League_Darts_%E2%80%93_Night_8_%E2%80%93_Berlin_2026_by_Sandro_Halank%E2%80%93049.jpg&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 8 },
+      "teamA": { "name": "Luke Littler", "flag": "", "score": 7 },
+      "teamB": { "name": "Luke Humphries", "flag": "", "score": 8 },
       "status": "FINAL"
   },
   {
