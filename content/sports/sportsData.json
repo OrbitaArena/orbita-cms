@@ -1,0 +1,703 @@
+{
+  "ticker": [
+{
+  "id": "mlb-nyy-bos-2706",
+  "sport": "MLB",
+  "apiId": "401815924",
+  "autoUpdate": true,
+  "league": "Temporada Regular",
+  "status": "UPCOMING",
+  "time": "14:00",
+  "date": "27/06",
+  "seriesInfo": "ESPN",
+  "stadium": "Fenway Park",
+  "location": "Boston",
+  "dateTime": "27 JUN - 14:00",
+  "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+  "group": "MLB",
+  "teamA": {
+    "name": "New York Yankees",
+    "code": "NYY",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Boston Red Sox",
+    "code": "BOS",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/bos.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Corridas-Rebatidas-Erros", "valueA": "0", "valueB": "0", "ratioA": 0 },
+    { "label": "Home Runs", "valueA": "0", "valueB": "0", "ratioA": 0 }
+  ]
+},
+{
+  "id": "wc-cro-gan",
+  "sport": "FIFA",
+  "apiId": "760480",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "18:00",
+  "date": "27/06",
+  "seriesInfo": "Croácia vence no final, na raça",
+  "stadium": "Lincoln Financial Field",
+  "location": "Filadélfia, Pensilvânia, EUA",
+  "dateTime": "27 JUN - 18:00",
+  "group": "Grupo L",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Croácia",
+    "code": "CRO",
+    "flag": "🇭🇷",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Gana",
+    "code": "GAN",
+    "flag": "🇬🇭",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-pan-eng",
+  "sport": "FIFA",
+  "apiId": "760485",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "18:00",
+  "date": "27/06",
+  "seriesInfo": "Harry Kane faz história",
+  "stadium": "MetLife Stadium",
+  "location": "East Rutherford, New Jersey, EUA",
+  "dateTime": "27 JUN - 18:00",
+  "group": "Grupo L",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Panamá",
+    "code": "PAN",
+    "flag": "🇵🇦",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Inglaterra",
+    "code": "ENG",
+    "flag": "🇬🇧",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-col-por",
+  "sport": "FIFA",
+  "apiId": "760481",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "20:30",
+  "date": "27/06",
+  "seriesInfo": "Grande duelo termina com empate sem gols",
+  "stadium": "Hard Rock Stadium",
+  "location": "Miami Gardens, Flórida, EUA",
+  "dateTime": "27 JUN - 20:30",
+  "group": "Grupo K",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Colômbia",
+    "code": "COL",
+    "flag": "🇨🇴",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Portugal",
+    "code": "POR",
+    "flag": "🇵🇹",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-rdc-uzb",
+  "sport": "FIFA",
+  "apiId": "760482",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "20:30",
+  "date": "27/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "Mercedes-Benz Stadium",
+  "location": "Atlanta, Georgia, EUA",
+  "dateTime": "27 JUN - 20:30",
+  "group": "Grupo K",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Congo",
+    "code": "RDC",
+    "flag": "🇨🇬",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Uzbequistão",
+    "code": "UZB",
+    "flag": "🇺🇿",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-alg-aut",
+  "sport": "FIFA",
+  "apiId": "760484",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "23:00",
+  "date": "27/06",
+  "seriesInfo": "Áustria marca nos acréscimos",
+  "stadium": "GEHA Field at Arrowhead Stadium",
+  "location": "Kansas City, Missouri, EUA",
+  "dateTime": "27 JUN - 23:00",
+  "group": "Grupo J",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Argélia",
+    "code": "ALG",
+    "flag": "🇩🇿",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Austria",
+    "code": "AUT",
+    "flag": "🇦🇹",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-jor-arg",
+  "sport": "FIFA",
+  "apiId": "760483",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "23:00",
+  "date": "27/06",
+  "seriesInfo": "Messi marca 19° gol em Copas",
+  "stadium": "AT&T Stadium",
+  "location": "Arlington, Texas, EUA",
+  "dateTime": "27 JUN - 23:00",
+  "group": "Grupo J",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Jordânia",
+    "code": "JOR",
+    "flag": "🇯🇴",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Argentina",
+    "code": "ARG",
+    "flag": "🇦🇷",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-rsa-can",
+  "sport": "FIFA",
+  "apiId": "760486",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "16:00",
+  "date": "28/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "AT&T Stadium",
+  "location": "Inglewood, California, EUA",
+  "dateTime": "28 JUN - 16:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "África do Sul",
+    "code": "RSA",
+    "flag": "🇿🇦",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Canadá",
+    "code": "CAN",
+    "flag": "🇨🇦",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "serieb-juv-csc",
+  "sport": "SÉRIE B",
+  "apiId": "401874002",
+  "autoUpdate": true,
+  "league": "Brasileiro Série B",
+  "status": "UPCOMING",
+  "time": "16:00",
+  "date": "28/06",
+  "seriesInfo": "Disney+",
+  "stadium": "Alfredo Jaconi",
+  "location": "Caxias do Sul, Brasil",
+  "dateTime": "28 JUN - 16:00",
+  "group": "Série B",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Juventude",
+    "code": "JUV",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Ceará",
+    "code": "CEA",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "serieb-for-spo",
+  "sport": "SÉRIE B",
+  "apiId": "401873971",
+  "autoUpdate": true,
+  "league": "Brasileiro Série B",
+  "status": "UPCOMING",
+  "time": "18:30",
+  "date": "28/06",
+  "seriesInfo": "Disney+, SportyNet",
+  "stadium": "Arena Castelão",
+  "location": "Fortaleza, CE - Brasil",
+  "dateTime": "28 JUN - 16:00",
+  "group": "Série B",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Fortaleza",
+    "code": "FOR",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Sport",
+    "code": "SPO",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7635.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "mlb-nyy-bos-2806",
+  "sport": "MLB",
+  "apiId": "401815939",
+  "autoUpdate": true,
+  "league": "Temporada Regular",
+  "status": "UPCOMING",
+  "time": "20:20",
+  "date": "28/06",
+  "seriesInfo": "ESPN",
+  "stadium": "Fenway Park",
+  "location": "Boston",
+  "dateTime": "28 JUN - 20:20",
+  "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+  "group": "MLB",
+  "teamA": {
+    "name": "New York Yankees",
+    "code": "NYY",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Boston Red Sox",
+    "code": "BOS",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/bos.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Corridas-Rebatidas-Erros", "valueA": "0", "valueB": "0", "ratioA": 0 },
+    { "label": "Home Runs", "valueA": "0", "valueB": "0", "ratioA": 0 }
+  ]
+},
+{
+  "id": "wc-bra-jpn",
+  "sport": "FIFA",
+  "apiId": "760487",
+  "autoUpdate": true,
+  "featured": true,
+  "title": "Agora é MATA-MATA!",
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "14:00",
+  "date": "29/06",
+  "seriesInfo": "CazéTV, SBT, Canais Globo",
+  "stadium": "NRG Stadium",
+  "location": "Houston, Texas, EUA",
+  "dateTime": "29 JUN - 14:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Brasil",
+    "code": "BRA",
+    "flag": "🇧🇷",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Japão",
+    "code": "JPN",
+    "flag": "🇯🇵",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-ale-par",
+  "sport": "FIFA",
+  "apiId": "760489",
+  "autoUpdate": true,
+  "title": "Agora é MATA-MATA!",
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "17:30",
+  "date": "29/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "Gillette Stadium",
+  "location": "Foxborough, Massachusetts, EUA",
+  "dateTime": "29 JUN - 17:30",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Alemanha",
+    "code": "ALE",
+    "flag": "🇩🇪",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Paraguai",
+    "code": "PAR",
+    "flag": "🇵🇾",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "mlb-tex-cle-2906",
+  "sport": "MLB",
+  "apiId": "401815955",
+  "autoUpdate": true,
+  "league": "Temporada Regular",
+  "status": "UPCOMING",
+  "time": "20:00",
+  "date": "29/06",
+  "seriesInfo": "ESPN",
+  "stadium": "Progressive Field",
+  "location": "Cleveland, Ohio",
+  "dateTime": "29 JUN - 20:00",
+  "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+  "group": "MLB",
+  "teamA": {
+    "name": "Texas Rangers",
+    "code": "TEX",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tex.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Cleveland Guardians",
+    "code": "CLE",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&scale=crop&cquality=40&location=origin&w=40&h=40",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Corridas-Rebatidas-Erros", "valueA": "0", "valueB": "0", "ratioA": 0 },
+    { "label": "Home Runs", "valueA": "0", "valueB": "0", "ratioA": 0 }
+  ]
+},
+{
+  "id": "wc-hol-mar",
+  "sport": "FIFA",
+  "apiId": "760488",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "22:00",
+  "date": "29/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "Estadio BBVA",
+  "location": "Guadalupe, México",
+  "dateTime": "29 JUN - 22:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Holanda",
+    "code": "HOL",
+    "flag": "🇳🇱",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Marrocos",
+    "code": "MAR",
+    "flag": "🇲🇦",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-cdm-nor",
+  "sport": "FIFA",
+  "apiId": "760490",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "14:00",
+  "date": "30/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "AT&T Stadium",
+  "location": "Arlington, Texas, EUA",
+  "dateTime": "30 JUN - 14:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Costa do Marfim",
+    "code": "CDM",
+    "flag": "🇨🇮",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Noruega",
+    "code": "NOR",
+    "flag": "🇳🇴",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-fra-swe",
+  "sport": "FIFA",
+  "apiId": "760492",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "18:00",
+  "date": "30/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "MetLife Stadium",
+  "location": "East Rutherford, New Jersey, EUA",
+  "dateTime": "30 JUN - 18:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "França",
+    "code": "FRA",
+    "flag": "🇫🇷",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Suécia",
+    "code": "SWE",
+    "flag": "🇸🇪",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "wc-mex-equ",
+  "sport": "FIFA",
+  "apiId": "760491",
+  "autoUpdate": true,
+  "league": "Copa do Mundo",
+  "status": "UPCOMING",
+  "time": "22:00",
+  "date": "30/06",
+  "seriesInfo": "CazéTV",
+  "stadium": "Estadio Banorte",
+  "location": "Cidade do México, México",
+  "dateTime": "30 JUN - 22:00",
+  "group": "16 avos",
+  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "México",
+    "code": "MEX",
+    "flag": "🇲🇽",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Equador",
+    "code": "EQU",
+    "flag": "🇪🇨",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+}
+],
+  "todayMatches": [
+    {
+      "id": "wc-rsa-can",
+      "sport": "FIFA",
+      "apiId": "760486",
+      "autoUpdate": true,
+      "time": "16:00",
+      "group": "Copa do Mundo",
+      "stadium": "AT&T Stadium",
+      "tv": "CazéTV",
+      "teamA": { "name": "África do Sul", "flag": "🇿🇦", "score": 0 },
+      "teamB": { "name": "Canadá", "flag": "🇨🇦", "score": 0 },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "serieb-juv-csc",
+      "sport": "FIFA",
+      "apiId": "401874002",
+      "autoUpdate": true,
+      "time": "16:00",
+      "group": "Brasileiro Série B",
+      "stadium": "Alfredo Jaconi",
+      "tv": "Disney+",
+      "teamA": { "name": "Juventude", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "teamB": { "name": "CearáSC", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "serieb-for-spo",
+      "sport": "FIFA",
+      "apiId": "401873971",
+      "autoUpdate": true,
+      "time": "18:30",
+      "group": "Brasileiro Série B",
+      "stadium": "Arena Castelão",
+      "tv": "Disney+, SportyNet",
+      "teamA": { "name": "Fortaleza", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "teamB": { "name": "Sport", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7635.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "mlb-nyy-bos-2806",
+      "sport": "MLB",
+      "apiId": "401815939",
+      "autoUpdate": true,
+      "time": "20:20",
+      "group": "MLB",
+      "stadium": "Fenway Park",
+      "tv": "ESPN / Disney+",
+      "teamA": { "name": "New York Yankees", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "teamB": { "name": "Boston Red Sox", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/bos.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 0 },
+      "status": "UPCOMING"
+    }
+  ]
+}
