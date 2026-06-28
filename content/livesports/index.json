@@ -46,7 +46,6 @@
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/eCcpSIcGUVo/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
-    "featured": true,
     "videoUrlPlaceholder": "LDB 2026 | B.Cearense/Minas x Bauru Basket/LSB | Sede Rio Claro | 27/06/26 | Ao vivo | 15:45",
     "youtubeId": "eCcpSIcGUVo",
     "streamUrl": "https://www.youtube.com/watch?v=eCcpSIcGUVo"
@@ -131,6 +130,7 @@
     "category": "Bocha",
     "image": "https://i.ytimg.com/vi/3dcIE-Jptfk/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
+    "featured": true,
     "videoUrlPlaceholder": "Final Regional Boteco do Gerson em Mariano Moro. Vasco da Bocha x São Paulo B",
     "youtubeId": "3dcIE-Jptfk",
     "streamUrl": "https://www.youtube.com/watch?v=3dcIE-Jptfk"
