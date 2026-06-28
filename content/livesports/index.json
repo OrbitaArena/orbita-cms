@@ -26,6 +26,32 @@
     "streamUrl": ""
   },
   {
+    "id": "live-baseball002",
+    "title": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL DIAMANTE AO VIVO ⚾",
+    "badge": "Terrão TV",
+    "dateTime": "28 JUN - 10:30",
+    "category": "Baseball",
+    "image": "",
+    "isLive": true,
+    "featured": true,
+    "videoUrlPlaceholder": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL (CHAVE DIAMANTE) AO VIVO ⚾🏆 | 40º Torneio Internacional ACRILEX de Beisebol",
+    "youtubeId": "ifnUVc0bQog",
+    "streamUrl": ""
+  },
+  {
+    "id": "live-basquete001",
+    "title": "Brewers x Athletics - Final - Série Ouro",
+    "badge": "Franca Esportes",
+    "dateTime": "28 JUN - 11:00",
+    "category": "Basquete",
+    "image": "",
+    "isLive": false,
+    "featured": false,
+    "videoUrlPlaceholder": "Brewers x Athletics - Final - Série Ouro - Copa Franca de Basquete 2026",
+    "youtubeId": "cTBy0QM8KXE",
+    "streamUrl": ""
+  },
+  {
     "id": "live-darts002",
     "title": "Hylo PDC Europe NEXT GEN 2026 - Event 08",
     "badge": "Professional Darts Corporation Europe",
@@ -39,29 +65,16 @@
     "streamUrl": ""
   },
   {
-    "id": "live-baseball002",
-    "title": "GECEBS 🆚 NIKKEI CURITIBA – SEMIFINAL AO VIVO ⚾",
-    "badge": "Terrão TV",
-    "dateTime": "28 JUN - 08:00",
-    "category": "Baseball",
+    "id": "live-darts003",
+    "title": "FINALS EASTERN EUROPEAN DARTS CHALLENGE 2026",
+    "badge": "Federatia Romana de Darts",
+    "dateTime": "28 JUN - 12:00",
+    "category": "Dardos",
     "image": "",
     "isLive": true,
-    "featured": true,
-    "videoUrlPlaceholder": "GECEBS 🆚 NIKKEI CURITIBA – SEMIFINAL AO VIVO ⚾🔥 | 40º Torneio Internacional ACRILEX de Beisebol",
-    "youtubeId": "8o8Y6XE8Uog",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-baseball003",
-    "title": "GUARARAPES 🆚 ANHANGUERA – SEMIFINAL AO VIVO ⚾",
-    "badge": "Terrão TV",
-    "dateTime": "28 JUN - 10:00",
-    "category": "Baseball",
-    "image": "",
-    "isLive": true,
-    "featured": true,
-    "videoUrlPlaceholder": "GUARARAPES 🆚 ANHANGUERA – SEMIFINAL AO VIVO ⚾🔥 | 40º Torneio Internacional ACRILEX de Beisebol",
-    "youtubeId": "A5azy04up6s",
+    "featured": false,
+    "videoUrlPlaceholder": "FINALS EASTERN EUROPEAN DARTS CHALLENGE 2026",
+    "youtubeId": "37w5ilvgw8o",
     "streamUrl": ""
   },
   {
@@ -78,10 +91,36 @@
     "streamUrl": ""
   },
   {
+    "id": "live-volei001",
+    "title": "FINAL MASCULINO - 6ª ETAPA CIRCUITO PAULISTA",
+    "badge": "VAMO TV",
+    "dateTime": "28 JUN - 14:00",
+    "category": "Beach Tennis",
+    "image": "",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "FINAL: GIANPIERO BELO/ LUCAS LIMA X GABRIEL FURKOTTER/ GABRIEL SANTOS - 6ª ETAPA CIRCUITO PAULISTA",
+    "youtubeId": "PqkTxBRsIBw",
+    "streamUrl": ""
+  },
+  {
+    "id": "live-volei002",
+    "title": "FINAL FEMININA - 6ª ETAPA CIRCUITO PAULISTA",
+    "badge": "VAMO TV",
+    "dateTime": "28 JUN - 15:30",
+    "category": "Beach Tennis",
+    "image": "",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "FINAL FEMININA - 6ª ETAPA CIRCUITO PAULISTA",
+    "youtubeId": "BCSuo0Hb70c",
+    "streamUrl": ""
+  },
+  {
     "id": "live-futeba001",
     "title": "FORTALEZA X SPORT: AO VIVO E COM IMAGENS | RODADA 15 | SÉRIE B",
     "badge": "SportyNet",
-    "dateTime": "28 JUN - 13:50",
+    "dateTime": "28 JUN - 16:00",
     "category": "Futebol",
     "image": "",
     "isLive": true,
