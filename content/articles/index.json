@@ -6,7 +6,7 @@
     "summary": "Alguns olham para o esporte e enxergam apenas placares. Nós enxergamos histórias.",
     "imageUrl": "https://64.media.tumblr.com/9e7d7f80029a822bd1e643c5d64fdc93/ea81ca78e5184cfe-58/s2048x3072/8cef829d62f4094aded1996155cea94830fed0d0.jpg?auto=format&fit=crop&q=80&w=600",
     "status": "published",
-    "publishDate": "2026-06-15T08:30:00.000Z",
+    "publishDate": "2026-06-10T08:30:00.000Z",
     "authorId": "orb",
     "categoryId": "arenautas",
     "competitionId": "",
@@ -42,5 +42,100 @@ Porque enquanto alguns acompanham esportes…
 Nós exploramos universos.
 
 Órbita Arena: Tudo gira em torno do jogo."
+  },
+  {
+    "id": "knicks-campeao-nba-2026",
+    "slug": "knicks-conquistam-o-titulo-da-nba-2026",
+    "title": "Knicks conquistam o título da NBA com atuação dominante de Jalen Brunson",
+    "summary": "Nova York volta ao topo da NBA após vencer a série final por 4 a 1, liderada por mais uma atuação decisiva de Jalen Brunson.",
+    "imageUrl": "https://64.media.tumblr.com/891a96121205e439b8da50af5c1ca1f5/2771c74e47348db7-22/s1280x1920/bf16bf31a330c6eb57cb712926ee36972953d0c4.jpg?auto=format&fit=crop&q=80&w=600",
+    "status": "published",
+    "publishDate": "2026-06-14T10:30:00.000Z",
+    "authorId": "orb",
+    "categoryId": "nba",
+    "competitionId": "",
+    "clubIds": [""],
+    "playerIds": [""],
+    "tagIds": ["nba"],
+    "featured": false,
+    "content": "Depois de décadas de espera, Nova York volta a celebrar.
+
+Os Knicks encerraram a temporada da NBA da melhor forma possível: levantando o troféu após fechar a série final em 4 a 1, coroando uma campanha marcada por consistência, defesa forte e liderança dentro de quadra.
+
+O nome da conquista atende por Jalen Brunson.
+
+O armador comandou o time durante toda a pós-temporada e voltou a ser decisivo na partida que garantiu o título. Com controle do ritmo, eficiência ofensiva e liderança nos momentos mais importantes, Brunson confirmou o protagonismo que construiu ao longo da temporada.
+
+A campanha dos Knicks foi baseada no coletivo. Defesa intensa, boa movimentação ofensiva e profundidade do elenco transformaram a equipe em uma das mais regulares dos playoffs.
+
+Para a franquia, o título representa muito mais do que uma conquista esportiva. É o fim de uma longa espera e o retorno de uma das cidades mais tradicionais do basquete ao centro do cenário da NBA.
+
+Agora, a pergunta muda.
+
+Não é mais quando Nova York voltará a vencer.
+
+É quem conseguirá tirar os Knicks do topo.
+
+Orb observa: alguns títulos encerram temporadas. Outros iniciam uma nova era."
+  },
+  {
+    "id": "champions-betvictor-world-cup",
+    "slug": "inglaterra-conquista-o-hexa-da-betvictor-world-cup",
+    "title": "Inglaterra conquista o HEXA da BetVictor World Cup of Darts 2026",
+    "summary": "Com Luke Littler e Luke Humphries inspirados, a Inglaterra conquista o sexto título da Copa do Mundo de Dardos e amplia sua hegemonia na competição.",
+    "imageUrl": "https://64.media.tumblr.com/aa34e1c03177b71ea0597541b2db5b41/cff78525b3a6a32c-0b/s1280x1920/6fc3842016d8a994baca600453afdf3e93b2985f.jpg?auto=format&fit=crop&q=80&w=600",
+    "status": "published",
+    "publishDate": "2026-06-15T10:30:00.000Z",
+    "authorId": "orb",
+    "categoryId": "darts",
+    "competitionId": "",
+    "clubIds": [""],
+    "playerIds": [""],
+    "tagIds": ["dardos", "betvictor"],
+    "featured": false,
+    "content": "Algumas modalidades vivem longe dos grandes holofotes. Mas não da grandeza.
+
+A Inglaterra voltou a confirmar sua tradição nos dardos ao conquistar o título da BetVictor World Cup of Darts 2026, chegando ao seu sexto troféu na principal competição de seleções organizada pela PDC.
+
+A dupla formada por Luke Littler e Luke Humphries mostrou alto nível técnico durante todo o torneio e confirmou o favoritismo na decisão.
+
+Com precisão, controle emocional e aproveitamento elevado nas finalizações, os ingleses dominaram os momentos decisivos e garantiram mais um capítulo na história da modalidade, com vitória por 10-5.
+
+O título reforça a força da Inglaterra em um esporte que cresce em audiência, premiação e alcance internacional a cada temporada. Ao mesmo tempo, evidencia uma nova geração de atletas que já disputa espaço entre os maiores nomes da história dos dardos.
+
+Enquanto muitos esportes vivem de força física, os dardos lembram que concentração, estratégia e precisão também constroem campeões.
+
+Na Órbita Arena, toda modalidade que move milhões de apaixonados merece sua própria órbita.
+
+Orb observa: o esporte muda de cenário. A excelência continua reconhecível em qualquer arena."
+  },
+  {
+    "id": "stanleycup-campeao-2026",
+    "slug": "carolina-hurricanes-bicampeonato-stanleycup",
+    "title": "Carolina Hurricanes conquistam o bicampeonato da Stanley Cup e consolidam nova potência da NHL",
+    "summary": "Com uma campanha consistente e dominante nos playoffs, o Carolina Hurricanes levanta a Stanley Cup pelo segundo ano consecutivo e confirma sua posição entre as grandes forças da NHL.",
+    "imageUrl": "https://64.media.tumblr.com/aa34e1c03177b71ea0597541b2db5b41/cff78525b3a6a32c-0b/s1280x1920/6fc3842016d8a994baca600453afdf3e93b2985f.jpg?auto=format&fit=crop&q=80&w=600",
+    "status": "published",
+    "publishDate": "2026-06-15T11:30:00.000Z",
+    "authorId": "orb",
+    "categoryId": "nhl",
+    "competitionId": "",
+    "clubIds": [""],
+    "playerIds": [""],
+    "tagIds": ["nhl", "stanley cup"],
+    "featured": false,
+    "content": "Algumas conquistas representam um título. Outras confirmam uma era.
+
+O Carolina Hurricanes voltou ao topo da NHL ao conquistar o bicampeonato da Stanley Cup, encerrando mais uma temporada de alto nível e reforçando sua posição entre as franquias mais consistentes do hóquei no gelo.
+
+A equipe mostrou equilíbrio durante toda a campanha. Defesa sólida, velocidade nas transições e eficiência ofensiva marcaram uma trajetória que culminou em mais uma celebração diante de sua torcida.
+
+Nos playoffs, os Hurricanes mantiveram a identidade construída ao longo da temporada regular: intensidade em cada troca de linhas, disciplina tática e capacidade para decidir partidas equilibradas nos momentos mais importantes.
+
+O bicampeonato também simboliza a consolidação do projeto esportivo da franquia. Em uma liga marcada pelo equilíbrio e pela dificuldade de repetir conquistas, voltar a levantar a Stanley Cup no ano seguinte demonstra planejamento, profundidade do elenco e continuidade técnica.
+
+Agora, o desafio muda de dimensão. Depois de conquistar o topo pela segunda vez consecutiva, o Carolina Hurricanes entra na próxima temporada como o principal alvo das demais franquias da NHL.
+
+Orb observa: conquistar um título exige talento. Permanecer no topo exige uma cultura vencedora."
   }
 ]
