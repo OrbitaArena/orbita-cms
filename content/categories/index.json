@@ -12,10 +12,13 @@
   { "id": "nhl", "name": "NHL", "slug": "nhl" },
   { "id": "mlb", "name": "MLB", "slug": "mlb" },
   { "id": "nba", "name": "NBA", "slug": "nba" },
-  { "id": "nba", "name": "Cornhole", "slug": "cornhole" },
-  { "id": "nba", "name": "Dardos", "slug": "dardos" },
-  { "id": "nba", "name": "Handebol", "slug": "handebol" },
-  { "id": "nba", "name": "Badminton", "slug": "badminton" },
+  { "id": "curling", "name": "Curling", "slug": "curling" },
+  { "id": "cornhole", "name": "Cornhole", "slug": "cornhole" },
+  { "id": "darts", "name": "Dardos", "slug": "dardos" },
+  { "id": "handball", "name": "Handebol", "slug": "handebol" },
+  { "id": "badminton", "name": "Badminton", "slug": "badminton" },
+  { "id": "lacrosse", "name": "Lacrosse", "slug": "lacrosse" },
   { "id": "olimpicos", "name": "Esportes Olímpicos", "slug": "esportes-olimpicos" },
-  { "id": "college", "name": "NCAA College", "slug": "college" }
+  { "id": "college", "name": "NCAA College", "slug": "college" },
+  { "id": "bocha", "name": "Bocha", "slug": "bocha" }
 ]
