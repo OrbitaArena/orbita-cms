@@ -1,5 +1,31 @@
 [
   {
+    "id": "live-copa001",
+    "title": "AO VIVO: BRASIL X JAPÃO",
+    "badge": "CazéTV",
+    "dateTime": "29 JUN - 14:00",
+    "category": "Copa do Mundo",
+    "image": "",
+    "isLive": true,
+    "featured": true,
+    "videoUrlPlaceholder": "AO VIVO: BRASIL X JAPÃO | COPA DO MUNDO FIFA™ 2026 | 16 AVOS DE FINAL",
+    "youtubeId": "XL2jTQdj134",
+    "streamUrl": ""
+  },
+  {
+    "id": "live-darts003",
+    "title": "Live Darts | Series 14 Week 10 | Group A Session 10",
+    "badge": "MODUS Super Series Darts",
+    "dateTime": "29 JUN - 05:30",
+    "category": "Dardos",
+    "image": "",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "THE THORN HAS RETURNED! 😱👏 | Live Darts | Series 14 Week 10 | Group A Session 10",
+    "youtubeId": "IfEDL_cFmA4",
+    "streamUrl": ""
+  },
+  {
     "id": "live-fa001",
     "title": "FINAL DO CAMPEONATO FEMININO PR DE FUTEBOL AMERICANO - CURITIBA SILVERHAWKS X CURITIBA PHOENIX",
     "badge": "Piah TV",
@@ -10,19 +36,6 @@
     "featured": true,
     "videoUrlPlaceholder": "FINAL DO CAMPEONATO FEMININO PR DE FUTEBOL AMERICANO - CURITIBA SILVERHAWKS X CURITIBA PHOENIX",
     "youtubeId": "WzT5OcElA38",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-darts001",
-    "title": "Winmau Championship - North - Event 7",
-    "badge": "ADC - Amateur Darts Circuit",
-    "dateTime": "28 JUN - 08:30",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": true,
-    "videoUrlPlaceholder": "Winmau Championship - North - Event 7",
-    "youtubeId": "VIiatxE6aJ4",
     "streamUrl": ""
   },
   {
@@ -39,6 +52,19 @@
     "streamUrl": ""
   },
   {
+    "id": "live-fa002",
+    "title": "FINAL DO CAMPEONATO PR DE FUTEBOL AMERICANO - CORITIBA CROCODILES X CURITIBA BROWN SPIDERS",
+    "badge": "Piah TV",
+    "dateTime": "28 JUN - 13:50",
+    "category": "Futebol Americano",
+    "image": "",
+    "isLive": false,
+    "featured": true,
+    "videoUrlPlaceholder": "FINAL DO CAMPEONATO PARANAENSE DE FUTEBOL AMERICANO - CORITIBA CROCODILES X CURITIBA BROWN SPIDERS",
+    "youtubeId": "RiXJFspdwLU",
+    "streamUrl": ""
+  },
+  {
     "id": "live-basquete001",
     "title": "Brewers x Athletics - Final - Série Ouro",
     "badge": "Franca Esportes",
@@ -49,6 +75,19 @@
     "featured": false,
     "videoUrlPlaceholder": "Brewers x Athletics - Final - Série Ouro - Copa Franca de Basquete 2026",
     "youtubeId": "cTBy0QM8KXE",
+    "streamUrl": ""
+  },
+  {
+    "id": "live-darts001",
+    "title": "Winmau Championship - North - Event 7",
+    "badge": "ADC - Amateur Darts Circuit",
+    "dateTime": "28 JUN - 08:30",
+    "category": "Dardos",
+    "image": "",
+    "isLive": false,
+    "featured": true,
+    "videoUrlPlaceholder": "Winmau Championship - North - Event 7",
+    "youtubeId": "VIiatxE6aJ4",
     "streamUrl": ""
   },
   {
@@ -75,19 +114,6 @@
     "featured": false,
     "videoUrlPlaceholder": "FINALS EASTERN EUROPEAN DARTS CHALLENGE 2026",
     "youtubeId": "37w5ilvgw8o",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-fa002",
-    "title": "FINAL DO CAMPEONATO PR DE FUTEBOL AMERICANO - CORITIBA CROCODILES X CURITIBA BROWN SPIDERS",
-    "badge": "Piah TV",
-    "dateTime": "28 JUN - 13:50",
-    "category": "Futebol Americano",
-    "image": "",
-    "isLive": false,
-    "featured": true,
-    "videoUrlPlaceholder": "FINAL DO CAMPEONATO PARANAENSE DE FUTEBOL AMERICANO - CORITIBA CROCODILES X CURITIBA BROWN SPIDERS",
-    "youtubeId": "RiXJFspdwLU",
     "streamUrl": ""
   },
   {
