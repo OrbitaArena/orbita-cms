@@ -1,0 +1,103 @@
+{
+  "channels": [
+    {
+      "id": "orb-1",
+      "title": "ACL Cornhole TV",
+      "category": "LIVE STREAM",
+      "badge": "STREAMSTAK",
+      "image": "https://images.unsplash.com/photo-1663436296083-74ed6002b885?auto=format&fit=crop&q=80&w=500",
+      "summary": "O canal oficial da American Cornhole League. Assista a torneios profissionais de cornhole, perfis de jogadores e conteúdo exclusivo dos bastidores da principal organização de cornhole do mundo.",
+      "viewers": "AO VIVO",
+      "isLive": true,
+      "videoUrlPlaceholder": "ACL Cornhole TV",
+      "youtubeId": "",
+      "streamUrl": "https://streamstak.com/aclcornholetv"
+    },
+    {
+      "id": "orb-2",
+      "title": "Terrão TV",
+      "category": "LIVE STREAM",
+      "badge": "TWITCH",
+      "image": "https://i.ytimg.com/vi/N65VsooWWoI/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "summary": "Transmissão esportiva ao vivo com imagens: softbol, beisebol, futebol, lutas e esportes do terrão.",
+      "viewers": "AO VIVO",
+      "isLive": true,
+      "videoUrlPlaceholder": "Terrão TV | AO VIVO 🥎⚾⚽🥊",
+      "youtubeId": "",
+      "streamUrl": "https://www.twitch.tv/terraotv"
+    },
+    {
+      "id": "orb-3",
+      "title": "GPTV 24H",
+      "category": "LIVE STREAM",
+      "badge": "YOUTUBE",
+      "image": "https://i.ytimg.com/vi/UXpso0fw8KI/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+      "summary": "GPTV: A CASA DO AUTOMOBILISMO 24 HORAS! Aqui a velocidade não para! Somos a única emissora com sinal aberto 24h dedicada ao esporte a motor.",
+      "viewers": "AO VIVO",
+      "isLive": true,
+      "videoUrlPlaceholder": "COPA AO VIVO? NÃO! 24H DE LE MANS, F1, MOTOGP E MUITO MAIS",
+      "youtubeId": "UXpso0fw8KI",
+      "streamUrl": "https://www.youtube.com/watch?v=UXpso0fw8KI"
+    },
+    {
+      "id": "orb-4",
+      "title": "ACL Cornhole - Signature Open",
+      "category": "TORNEIOS",
+      "badge": "YOUTUBE",
+      "image": "https://i.ytimg.com/vi/okvyVPYtv00/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+      "summary": "Semana 3 dos Times Profissionais no evento Fort Worth Signature Open.",
+      "viewers": "540 assistindo",
+      "isLive": false,
+      "videoUrlPlaceholder": "Pro Teams Week 3 - Fort Worth Signature Open",
+      "youtubeId": "okvyVPYtv00",
+      "streamUrl": "https://www.youtube.com/watch?v=okvyVPYtv00"
+    }
+  ],
+  "videoHighlights": [
+    {
+      "id": "vid-1",
+      "title": "🎯 Inglaterra conquista o HEXA na Copa do Mundo",
+      "duration": "02:54",
+      "image": "https://e0.365dm.com/26/06/2048x1152/skysports-darts-world-cup-of-darts_7273508.jpg?auto=format&fit=crop&q=80&w=500",
+      "category": "DARDOS",
+      "youtubeId": "HSZhVa8RQus",
+      "description": "Luke Littler e Luke Humphries levantam o troféu da Copa do Mundo de Dardos ",
+      "likes": "2.4k",
+      "hasFlame": true
+    },
+    {
+      "id": "vid-2",
+      "title": "🏀 Knicks conquistam o título da NBA",
+      "duration": "15:12",
+      "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0614%2Fr1672783_1296x729_16%2D9.jpg?auto=format&fit=crop&q=80&w=500",
+      "category": "NBA PLAYOFFS",
+      "youtubeId": "88DXQo8Azck",
+      "description": "BRUNSON FAZ LOUCURAS, KNICKS VIRAM DE NOVO E SÃO CAMPEÕES DA NBA vs. SPURS",
+      "likes": "9.8k",
+      "hasFlame": true
+    }
+    ,
+    {
+      "id": "vid-3",
+      "title": "🏒 Carolina Hurricanes conquistam o título da Stanley Cup",
+      "duration": "18:56",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3nFOfLkDcixzcwB3vCYU313_9q3XFV-3woQqaX60CvIjqHncsuYM4hw&s=10?auto=format&fit=crop&q=80&w=500",
+      "category": "STANLEY CUP",
+      "youtubeId": "p--pDCm9Wbk",
+      "description": "Cerimônia de celebração do bicampeonato do Hurricanes!",
+      "likes": "3.6k",
+      "hasFlame": true
+    },
+    {
+      "id": "vid-4",
+      "title": "MELHORES MOMENTOS: 1° Taça em Homenagem ao Chapolin - Capão Novo",
+      "duration": "7:28",
+      "image": "https://i.ytimg.com/vi/jjS95vzpmMc/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "category": "BOCHA",
+      "youtubeId": "jjS95vzpmMc&tk",
+      "description": "Canal Bochas | MELHORES MOMENTOS: 1° Taça em Homenagem ao Chapolin - Capão Novo",
+      "likes": "22",
+      "hasFlame": false
+    }
+  ]
+}
