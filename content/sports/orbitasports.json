@@ -36,15 +36,27 @@
       "status": "FINAL"
   },
   {
-      "id": "pll-cha-red-2806",
+      "id": "pll-whi-out-2806",
       "sport": "PLL Lacrosse",
-      "time": "19:30",
-      "date": "27/06",
+      "time": "17:00",
+      "date": "28/06",
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Chaos", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 13 },
-      "teamB": { "name": "Redwoods", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127636.png&scale=crop&cquality=40&location=origin&w=40&h=40", "score": 14 },
+      "teamA": { "name": "Whipsnakes", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127638.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 11 },
+      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 10 },
+      "status": "FINAL"
+  },
+  {
+      "id": "pll-cha-red-2806",
+      "sport": "PLL Lacrosse",
+      "time": "19:30",
+      "date": "28/06",
+      "group": "PLL 2026",
+      "tv": "ESPN+",
+      "youtubeId": "",
+      "teamA": { "name": "Chaos", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 13 },
+      "teamB": { "name": "Redwoods", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127636.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 14 },
       "status": "FINAL"
   }
 ]
