@@ -1,149 +1,6 @@
 {
   "ticker": [
 {
-  "id": "wc-rsa-can",
-  "sport": "FIFA",
-  "apiId": "760486",
-  "autoUpdate": true,
-  "title": "Canadá faz história nos acréscimos",
-  "league": "Copa do Mundo",
-  "status": "UPCOMING",
-  "time": "16:00",
-  "date": "28/06",
-  "seriesInfo": "Canadá faz história",
-  "stadium": "AT&T Stadium",
-  "location": "Inglewood, California, EUA",
-  "dateTime": "28 JUN - 16:00",
-  "group": "16 avos",
-  "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-  "teamA": {
-    "name": "África do Sul",
-    "code": "RSA",
-    "flag": "🇿🇦",
-    "score": 0
-  },
-  "teamB": {
-    "name": "Canadá",
-    "code": "CAN",
-    "flag": "🇨🇦",
-    "score": 0
-  },
-  "homeKeyPlayers": [],               
-  "awayKeyPlayers": [],
-  "stats": [ 
-    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
-    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
-  ]
-},
-{
-  "id": "serieb-juv-csc",
-  "sport": "SÉRIE B",
-  "apiId": "401874002",
-  "autoUpdate": true,
-  "league": "Brasileiro Série B",
-  "status": "UPCOMING",
-  "time": "16:00",
-  "date": "28/06",
-  "seriesInfo": "Disney+",
-  "stadium": "Alfredo Jaconi",
-  "location": "Caxias do Sul, Brasil",
-  "dateTime": "28 JUN - 16:00",
-  "group": "Série B",
-  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
-  "teamA": {
-    "name": "Juventude",
-    "code": "JUV",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&scale=crop&cquality=40&location=origin&w=40&h=40",
-    "score": 0
-  },
-  "teamB": {
-    "name": "Ceará",
-    "code": "CEA",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=40&h=40",
-    "score": 0
-  },
-  "homeKeyPlayers": [],               
-  "awayKeyPlayers": [],
-  "stats": [ 
-    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
-    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
-  ]
-},
-{
-  "id": "serieb-for-spo",
-  "sport": "SÉRIE B",
-  "apiId": "401873971",
-  "autoUpdate": true,
-  "league": "Brasileiro Série B",
-  "status": "UPCOMING",
-  "time": "18:30",
-  "date": "28/06",
-  "seriesInfo": "Disney+, SportyNet",
-  "stadium": "Arena Castelão",
-  "location": "Fortaleza, CE - Brasil",
-  "dateTime": "28 JUN - 16:00",
-  "group": "Série B",
-  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
-  "teamA": {
-    "name": "Fortaleza",
-    "code": "FOR",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=40&h=40",
-    "score": 0
-  },
-  "teamB": {
-    "name": "Sport",
-    "code": "SPO",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7635.png&scale=crop&cquality=40&location=origin&w=40&h=40",
-    "score": 0
-  },
-  "homeKeyPlayers": [],               
-  "awayKeyPlayers": [],
-  "stats": [ 
-    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
-    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
-  ]
-},
-{
-  "id": "mlb-nyy-bos-2806",
-  "sport": "MLB",
-  "apiId": "401815939",
-  "autoUpdate": true,
-  "league": "Temporada Regular",
-  "status": "UPCOMING",
-  "time": "20:20",
-  "date": "28/06",
-  "seriesInfo": "ESPN",
-  "stadium": "Fenway Park",
-  "location": "Boston",
-  "dateTime": "28 JUN - 20:20",
-  "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-  "group": "MLB",
-  "teamA": {
-    "name": "Boston Red Sox",
-    "code": "BOS",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/bos.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-    "score": 0
-  },
-  "teamB": {
-    "name": "New York Yankees",
-    "code": "NYY",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-    "score": 0
-  },
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
-  "stats": [
-    { "label": "Corridas-Rebatidas-Erros", "valueA": "0", "valueB": "0", "ratioA": 0 },
-    { "label": "Home Runs", "valueA": "0", "valueB": "0", "ratioA": 0 }
-  ]
-},
-{
   "id": "wc-bra-jpn",
   "sport": "FIFA",
   "apiId": "760487",
@@ -349,6 +206,42 @@
     "name": "Suécia",
     "code": "SWE",
     "flag": "🇸🇪",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+  "id": "serieb-bfc-crb",
+  "sport": "SÉRIE B",
+  "apiId": "401873978",
+  "autoUpdate": true,
+  "league": "Brasileiro Série B",
+  "status": "UPCOMING",
+  "time": "20:00",
+  "date": "30/06",
+  "seriesInfo": "Disney+",
+  "stadium": "Estádio Santa Cruz",
+  "location": "Ribeirão Preto, Brasil",
+  "dateTime": "28 JUN - 16:00",
+  "group": "Série B",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Botafogo/SP",
+    "code": "BFC",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10281.png&cquality=80&h=80&scale=crop&w=80",
+    "score": 0
+  },
+  "teamB": {
+    "name": "CRB",
+    "code": "CRB",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9970.png&cquality=80&h=80&scale=crop&w=80",
     "score": 0
   },
   "homeKeyPlayers": [],               
