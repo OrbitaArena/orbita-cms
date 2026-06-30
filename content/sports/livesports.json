@@ -1,25 +1,12 @@
 [
   {
-    "id": "live-copa001",
-    "title": "AO VIVO: BRASIL X JAPÃO",
-    "badge": "CazéTV",
-    "dateTime": "29 JUN - 14:00",
-    "category": "Copa do Mundo",
-    "image": "",
-    "isLive": true,
-    "featured": true,
-    "videoUrlPlaceholder": "AO VIVO: BRASIL X JAPÃO | COPA DO MUNDO FIFA™ 2026 | 16 AVOS DE FINAL",
-    "youtubeId": "XL2jTQdj134",
-    "streamUrl": ""
-  },
-  {
     "id": "live-darts004",
     "title": "Live Darts | Series 14 Week 10 | Group A Session 10",
     "badge": "MODUS Super Series Darts",
     "dateTime": "29 JUN - 05:30",
     "category": "Dardos",
     "image": "",
-    "isLive": true,
+    "isLive": false,
     "featured": false,
     "videoUrlPlaceholder": "THE THORN HAS RETURNED! 😱👏 | Live Darts | Series 14 Week 10 | Group A Session 10",
     "youtubeId": "IfEDL_cFmA4",
