@@ -2,15 +2,15 @@
 
 ## Terça, 30/jun
 
-14h - Costa do Marfim x Noruega (📺 CazéTV, SBT, Canais Globo)
+14h - Copa do Mundo: Costa do Marfim x Noruega (📺 CazéTV, SBT, Canais Globo)
 
-18h - França x Suécia (📺 CazéTV)
+18h - Copa do Mundo: França x Suécia (📺 CazéTV)
 
-20h - Botafogo/SP x CRB (📺 ESPN, Disney+)
+20h - Série B: Botafogo/SP x CRB (📺 ESPN, Disney+)
 
-21h - San Diego Padres x Chicago Cubs (📺 ESPN4, Disney+)
+21h - MLB: San Diego Padres x Chicago Cubs (📺 ESPN4, Disney+)
 
-22h - México x Equador (📺 CazéTV, SporTV)
+22h - Copa do Mundo: México x Equador (📺 CazéTV, SporTV)
 
 Beisebol e Softbol (📺 Disney+)
 
