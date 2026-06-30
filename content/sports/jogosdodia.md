@@ -1,19 +1,23 @@
 # JOGOS DE HOJE
 
-## Segunda, 29/jun
+## Terça, 30/jun
 
-• 14h - Brasil x Japão (📺 CazéTV, SBT, Canais Globo)
+14h - Costa do Marfim x Noruega (📺 CazéTV, SBT, Canais Globo)
 
-• 17h30 - Alemanha x Paraguai (📺 CazéTV)
+18h - França x Suécia (📺 CazéTV)
 
-• 20h - Texas Rangers x Cleveland Guardians (📺 ESPN 4 e Disney+)
+20h - Botafogo/SP x CRB (📺 ESPN, Disney+)
 
-• 22h - Holanda x Marrocos (📺 CazéTV)
+21h - San Diego Padres x Chicago Cubs (📺 ESPN4, Disney+)
+
+22h - México x Equador (📺 CazéTV, SporTV)
 
 Beisebol e Softbol (📺 Disney+)
 
-• 20h - AUSL (softbol): Carolina Blaze x Oklahoma City Spark
+20h - AUSL (softbol): Portland Cascade x Chicago Bandits
 
-• 22h40 - LMB: Toros de Tijuana x Acereros de Monclova
+22h - LMB: Charros de Jalisco x Cliente de Durango
+
+23h - LMB: El Águila de Veracruz x Tigres de Quintana Roo
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
