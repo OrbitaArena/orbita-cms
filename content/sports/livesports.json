@@ -4,9 +4,10 @@
     "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
     "badge": "FIBA3x3",
     "dateTime": "01 JUL - 13:00",
-    "category": "NBA (Basquete)",
+    "category": "Basquete",
     "image": "https://i.ytimg.com/vi/UI5ocQH6wNE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
+    "featured": true,
     "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
     "youtubeId": "UI5ocQH6wNE",
     "streamUrl": "https://www.youtube.com/watch?v=UI5ocQH6wNE"
@@ -16,7 +17,7 @@
     "title": "FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1",
     "badge": "FIBA3x3",
     "dateTime": "01 JUL - 10:00",
-    "category": "NBA (Basquete)",
+    "category": "Basquete",
     "image": "https://i.ytimg.com/vi/yVutOekA8Do/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": false,
     "videoUrlPlaceholder": "RE-LIVE | FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1 | #3x3basketball",
@@ -30,7 +31,7 @@
     "dateTime": "01 JUL - 05:30",
     "category": "Dardos",
     "image": "https://i.ytimg.com/vi/9Oix1rtB7WY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "TOO CLOSE TO CALL! 🫣🎯 | Live Darts | Series 14 Week 10 | Group A Session 3",
     "youtubeId": "9Oix1rtB7WY",
     "streamUrl": "https://www.youtube.com/watch?v=9Oix1rtB7WY"
@@ -42,22 +43,10 @@
     "dateTime": "01 JUL - 06:00",
     "category": "Críquete",
     "image": "https://i.ytimg.com/vi/aiRYRWvk3Fk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "LIVE STREAM: England A vs India A",
     "youtubeId": "aiRYRWvk3Fk",
     "streamUrl": "https://www.youtube.com/watch?v=aiRYRWvk3Fk"
-  },
-  {
-    "id": "live-softbol001",
-    "title": "🥎 Sarasota Senior Softball 55+ |  Schemmel Soda vs Kurkjian Inv.",
-    "badge": "Sarasota Senior Softball",
-    "dateTime": "01 JUL - 09:30",
-    "category": "Críquete",
-    "image": "https://i.ytimg.com/vi/sj4uimQWryo/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "🥎 Sarasota Senior Softball 55+ | Big Bats | 🎥 LIVE - WED. A - Schemmel Soda vs Kurkjian Inv.",
-    "youtubeId": "sj4uimQWryo",
-    "streamUrl": "https://www.youtube.com/watch?v=sj4uimQWryo"
   },
   {
     "id": "live-criquete002",
@@ -66,7 +55,7 @@
     "dateTime": "01 JUL - 10:20",
     "category": "Críquete",
     "image": "https://i.ytimg.com/vi/tWCu7ha45Ys/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "🔴 LIVE Cricket Yorkshire Women v Lancashire Thunder | Vitality Blast at Scarborough",
     "youtubeId": "tWCu7ha45Ys",
     "streamUrl": "https://www.youtube.com/watch?v=tWCu7ha45Ys"
