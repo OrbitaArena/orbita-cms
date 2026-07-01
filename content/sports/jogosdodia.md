@@ -1,23 +1,24 @@
 # JOGOS DE HOJE
 
-## Terça, 30/jun
+## Quarta, 01/jul
 
-14h - Copa do Mundo: Costa do Marfim x Noruega (📺 CazéTV, SBT, Canais Globo)
+13h - Copa do Mundo: Inglaterra x Congo (📺 CazéTV, SBT, Canais Globo)
 
-18h - Copa do Mundo: França x Suécia (📺 CazéTV)
+18h - Copa do Mundo: Bélgica x Senegal (📺 CazéTV)
 
-20h - Série B: Botafogo/SP x CRB (📺 ESPN, Disney+)
+21h - Copa do Mundo: Estados Unidos x Bósnia e Herzegovina (📺 CazéTV)
 
-21h - MLB: San Diego Padres x Chicago Cubs (📺 ESPN4, Disney+)
+21h - Cincinnati Reds x Milwaukee Brewers (📺 ESPN4, Disney+)
 
-22h - Copa do Mundo: México x Equador (📺 CazéTV, SporTV)
 
 Beisebol e Softbol (📺 Disney+)
 
-20h - AUSL (softbol): Portland Cascade x Chicago Bandits
+19h - LMB: Diablos Rojos de México x Guerreros de Oaxaca
 
-22h - LMB: Charros de Jalisco x Cliente de Durango
+20h - AUSL (softbol): Carolina Blaze x Oklahoma City Spark
 
-23h - LMB: El Águila de Veracruz x Tigres de Quintana Roo
+22h - LMB: Charros de Jalisco x Caliente de Durango
+
+22h30 - LMB: Dorados de Chihuahua x Sultanes de Monterrey
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
