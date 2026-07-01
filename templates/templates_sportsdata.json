@@ -1,0 +1,65 @@
+[
+  {
+    "key": "futebol",
+    "name": "Futebol ⚽",
+    "icon": "⚽",
+    "sportLabel": "FUTEBOL",
+    "leagueLabel": "",
+    "badgeLabel": "",
+    "image": "https://images.unsplash.com/photo-1570498839593-e565b39455fc?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "futebol_fifa",
+    "name": "Futebol - FIFA ⚽",
+    "icon": "⚽",
+    "sportLabel": "FIFA",
+    "leagueLabel": "Copa do Mundo",
+    "badgeLabel": "CazéTV",
+    "image": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "nba_basketball",
+    "name": "NBA 🏀",
+    "icon": "🏀",
+    "sportLabel": "NBA",
+    "leagueLabel": "NBA - Temporada Regular",
+    "badgeLabel": "ESPN",
+    "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "mlb_baseball",
+    "name": "MLB ⚾",
+    "icon": "⚾",
+    "sportLabel": "MLB - Temporada Regular",
+    "leagueLabel": "Major League Baseball",
+    "badgeLabel": "ESPN",
+    "image": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "nhl_hockey",
+    "name": "NHL 🏒",
+    "icon": "🏒",
+    "sportLabel": "NHL - Temporada Regular",
+    "leagueLabel": "Stanley Cup",
+    "badgeLabel": "ESPN",
+    "image": "https://images.unsplash.com/photo-1632937800281-604916845268?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "nfl_football",
+    "name": "NFL 🏈",
+    "icon": "🏈",
+    "sportLabel": "NFL",
+    "leagueLabel": "NFL - Temporada Regular",
+    "badgeLabel": "ESPN",
+    "image": "https://images.unsplash.com/photo-1728188498253-b1d3e2267842?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "handebol_sport",
+    "name": "Handebol 🤾",
+    "icon": "🤾",
+    "sportLabel": "Handebol",
+    "leagueLabel": "Campeonato Mundial",
+    "badgeLabel": "IHF TV",
+    "image": "https://images.unsplash.com/photo-1587384474964-3a06ce1ce699?auto=format&fit=crop&q=80&w=500"
+  }
+]
