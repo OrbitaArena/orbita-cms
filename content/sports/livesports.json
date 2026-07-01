@@ -1,5 +1,29 @@
 [
   {
+    "id": "live-new-844",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
+    "badge": "FIBA3x3",
+    "dateTime": "01 JUL - 13:00",
+    "category": "NBA (Basquete)",
+    "image": "https://i.ytimg.com/vi/UI5ocQH6wNE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
+    "youtubeId": "UI5ocQH6wNE",
+    "streamUrl": "https://www.youtube.com/watch?v=UI5ocQH6wNE"
+  },
+  {
+    "id": "live-new-641",
+    "title": "FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1",
+    "badge": "FIBA3x3",
+    "dateTime": "01 JUL - 10:00",
+    "category": "NBA (Basquete)",
+    "image": "https://i.ytimg.com/vi/yVutOekA8Do/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "RE-LIVE | FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1 | #3x3basketball",
+    "youtubeId": "yVutOekA8Do",
+    "streamUrl": "https://www.youtube.com/watch?v=yVutOekA8Do"
+  },
+  {
     "id": "live-darts007",
     "title": "Live Darts | Series 14 Week 10 | Group A Session 10 Session 3",
     "badge": "MODUS Super Series Darts",
