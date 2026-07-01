@@ -1,0 +1,65 @@
+[
+  {
+    "key": "darts_pdc",
+    "name": "Dardos 🎯",
+    "icon": "🎯",
+    "sportLabel": "Dardos",
+    "leagueLabel": "PDC Darts",
+    "badgeLabel": "Darts TV",
+    "image": "https://e0.365dm.com/26/06/2048x1152/skysports-darts-world-cup-of-darts_7273508.jpg?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "lacrosse_pll",
+    "name": "Dardos 🎯",
+    "icon": "🎯",
+    "sportLabel": "Lacrosse",
+    "leagueLabel": "PLL Lacrosse",
+    "badgeLabel": "ESPN+",
+    "image": "https://images.unsplash.com/photo-1624992152845-9e54aab7aa86?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "cornhole_acl",
+    "name": "Cornhole",
+    "icon": "🎴",
+    "sportLabel": "Cornhole",
+    "leagueLabel": "",
+    "badgeLabel": "ACL Cornhole TV",
+    "image": "https://images.unsplash.com/photo-1756239508881-d302bfdcc4b7?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "bocha",
+    "name": "Bocha ⚪",
+    "icon": "⚪",
+    "sportLabel": "Bocha",
+    "leagueLabel": "",
+    "badgeLabel": "YouTube",
+    "image": "https://images.unsplash.com/photo-1594132990777-1ffe0662b186?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "pingpong_table",
+    "name": "Tênis de Mesa 🏓",
+    "icon": "🏓",
+    "sportLabel": "Tênis de Mesa",
+    "leagueLabel": "Challenger Series",
+    "badgeLabel": "YouTube Live",
+    "image": "https://images.unsplash.com/photo-1534158914592-062992fbe900?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "billiards_sinuca",
+    "name": "Sinuca / Bilhar 🎱",
+    "icon": "🎱",
+    "sportLabel": "Sinuca",
+    "leagueLabel": "Mundial de Snooker",
+    "badgeLabel": "ESPN 3",
+    "image": "https://images.unsplash.com/photo-1577457917997-768393526938?auto=format&fit=crop&q=80&w=500"
+  },
+  {
+    "key": "poker_stars",
+    "name": "Poker - WSOP ♦️",
+    "icon": "♦️",
+    "sportLabel": "Poker",
+    "leagueLabel": "WSOP Circuit",
+    "badgeLabel": "SuperPoker",
+    "image": "https://images.unsplash.com/photo-1511193311914-0346f16efe90?auto=format&fit=crop&q=80&w=500"
+  }
+]
