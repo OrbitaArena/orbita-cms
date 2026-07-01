@@ -1,0 +1,68 @@
+[
+  {
+    "key": "cazetv_live",
+    "name": "Live - CazéTV 📺",
+    "icon": "📺",
+    "sportLabel": "Copa do Mundo",
+    "leagueLabel": "CazéTV Oficial",
+    "badgeLabel": "CazéTV",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "AO VIVO: ",
+    "isLive": true
+  },
+  {
+    "key": "nbb_live",
+    "name": "Live - NBB Caixa 🏀",
+    "icon": "🏀",
+    "sportLabel": "Basquete",
+    "leagueLabel": "",
+    "badgeLabel": "NBB Caixa",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "",
+    "isLive": true
+  },
+  {
+    "key": "nba_live",
+    "name": "Live - NBA Brasil 🏀",
+    "icon": "🏀",
+    "sportLabel": "Basquete",
+    "leagueLabel": "NBA",
+    "badgeLabel": "NBA Brasil",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "",
+    "isLive": true
+  },
+  {
+    "key": "dardos_live",
+    "name": "Darts 🎯",
+    "icon": "🎯",
+    "sportLabel": "Dardos",
+    "leagueLabel": "",
+    "badgeLabel": "",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "",
+    "isLive": true
+  },
+  {
+    "key": "bocha_live",
+    "name": "Live - Bocha ⚪",
+    "icon": "⚪",
+    "sportLabel": "Bocha",
+    "leagueLabel": "Campeonato de Bocha",
+    "badgeLabel": "Canal Bochas",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "",
+    "isLive": true
+  },
+  {
+    "key": "criquete_live",
+    "name": "Live - Críquete 🏏",
+    "icon": "🏏",
+    "sportLabel": "Críquete",
+    "leagueLabel": "",
+    "badgeLabel": "",
+    "youtubeId": "",
+    "videoUrlPlaceholder": "LIVE STREAM: ",
+    "isLive": true
+  }
+]
