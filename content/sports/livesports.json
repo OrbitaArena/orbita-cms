@@ -1,16 +1,28 @@
 [
   {
     "id": "live-new-844",
-    "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
     "badge": "FIBA3x3",
-    "dateTime": "01 JUL - 13:00",
+    "dateTime": "02 JUL - 11:00",
     "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/UI5ocQH6wNE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "image": "https://i.ytimg.com/vi/iiLsZcSWkCE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
     "featured": true,
-    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 2",
-    "youtubeId": "UI5ocQH6wNE",
-    "streamUrl": "https://www.youtube.com/watch?v=UI5ocQH6wNE"
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
+    "youtubeId": "iiLsZcSWkCE",
+    "streamUrl": "https://www.youtube.com/watch?v=iiLsZcSWkCE"
+  },
+  {
+    "id": "live-new-911",
+    "title": "AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S.",
+    "badge": "Canal Bochas",
+    "dateTime": "04 JUL - 09:05",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/7bBj5gzfBqc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S.",
+    "youtubeId": "7bBj5gzfBqc",
+    "streamUrl": "https://www.youtube.com/watch?v=7bBj5gzfBqc"
   },
   {
     "id": "live-new-641",
