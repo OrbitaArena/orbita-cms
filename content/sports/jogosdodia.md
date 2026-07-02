@@ -6,8 +6,11 @@
 
 20h - Copa do Mundo: Portugal x Croácia (📺 CazéTV)
 
+20h - Série B: Cuiabá x América/MG (📺 ESPN, Disney+)
+
 20h - MLB: St. Louis Cardinals x Atlanta Braves (📺 ESPN 4, Disney+)
 
+21h - Série B: Fortaleza x Ponte Preta (📺 ESPN, Disney+)
 
 Beisebol e Softbol (📺 Disney+)
 
