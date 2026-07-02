@@ -1,24 +1,20 @@
 # JOGOS DE HOJE
 
-## Quarta, 01/jul
+## Quinta, 02/jul
 
-13h - Copa do Mundo: Inglaterra x Congo (📺 CazéTV, SBT, Canais Globo)
+16h - Copa do Mundo: Espanha x Áustria (📺 CazéTV, SBT, Canais Globo)
 
-18h - Copa do Mundo: Bélgica x Senegal (📺 CazéTV)
+20h - Copa do Mundo: Portugal x Croácia (📺 CazéTV)
 
-21h - Copa do Mundo: Estados Unidos x Bósnia e Herzegovina (📺 CazéTV)
-
-21h - Cincinnati Reds x Milwaukee Brewers (📺 ESPN4, Disney+)
+20h - MLB: St. Louis Cardinals x Atlanta Braves (📺 ESPN 4, Disney+)
 
 
 Beisebol e Softbol (📺 Disney+)
 
-19h - LMB: Diablos Rojos de México x Guerreros de Oaxaca
+20h - AUSL (softbol): Portland Cascade x Chicago Bandits
 
-20h - AUSL (softbol): Carolina Blaze x Oklahoma City Spark
+21h30 - LMB: El Águila de Veracruz x Tigres de Quintana Roo
 
-22h - LMB: Charros de Jalisco x Caliente de Durango
-
-22h30 - LMB: Dorados de Chihuahua x Sultanes de Monterrey
+22h - LMB: Leones de Yucatán x Pericos de Puebla
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
