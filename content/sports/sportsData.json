@@ -1,286 +1,17 @@
 {
   "ticker": [
     {
-      "id": "wc-cdm-nor",
-      "sport": "FIFA",
-      "apiId": "760490",
-      "autoUpdate": true,
-      "title": "Halland decide e avança pra pegar o Brasil!",
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "14:00",
-      "date": "30/06",
-      "seriesInfo": "Cometa Halland sela a vitória",
-      "stadium": "AT&T Stadium",
-      "location": "Arlington, Texas, EUA",
-      "dateTime": "30 JUN - 14:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Costa do Marfim",
-        "code": "CDM",
-        "flag": "🇨🇮",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Noruega",
-        "code": "NOR",
-        "flag": "🇳🇴",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-fra-swe",
-      "sport": "FIFA",
-      "apiId": "760492",
-      "autoUpdate": true,
-      "featured": true,
-      "title": "Mbappé monstruoso e França impecável!",
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "18:00",
-      "date": "30/06",
-      "seriesInfo": "Mbappé monstruoso",
-      "stadium": "MetLife Stadium",
-      "location": "East Rutherford, New Jersey, EUA",
-      "dateTime": "30 JUN - 18:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "França",
-        "code": "FRA",
-        "flag": "🇫🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Suécia",
-        "code": "SWE",
-        "flag": "🇸🇪",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "serieb-bfc-crb",
-      "sport": "SÉRIE B",
-      "apiId": "401873978",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "30/06",
-      "seriesInfo": "Disney+",
-      "stadium": "Estádio Santa Cruz",
-      "location": "Ribeirão Preto, Brasil",
-      "dateTime": "28 JUN - 16:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Botafogo/SP",
-        "code": "BFC",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10281.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "teamB": {
-        "name": "CRB",
-        "code": "CRB",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9970.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-sd-chc-3006",
-      "sport": "MLB",
-      "apiId": "401815973",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "21:00",
-      "date": "30/06",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Wrigley Field",
-      "location": "Chicago, Illinois",
-      "dateTime": "30 JUN - 21:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Chicago Cubs",
-        "code": "CHC",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "San Diego Padres",
-        "code": "SD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "wc-mex-equ",
-      "sport": "FIFA",
-      "apiId": "760491",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "22:00",
-      "date": "30/06",
-      "seriesInfo": "CazéTV, SporTV",
-      "stadium": "Estadio Banorte",
-      "location": "Cidade do México, México",
-      "dateTime": "30 JUN - 22:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "México",
-        "code": "MEX",
-        "flag": "🇲🇽",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Equador",
-        "code": "EQU",
-        "flag": "🇪🇨",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-eng-rdc",
       "sport": "FIFA",
       "apiId": "760495",
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "featured": true,
+      "title": "Harry Kane impecável, comanda a virada!",
       "time": "13:00",
       "date": "01/07",
-      "seriesInfo": "CazéTV",
+      "seriesInfo": "Harry Kane comanda a virada",
       "stadium": "Mercedes-Benz Stadium",
       "location": "Atlanta, Georgia, EUA",
       "dateTime": "01 JUL - 13:00",
@@ -334,9 +65,10 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "title": "Reação surreal, virada histórica!",
       "time": "17:00",
       "date": "01/07",
-      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "seriesInfo": "Virada histórica!",
       "stadium": "Lumen Field",
       "location": "Seattle, Washington, EUA",
       "dateTime": "01 JUL - 17:00",
@@ -390,9 +122,10 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "title": "USA avançam, Balogun expulso!",
       "time": "21:00",
       "date": "01/07",
-      "seriesInfo": "CazéTV",
+      "seriesInfo": "USA avançam pras oitavas",
       "stadium": "Levi's Stadium",
       "location": "Santa Clara, Califórnia, EUA",
       "dateTime": "01 JUL - 21:00",
@@ -549,8 +282,8 @@
       "time": "20:00",
       "date": "02/07",
       "seriesInfo": "CazéTV",
-      "stadium": "SoFi Stadium",
-      "location": "Inglewood, California, EUA",
+      "stadium": "BMO Field",
+      "location": "Toronto, Canadá",
       "dateTime": "02 JUL - 20:00",
       "group": "16 avos",
       "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
@@ -636,6 +369,118 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "serieb-cui-amg",
+      "sport": "SÉRIE B",
+      "apiId": "401873977",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "02/07",
+      "seriesInfo": "ESPN, Disney+",
+      "stadium": "Arena Castelão",
+      "location": "Fortaleza, Brasil",
+      "dateTime": "02 JUL - 20:00",
+      "group": "Série B",
+      "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Cuiabá",
+        "code": "CUI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17313.png&cquality=80&h=80&scale=crop&w=80",
+        "score": 0
+      },
+      "teamB": {
+        "name": "América/MG",
+        "code": "AMG",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6154.png&cquality=80&h=80&scale=crop&w=80",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "serieb-for-pon",
+      "sport": "SÉRIE B",
+      "apiId": "401873979",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "02/07",
+      "seriesInfo": "ESPN, Disney+",
+      "stadium": "Arena Castelão",
+      "location": "Fortaleza, Brasil",
+      "dateTime": "02 JUL - 21:00",
+      "group": "Série B",
+      "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Fortaleza",
+        "code": "FOR",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=80&h=80&scale=crop&w=80",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Ponte Preta",
+        "code": "PON",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=80&h=80&scale=crop&w=80",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
         }
       ]
     },
@@ -910,85 +755,85 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-eng-rdc",
+      "id": "wc-esp-aut",
       "sport": "FIFA",
-      "apiId": "760495",
+      "apiId": "760497",
       "autoUpdate": true,
-      "time": "13:00",
+      "time": "16:00",
       "group": "Copa do Mundo",
-      "stadium": "Mercedes-Benz Stadium",
+      "stadium": "SoFi Stadium",
       "tv": "CazéTV, SBT, Canais Globo",
       "teamA": {
-        "name": "Inglaterra",
-        "flag": "🇬🇧",
+        "name": "Espanha",
+        "flag": "🇪🇸",
         "score": 0
       },
       "teamB": {
-        "name": "Congo",
-        "flag": "🇨🇬",
+        "name": "Áustria",
+        "flag": "🇦🇹",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "wc-bel-sen",
+      "id": "wc-por-cro",
       "sport": "FIFA",
-      "apiId": "760493",
+      "apiId": "760496",
       "autoUpdate": true,
-      "time": "17:00",
+      "time": "20:00",
       "group": "Copa do Mundo",
-      "stadium": "Lumen Field",
+      "stadium": "BMO Field",
       "tv": "CazéTV",
       "teamA": {
-        "name": "Bélgica",
-        "flag": "🇧🇪",
+        "name": "Portugal",
+        "flag": "🇵🇹",
         "score": 0
       },
       "teamB": {
-        "name": "Senegal",
-        "flag": "🇸🇳",
+        "name": "Croácia",
+        "flag": "🇭🇷",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "mlb-cin-mil-0107",
+      "id": "mlb-stl-atl-0207",
       "sport": "MLB",
-      "apiId": "401815986",
+      "apiId": "401815995",
       "autoUpdate": true,
-      "time": "21:00",
+      "time": "20:00",
       "group": "MLB",
-      "stadium": "American Family Field",
+      "stadium": "Truist Park",
       "tv": "ESPN 4, Disney+",
       "teamA": {
-        "name": "Milwaukee Brewers",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/mil.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "Atlanta Braves",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "teamB": {
-        "name": "Cincinnati Reds",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cin.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "St. Louis Cardinals",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "wc-usa-bih",
-      "sport": "FIFA",
-      "apiId": "760494",
+      "id": "serieb-for-pon",
+      "sport": "SÉRIE B",
+      "apiId": "401873979",
       "autoUpdate": true,
-      "time": "22:00",
-      "group": "Copa do Mundo",
-      "stadium": "Levi's Stadium",
-      "tv": "CazéTV",
+      "time": "21:00",
+      "group": "Brasileiro Série B",
+      "stadium": "Arena Castelão",
+      "tv": "ESPN, disney+",
       "teamA": {
-        "name": "Estados Unidos",
-        "flag": "🇺🇸",
+        "name": "Fortaleza",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Bósnia e Herzegovina",
-        "flag": "🇧🇦",
+        "name": "Ponte Preta",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
