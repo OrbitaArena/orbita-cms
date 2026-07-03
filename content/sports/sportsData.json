@@ -1,222 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-eng-rdc",
-      "sport": "FIFA",
-      "apiId": "760495",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "Harry Kane impecável, comanda a virada!",
-      "time": "13:00",
-      "date": "01/07",
-      "seriesInfo": "Harry Kane comanda a virada",
-      "stadium": "Mercedes-Benz Stadium",
-      "location": "Atlanta, Georgia, EUA",
-      "dateTime": "01 JUL - 13:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Inglaterra",
-        "code": "ENG",
-        "flag": "🇬🇧",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Congo",
-        "code": "RDC",
-        "flag": "🇨🇬",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-bel-sen",
-      "sport": "FIFA",
-      "apiId": "760493",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "title": "Reação surreal, virada histórica!",
-      "time": "17:00",
-      "date": "01/07",
-      "seriesInfo": "Virada histórica!",
-      "stadium": "Lumen Field",
-      "location": "Seattle, Washington, EUA",
-      "dateTime": "01 JUL - 17:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Bélgica",
-        "code": "BEL",
-        "flag": "🇧🇪",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Senegal",
-        "code": "SEN",
-        "flag": "🇸🇳",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-usa-bih",
-      "sport": "FIFA",
-      "apiId": "760494",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "title": "USA avançam, Balogun expulso!",
-      "time": "21:00",
-      "date": "01/07",
-      "seriesInfo": "USA avançam pras oitavas",
-      "stadium": "Levi's Stadium",
-      "location": "Santa Clara, Califórnia, EUA",
-      "dateTime": "01 JUL - 21:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Estados Unidos",
-        "code": "USA",
-        "flag": "🇺🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Bósnia e Herzegovina",
-        "code": "BIH",
-        "flag": "🇧🇦",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-cin-mil-0107",
-      "sport": "MLB",
-      "apiId": "401815986",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "21:00",
-      "date": "01/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "American Family Field",
-      "location": "Milwaukee, Wisconsin",
-      "dateTime": "01 JUL - 21:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Milwaukee Brewers",
-        "code": "MIL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/mil.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Cincinnati Reds",
-        "code": "CIN",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cin.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
       "id": "wc-esp-aut",
       "sport": "FIFA",
       "apiId": "760497",
@@ -225,7 +9,7 @@
       "status": "UPCOMING",
       "time": "16:00",
       "date": "02/07",
-      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "seriesInfo": "Espanha passeia e avança",
       "stadium": "SoFi Stadium",
       "location": "Inglewood, California, EUA",
       "dateTime": "02 JUL - 16:00",
@@ -279,9 +63,11 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "featured": true,
+      "title": "CR7 marca, Portugal avança",
       "time": "20:00",
       "date": "02/07",
-      "seriesInfo": "CazéTV",
+      "seriesInfo": "CR7 marca, Portugal avança",
       "stadium": "BMO Field",
       "location": "Toronto, Canadá",
       "dateTime": "02 JUL - 20:00",
@@ -755,53 +541,53 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-esp-aut",
+      "id": "wc-aus-egt",
       "sport": "FIFA",
-      "apiId": "760497",
+      "apiId": "760499",
       "autoUpdate": true,
-      "time": "16:00",
+      "time": "15:00",
       "group": "Copa do Mundo",
-      "stadium": "SoFi Stadium",
+      "stadium": "AT&T Stadium",
+      "tv": "CazéTV, SporTV",
+      "teamA": {
+        "name": "Austrália",
+        "flag": "🇦🇺",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Egito",
+        "flag": "🇪🇬",
+        "score": 0
+      },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "wc-arg-cpv",
+      "sport": "FIFA",
+      "apiId": "760500",
+      "autoUpdate": true,
+      "time": "19:00",
+      "group": "Copa do Mundo",
+      "stadium": "Hard Rock Stadium",
       "tv": "CazéTV, SBT, Canais Globo",
       "teamA": {
-        "name": "Espanha",
-        "flag": "🇪🇸",
+        "name": "Argentina",
+        "flag": "🇦🇷",
         "score": 0
       },
       "teamB": {
-        "name": "Áustria",
-        "flag": "🇦🇹",
+        "name": "Cabo Verde",
+        "flag": "🇨🇻",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "wc-por-cro",
-      "sport": "FIFA",
-      "apiId": "760496",
-      "autoUpdate": true,
-      "time": "20:00",
-      "group": "Copa do Mundo",
-      "stadium": "BMO Field",
-      "tv": "CazéTV",
-      "teamA": {
-        "name": "Portugal",
-        "flag": "🇵🇹",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Croácia",
-        "flag": "🇭🇷",
-        "score": 0
-      },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "mlb-stl-atl-0207",
+      "id": "mlb-nym-atl-0307",
       "sport": "MLB",
-      "apiId": "401815995",
+      "apiId": "401816005",
       "autoUpdate": true,
-      "time": "20:00",
+      "time": "20:15",
       "group": "MLB",
       "stadium": "Truist Park",
       "tv": "ESPN 4, Disney+",
@@ -811,29 +597,29 @@
         "score": 0
       },
       "teamB": {
-        "name": "St. Louis Cardinals",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "New York Mets",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "serieb-for-pon",
-      "sport": "SÉRIE B",
-      "apiId": "401873979",
+      "id": "wc-col-gan",
+      "sport": "FIFA",
+      "apiId": "760501",
       "autoUpdate": true,
-      "time": "21:00",
-      "group": "Brasileiro Série B",
-      "stadium": "Arena Castelão",
-      "tv": "ESPN, disney+",
+      "time": "22:30",
+      "group": "Copa do Mundo",
+      "stadium": "GEHA Field at Arrowhead Stadium",
+      "tv": "CazéTV",
       "teamA": {
-        "name": "Fortaleza",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Colômbia",
+        "flag": "🇨🇴",
         "score": 0
       },
       "teamB": {
-        "name": "Ponte Preta",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Gana",
+        "flag": "🇬🇭",
         "score": 0
       },
       "status": "UPCOMING"
