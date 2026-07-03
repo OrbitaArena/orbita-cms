@@ -1,23 +1,25 @@
 # JOGOS DE HOJE
 
-## Quinta, 02/jul
+## Sexta, 03/jul
 
-16h - Copa do Mundo: Espanha x Áustria (📺 CazéTV, SBT, Canais Globo)
+0h - Copa do Mundo: Suíça x Argélia (📺 CazéTV)
 
-20h - Copa do Mundo: Portugal x Croácia (📺 CazéTV)
+15h - Copa do Mundo: Austrália x Egito (📺 CazéTV, SporTV)
 
-20h - Série B: Cuiabá x América/MG (📺 ESPN, Disney+)
+19h - Copa do Mundo: Argentina x Cabo Verde (📺 CazéTV, SBT, Canais Globo)
 
-20h - MLB: St. Louis Cardinals x Atlanta Braves (📺 ESPN 4, Disney+)
+20h - MLB: New York Mets x Atlanta Braves (ESPN 4 e Disney+)
 
-21h - Série B: Fortaleza x Ponte Preta (📺 ESPN, Disney+)
+22h30 - Copa do Mundo: Colômbia x Gana (📺 CazéTV)
 
 Beisebol e Softbol (📺 Disney+)
 
-20h - AUSL (softbol): Portland Cascade x Chicago Bandits
+19h30 - Colorado 4th July (softbol): Jogo a definir
 
-21h30 - LMB: El Águila de Veracruz x Tigres de Quintana Roo
+22h - LMB: Pericos de Puebla x Guerreros de Oaxaca
 
-22h - LMB: Leones de Yucatán x Pericos de Puebla
+22h30 - Colorado 4th July (softbol): Jogo a definir
+
+23h30 - LMB: Caliente de Durango x Toros de Tijuana
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
