@@ -21,7 +21,7 @@
     "image": "https://i.ytimg.com/vi/x6Skp3IG6NI/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
     "featured": true;
-    "videoUrlPlaceholder": "🔴 LIVE Cricket - Yorkshire v Somerset & Durham | Vitality Blast Double-Header at Headingley",
+    "videoUrlPlaceholder": "LIVE Cricket - Yorkshire v Somerset & Durham | Vitality Blast Double-Header at Headingley",
     "youtubeId": "x6Skp3IG6NI",
     "streamUrl": "https://www.youtube.com/watch?v=x6Skp3IG6NI"
   },
@@ -113,19 +113,6 @@
     "featured": false,
     "videoUrlPlaceholder": "WHO WILL MAKE THE MOVE ON MOVING DAY?? 😮👀 | Live Darts | Series 14 Week 10 | Group A Session 2",
     "youtubeId": "pkCLyiP65Ys",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-darts006",
-    "title": "NZ Darts Showdown",
-    "badge": "DPD - Drowning Prevention Darts",
-    "dateTime": "30 JUN - 05:00",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "NZ Darts Showdown",
-    "youtubeId": "kqZacaa-plI",
     "streamUrl": ""
   },
   {
