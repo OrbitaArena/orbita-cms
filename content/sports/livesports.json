@@ -1,16 +1,29 @@
 [
   {
-    "id": "live-new-844",
-    "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
-    "badge": "FIBA3x3",
-    "dateTime": "02 JUL - 11:00",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/iiLsZcSWkCE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "id": "live-ihfhandball-001",
+    "title": "Iceland vs Brazil | 2026 IHF Women's Junior",
+    "badge": "IHF Competitions",
+    "dateTime": "03 JUL - 05:00",
+    "category": "Handebol",
+    "image": "https://i.ytimg.com/vi/TxUv1kMwmsw/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
     "featured": true,
-    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
-    "youtubeId": "iiLsZcSWkCE",
-    "streamUrl": "https://www.youtube.com/watch?v=iiLsZcSWkCE"
+    "videoUrlPlaceholder": "Iceland vs Brazil | Place 19/20 | 2026 IHF Women's Junior Handball World Championship",
+    "youtubeId": "TxUv1kMwmsw",
+    "streamUrl": "https://www.youtube.com/watch?v=TxUv1kMwmsw"
+  },
+  {
+    "id": "live-criquete001",
+    "title": "LIVE Cricket - Yorkshire v Somerset & Durham",
+    "badge": "Yorkshire Cricket",
+    "dateTime": "03 JUL - 10:00",
+    "category": "Críquete",
+    "image": "https://i.ytimg.com/vi/x6Skp3IG6NI/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": true;
+    "videoUrlPlaceholder": "🔴 LIVE Cricket - Yorkshire v Somerset & Durham | Vitality Blast Double-Header at Headingley",
+    "youtubeId": "x6Skp3IG6NI",
+    "streamUrl": "https://www.youtube.com/watch?v=x6Skp3IG6NI"
   },
   {
     "id": "live-new-911",
@@ -26,16 +39,56 @@
     "featured": true
   },
   {
-    "id": "live-new-641",
-    "title": "FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1",
+    "id": "live-fiba3x3-001",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Marseille Stop 2026 | Finals",
     "badge": "FIBA3x3",
-    "dateTime": "01 JUL - 10:00",
+    "dateTime": "04 JUL - 12:30",
     "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/yVutOekA8Do/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "image": "https://i.ytimg.com/vi/jpx2sXPwoBU/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Marseille Stop 2026 | Finals",
+    "youtubeId": "jpx2sXPwoBU",
+    "streamUrl": "https://www.youtube.com/watch?v=jpx2sXPwoBU"
+  },
+  {
+    "id": "live-fiba3x3-002",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Xiantao Stop 2026 | Finals",
+    "badge": "FIBA3x3",
+    "dateTime": "05 JUL - 05:30",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/lT-jVUuD-kc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Xiantao Stop 2026 | Finals",
+    "youtubeId": "lT-jVUuD-kc",
+    "streamUrl": "https://www.youtube.com/watch?v=lT-jVUuD-kc"
+  },
+  {
+    "id": "live-fiba3x3-003",
+    "title": "LIVE 🔴 FIBA 3x3WorldTour Marseille 2026 | Finals",
+    "badge": "FIBA3x3",
+    "dateTime": "05 JUL - 11:30",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/2yHCkqAanw8/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA #3x3WorldTour Marseille 2026 | Finals",
+    "youtubeId": "2yHCkqAanw8",
+    "streamUrl": "https://www.youtube.com/watch?v=2yHCkqAanw8"
+  },
+  {
+    "id": "live-new-844",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
+    "badge": "FIBA3x3",
+    "dateTime": "02 JUL - 11:00",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/iiLsZcSWkCE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": false,
-    "videoUrlPlaceholder": "RE-LIVE | FIBA 3x3 Women's Series Bucharest Stop 2026 | Pool Phase - Session 1 | #3x3basketball",
-    "youtubeId": "yVutOekA8Do",
-    "streamUrl": "https://www.youtube.com/watch?v=yVutOekA8Do"
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Bucharest Stop 2026 | Finals",
+    "youtubeId": "iiLsZcSWkCE",
+    "streamUrl": "https://www.youtube.com/watch?v=iiLsZcSWkCE"
   },
   {
     "id": "live-darts007",
@@ -48,30 +101,6 @@
     "videoUrlPlaceholder": "TOO CLOSE TO CALL! 🫣🎯 | Live Darts | Series 14 Week 10 | Group A Session 3",
     "youtubeId": "9Oix1rtB7WY",
     "streamUrl": "https://www.youtube.com/watch?v=9Oix1rtB7WY"
-  },
-  {
-    "id": "live-criquete001",
-    "title": "LIVE STREAM: England A vs India A",
-    "badge": "SomersetCricket",
-    "dateTime": "01 JUL - 06:00",
-    "category": "Críquete",
-    "image": "https://i.ytimg.com/vi/aiRYRWvk3Fk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "LIVE STREAM: England A vs India A",
-    "youtubeId": "aiRYRWvk3Fk",
-    "streamUrl": "https://www.youtube.com/watch?v=aiRYRWvk3Fk"
-  },
-  {
-    "id": "live-criquete002",
-    "title": "🔴 LIVE Cricket Yorkshire Women v Lancashire Thunder",
-    "badge": " Yorkshire Cricket",
-    "dateTime": "01 JUL - 10:20",
-    "category": "Críquete",
-    "image": "https://i.ytimg.com/vi/tWCu7ha45Ys/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "🔴 LIVE Cricket Yorkshire Women v Lancashire Thunder | Vitality Blast at Scarborough",
-    "youtubeId": "tWCu7ha45Ys",
-    "streamUrl": "https://www.youtube.com/watch?v=tWCu7ha45Ys"
   },
   {
     "id": "live-darts005",
@@ -100,19 +129,6 @@
     "streamUrl": ""
   },
   {
-    "id": "live-darts004",
-    "title": "Live Darts | Series 14 Week 10 | Group A Session 10",
-    "badge": "MODUS Super Series Darts",
-    "dateTime": "29 JUN - 05:30",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "THE THORN HAS RETURNED! 😱👏 | Live Darts | Series 14 Week 10 | Group A Session 10",
-    "youtubeId": "IfEDL_cFmA4",
-    "streamUrl": ""
-  },
-  {
     "id": "live-fa001",
     "title": "FINAL DO CAMPEONATO FEMININO PR DE FUTEBOL AMERICANO - CURITIBA SILVERHAWKS X CURITIBA PHOENIX",
     "badge": "Piah TV",
@@ -123,19 +139,6 @@
     "featured": true,
     "videoUrlPlaceholder": "FINAL DO CAMPEONATO FEMININO PR DE FUTEBOL AMERICANO - CURITIBA SILVERHAWKS X CURITIBA PHOENIX",
     "youtubeId": "WzT5OcElA38",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-baseball002",
-    "title": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL DIAMANTE AO VIVO ⚾",
-    "badge": "Terrão TV",
-    "dateTime": "28 JUN - 10:30",
-    "category": "Baseball",
-    "image": "",
-    "isLive": false,
-    "featured": true,
-    "videoUrlPlaceholder": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL (CHAVE DIAMANTE) AO VIVO ⚾🏆 | 40º Torneio Internacional ACRILEX de Beisebol",
-    "youtubeId": "ifnUVc0bQog",
     "streamUrl": ""
   },
   {
@@ -152,6 +155,19 @@
     "streamUrl": ""
   },
   {
+    "id": "live-baseball-acrilex001",
+    "title": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL DIAMANTE AO VIVO ⚾",
+    "badge": "Terrão TV",
+    "dateTime": "28 JUN - 10:30",
+    "category": "Baseball",
+    "image": "",
+    "isLive": false,
+    "featured": true,
+    "videoUrlPlaceholder": "NIPPON BLUE JAYS 🆚 GECEBS – FINAL (CHAVE DIAMANTE) AO VIVO ⚾🏆 | 40º Torneio Internacional ACRILEX de Beisebol",
+    "youtubeId": "ifnUVc0bQog",
+    "streamUrl": ""
+  },
+  {
     "id": "live-basquete001",
     "title": "Brewers x Athletics - Final - Série Ouro",
     "badge": "Franca Esportes",
@@ -165,46 +181,7 @@
     "streamUrl": ""
   },
   {
-    "id": "live-darts001",
-    "title": "Winmau Championship - North - Event 7",
-    "badge": "ADC - Amateur Darts Circuit",
-    "dateTime": "28 JUN - 08:30",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": true,
-    "videoUrlPlaceholder": "Winmau Championship - North - Event 7",
-    "youtubeId": "VIiatxE6aJ4",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-darts002",
-    "title": "Hylo PDC Europe NEXT GEN 2026 - Event 08",
-    "badge": "Professional Darts Corporation Europe",
-    "dateTime": "28 JUN - 09:00",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "Hylo PDC Europe NEXT GEN 2026 - Event 08",
-    "youtubeId": "8rokJ9qpFPk",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-darts003",
-    "title": "FINALS EASTERN EUROPEAN DARTS CHALLENGE 2026",
-    "badge": "Federatia Romana de Darts",
-    "dateTime": "28 JUN - 12:00",
-    "category": "Dardos",
-    "image": "",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "FINALS EASTERN EUROPEAN DARTS CHALLENGE 2026",
-    "youtubeId": "37w5ilvgw8o",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-volei001",
+    "id": "live-beacht001",
     "title": "FINAL MASCULINO - 6ª ETAPA CIRCUITO PAULISTA",
     "badge": "VAMO TV",
     "dateTime": "28 JUN - 14:00",
@@ -217,7 +194,7 @@
     "streamUrl": ""
   },
   {
-    "id": "live-volei002",
+    "id": "live-beacht002",
     "title": "FINAL FEMININA - 6ª ETAPA CIRCUITO PAULISTA",
     "badge": "VAMO TV",
     "dateTime": "28 JUN - 15:30",
@@ -230,84 +207,7 @@
     "streamUrl": ""
   },
   {
-    "id": "live-futeba001",
-    "title": "FORTALEZA X SPORT: AO VIVO E COM IMAGENS | RODADA 15 | SÉRIE B",
-    "badge": "SportyNet",
-    "dateTime": "28 JUN - 16:00",
-    "category": "Futebol",
-    "image": "",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "FORTALEZA X SPORT: AO VIVO E COM IMAGENS | RODADA 15 | SÉRIE B",
-    "youtubeId": "hIe_FY-_6X4",
-    "streamUrl": ""
-  },
-  {
-    "id": "live-nbb001",
-    "title": "LDB 2026 | B.Cearense/Minas x Bauru Basket/LSB",
-    "badge": "NBB Caixa",
-    "dateTime": "27 JUN - 15:45",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/eCcpSIcGUVo/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "LDB 2026 | B.Cearense/Minas x Bauru Basket/LSB | Sede Rio Claro | 27/06/26 | Ao vivo | 15:45",
-    "youtubeId": "eCcpSIcGUVo",
-    "streamUrl": "https://www.youtube.com/watch?v=eCcpSIcGUVo"
-  },
-  {
-    "id": "live-nbb002",
-    "title": "LDB 2026 | Vasco x Pato Basquete",
-    "badge": "NBB Caixa",
-    "dateTime": "27 JUN - 18:00",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/2FSgLjZOkms/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "LDB 2026 | Vasco x Pato Basquete | Sede Mogi das Cruzes | 27/06/26 | Ao vivo | 18:00",
-    "youtubeId": "2FSgLjZOkms",
-    "streamUrl": "https://www.youtube.com/watch?v=2FSgLjZOkms"
-  },
-  {
-    "id": "live-nbb003",
-    "title": "LDB 2026 | Flamengo x Mogi",
-    "badge": "NBB Caixa",
-    "dateTime": "27 JUN - 20:15",
-    "category": "Basquete",
-    "image": "https://i.ytimg.com/vi/RgkB3V4BFK4/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "LDB 2026 | Flamengo x Mogi | Sede Mogi das Cruzes | 27/06/26 | Ao vivo | 20:15",
-    "youtubeId": "RgkB3V4BFK4",
-    "streamUrl": "https://www.youtube.com/watch?v=RgkB3V4BFK4"
-  },
-  {
-    "id": "live-bochas001",
-    "title": "TORNEIO FESTA DO PEIXE DE TRIOS ASSERBOCHA - TRAMANDAI",
-    "badge": "Canal Bochas",
-    "dateTime": "27 JUN - 10:00",
-    "category": "Bocha",
-    "image": "https://i.ytimg.com/vi/FivQYmXKVMM/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: TORNEIO FESTA DO PEIXE DE TRIOS ASSERBOCHA - TRAMANDAI",
-    "youtubeId": "FivQYmXKVMM",
-    "streamUrl": "https://www.youtube.com/watch?v=FivQYmXKVMM"
-  },
-  {
-    "id": "live-bochas002",
-    "title": "TORNEIO FESTA DO PEIXE DE TRIOS ASSERBOCHA - TRAMANDAI - 2° FASE",
-    "badge": "Canal Bochas",
-    "dateTime": "27 JUN - 14:30",
-    "category": "Bocha",
-    "image": "https://i.ytimg.com/vi/Uf-ISY-z6Gg/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: TORNEIO FESTA DO PEIXE DE TRIOS ASSERBOCHA - TRAMANDAI - 2° FASE",
-    "youtubeId": "Uf-ISY-z6Gg",
-    "streamUrl": "https://www.youtube.com/watch?v=Uf-ISY-z6Gg"
-  },
-  {
-    "id": "live-bochas003",
+    "id": "live-bochas_pve001",
     "title": "JACI'S BAR X ESPORTIVO SANTA CATARINA - FINAL MUNICIPAL DE BOCHA",
     "badge": "PVE Transmissões",
     "dateTime": "27 JUN - 14:30",
@@ -320,20 +220,7 @@
     "streamUrl": "https://www.youtube.com/watch?v=TIYwKKapqlE"
   },
   {
-    "id": "live-bochas004",
-    "title": "SEMIFINAL CAMPEONATO CATARINENSE DE BOCHA FEMININO DE TRIOS",
-    "badge": "febosctv",
-    "dateTime": "27 JUN - 16:00",
-    "category": "Bocha",
-    "image": "https://i.ytimg.com/vi/k2XW9eO2zU0/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "SEMIFINAL CAMPEONATO CATARINENSE DE BOCHA FEMININO DE TRIOS // DIA 27/06/2026",
-    "youtubeId": "k2XW9eO2zU0",
-    "streamUrl": "https://www.youtube.com/watch?v=k2XW9eO2zU0"
-  },
-  {
-    "id": "live-bochas005",
+    "id": "live-bochas-febos-001",
     "title": "Final Regional Boteco do Gerson: Vasco da Bocha x São Paulo B",
     "badge": "febosctv",
     "dateTime": "27 JUN - 16:00",
@@ -344,19 +231,6 @@
     "videoUrlPlaceholder": "Final Regional Boteco do Gerson em Mariano Moro. Vasco da Bocha x São Paulo B",
     "youtubeId": "3dcIE-Jptfk",
     "streamUrl": "https://www.youtube.com/watch?v=3dcIE-Jptfk"
-  },
-  {
-    "id": "live-bochas006",
-    "title": "FINAL DA BOCHA - CAMPEONATO MUNICIPAL DE APIÚNA",
-    "badge": "Vale Regional - VALECAST",
-    "dateTime": "27 JUN - 15:00",
-    "category": "Bocha",
-    "image": "https://i.ytimg.com/vi/ZsoXt4CEIPU/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "FINAL DA BOCHA - CAMPEONATO MUNICIPAL DE APIÚNA",
-    "youtubeId": "ZsoXt4CEIPU",
-    "streamUrl": "https://www.youtube.com/watch?v=ZsoXt4CEIPU"
   },
   {
     "id": "live-baseball001",
