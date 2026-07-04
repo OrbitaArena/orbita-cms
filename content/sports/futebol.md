@@ -60,6 +60,12 @@ Segunda, 6/jul
 
 21h - Estados Unidos x Bélgica (📺 CazéTV)
 
+Terça, 7/jul
+
+13h - Argentina x Egito (📺 CazéTV, SBT, Canais Globo)
+
+17h - Suíça x Colômbia (📺 CazéTV)
+
 ## Brasileiro Série B
 
 Terça, 30/jun
