@@ -1,276 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-esp-aut",
-      "sport": "FIFA",
-      "apiId": "760497",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "16:00",
-      "date": "02/07",
-      "seriesInfo": "Espanha passeia e avança",
-      "stadium": "SoFi Stadium",
-      "location": "Inglewood, California, EUA",
-      "dateTime": "02 JUL - 16:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Espanha",
-        "code": "ESP",
-        "flag": "🇪🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Áustria",
-        "code": "AUT",
-        "flag": "🇦🇹",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-por-cro",
-      "sport": "FIFA",
-      "apiId": "760496",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "CR7 marca, Portugal avança",
-      "time": "20:00",
-      "date": "02/07",
-      "seriesInfo": "CR7 marca, Portugal avança",
-      "stadium": "BMO Field",
-      "location": "Toronto, Canadá",
-      "dateTime": "02 JUL - 20:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "🇵🇹",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Croácia",
-        "code": "CRO",
-        "flag": "🇭🇷",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-stl-atl-0207",
-      "sport": "MLB",
-      "apiId": "401815995",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:15",
-      "date": "02/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Truist Park",
-      "location": "Cumberland, Geórgia",
-      "dateTime": "02 JUL - 20:15",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Atlanta Braves",
-        "code": "ATL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "St. Louis Cardinals",
-        "code": "STL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "serieb-cui-amg",
-      "sport": "SÉRIE B",
-      "apiId": "401873977",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "02/07",
-      "seriesInfo": "ESPN, Disney+",
-      "stadium": "Arena Castelão",
-      "location": "Fortaleza, Brasil",
-      "dateTime": "02 JUL - 20:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Cuiabá",
-        "code": "CUI",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/17313.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "teamB": {
-        "name": "América/MG",
-        "code": "AMG",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6154.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "serieb-for-pon",
-      "sport": "SÉRIE B",
-      "apiId": "401873979",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "21:00",
-      "date": "02/07",
-      "seriesInfo": "ESPN, Disney+",
-      "stadium": "Arena Castelão",
-      "location": "Fortaleza, Brasil",
-      "dateTime": "02 JUL - 21:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Fortaleza",
-        "code": "FOR",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Ponte Preta",
-        "code": "PON",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=80&h=80&scale=crop&w=80",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-sui-alg",
       "sport": "FIFA",
       "apiId": "760498",
@@ -389,6 +119,8 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "featured": true,
+      "title": "Duelo Histórico",
       "time": "19:00",
       "date": "03/07",
       "seriesInfo": "CazéTV, SBT, Canais Globo",
@@ -507,6 +239,342 @@
         "name": "Gana",
         "code": "GAN",
         "flag": "🇬🇭",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-can-mar",
+      "sport": "FIFA",
+      "apiId": "760502",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "14:00",
+      "date": "04/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "NRG Stadium",
+      "location": "Houston, Texas, EUA",
+      "dateTime": "04 JUL - 14:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Canadá",
+        "code": "CAN",
+        "flag": "🇨🇦",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Marrocos",
+        "code": "MAR",
+        "flag": "🇲🇦",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-par-fra",
+      "sport": "FIFA",
+      "apiId": "760503",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "18:00",
+      "date": "04/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "Lincoln Financial Field",
+      "location": "Filadélfia, Pensilvânia, EUA",
+      "dateTime": "04 JUL - 18:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Paraguai",
+        "code": "PAR",
+        "flag": "🇵🇾",
+        "score": 0
+      },
+      "teamB": {
+        "name": "França",
+        "code": "FRA",
+        "flag": "🇫🇷",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-bra-nor",
+      "sport": "FIFA",
+      "apiId": "760504",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "17:00",
+      "date": "05/07",
+      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "stadium": "MetLife Stadium",
+      "location": "East Rutherford, New Jersey, EUA",
+      "dateTime": "05 JUL - 17:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Brasil",
+        "code": "BRA",
+        "flag": "🇧🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Noruega",
+        "code": "NOR",
+        "flag": "🇳🇴",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-mex-eng",
+      "sport": "FIFA",
+      "apiId": "760505",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "05/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "Estadio Banorte",
+      "location": "Cidade do México, México",
+      "dateTime": "05 JUL - 21:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "México",
+        "code": "MEX",
+        "flag": "🇲🇽",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Inglaterra",
+        "code": "ENG",
+        "flag": "🇬🇧",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-por-esp",
+      "sport": "FIFA",
+      "apiId": "760506",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "16:00",
+      "date": "06/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "AT&T Stadium",
+      "location": "Arlington, Texas, EUA",
+      "dateTime": "06 JUL - 16:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Portugal",
+        "code": "POR",
+        "flag": "🇵🇹",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Espanha",
+        "code": "ESP",
+        "flag": "🇪🇸",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-usa-bel",
+      "sport": "FIFA",
+      "apiId": "760507",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "06/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "Lumen Field",
+      "location": "Seattle, Washington, EUA",
+      "dateTime": "06 JUL - 21:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Estados Unidos",
+        "code": "USA",
+        "flag": "🇺🇸",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Bélgica",
+        "code": "BEL",
+        "flag": "🇧🇪",
         "score": 0
       },
       "homeKeyPlayers": [],
