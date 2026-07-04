@@ -42,6 +42,24 @@ Sexta, 3/jul
 
 22h30 - Colômbia x Gana (📺 CazéTV)
 
+Sábado, 4/jul
+
+14h - Canadá x MArrocos (📺 CazéTV)
+
+18h - Paraguai x França (📺 CazéTV)
+
+Domingo, 5/jul
+
+17h - Brasil x Noruega (📺 CazéTV, SBT, Canais Globo)
+
+21h - México x Inglaterra (📺 CazéTV)
+
+Segunda, 6/jul
+
+16h - Portugal x Espanha (📺 CazéTV)
+
+21h - Estados Unidos x Bélgica (📺 CazéTV)
+
 ## Brasileiro Série B
 
 Terça, 30/jun
@@ -53,5 +71,9 @@ Quinta, 02/jul
 20h - Cuiabá x América/MG (📺 ESPN, Disney+)
 
 21h - Fortaleza x Ponte Preta (📺 ESPN, Disney+)
+
+Sábado, 04/jul
+
+20h - Goiás x Ceará (📺 Disney+, GOAT, X Sports)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
