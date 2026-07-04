@@ -383,6 +383,62 @@
       ]
     },
     {
+      "id": "serieb-goi-csc-0407",
+      "sport": "SÉRIE B",
+      "apiId": "401873981",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "04/07",
+      "seriesInfo": "Disney+, GOAT, X Sports",
+      "stadium": "Estádio da Serrinha",
+      "location": "Goiânia, Brasil",
+      "dateTime": "04 JUL - 20:00",
+      "group": "Série B",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Goiás",
+        "code": "GOI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3395.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Ceará",
+        "code": "CSC",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "wc-bra-nor",
       "sport": "FIFA",
       "apiId": "760504",
