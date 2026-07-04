@@ -663,6 +663,118 @@
       ]
     },
     {
+      "id": "wc-arg-egt",
+      "sport": "FIFA",
+      "apiId": "760509",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "13:00",
+      "date": "07/07",
+      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "stadium": "Mercedes-Benz Stadium",
+      "location": "Atlanta, Georgia, EUA",
+      "dateTime": "07 JUL - 13:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Argentina",
+        "code": "ARG",
+        "flag": "🇦🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Egito",
+        "code": "EGT",
+        "flag": "🇪🇬",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-sui-col",
+      "sport": "FIFA",
+      "apiId": "760508",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "17:00",
+      "date": "07/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "BC Place",
+      "location": "Vancouver, Canadá",
+      "dateTime": "07 JUL - 17:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Suiça",
+        "code": "SUI",
+        "flag": "🇨🇭",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Colômbia",
+        "code": "COL",
+        "flag": "🇨🇴",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "sula-dim-vas-220726",
       "sport": "SULAMERICANA",
       "apiId": "",
