@@ -661,89 +661,159 @@
           "ratioA": 50
         }
       ]
+    },
+    {
+      "id": "sula-dim-vas-220726",
+      "sport": "SULAMERICANA",
+      "apiId": "",
+      "autoUpdate": true,
+      "league": "Copa Sulamericana",
+      "status": "UPCOMING",
+      "time": "19:00",
+      "date": "22/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Estadio Atanasio Girardot",
+      "location": "Medelín, Colômbia",
+      "dateTime": "22 JUL - 19:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Independiente Medellín",
+        "code": "DIM",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2690.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Vasco",
+        "code": "VAS",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "sula-vas-dim-290726",
+      "sport": "SULAMERICANA",
+      "apiId": "",
+      "autoUpdate": true,
+      "league": "Copa Sul-Americana",
+      "status": "UPCOMING",
+      "time": "19:00",
+      "date": "29/07",
+      "seriesInfo": "Disney+",
+      "stadium": "São Januário",
+      "location": "Rio de Janeiro, Brasil",
+      "dateTime": "29 JUL - 19:00",
+      "group": "Oitavas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Vasco",
+        "code": "VAS",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Independiente Medellín",
+        "code": "DIM",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2690.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
     }
   ],
   "todayMatches": [
     {
-      "id": "wc-aus-egt",
+      "id": "wc-par-fra",
       "sport": "FIFA",
-      "apiId": "760499",
+      "apiId": "760503",
       "autoUpdate": true,
-      "time": "15:00",
+      "time": "18:00",
       "group": "Copa do Mundo",
-      "stadium": "AT&T Stadium",
-      "tv": "CazéTV, SporTV",
-      "teamA": {
-        "name": "Austrália",
-        "flag": "🇦🇺",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Egito",
-        "flag": "🇪🇬",
-        "score": 0
-      },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "wc-arg-cpv",
-      "sport": "FIFA",
-      "apiId": "760500",
-      "autoUpdate": true,
-      "time": "19:00",
-      "group": "Copa do Mundo",
-      "stadium": "Hard Rock Stadium",
-      "tv": "CazéTV, SBT, Canais Globo",
-      "teamA": {
-        "name": "Argentina",
-        "flag": "🇦🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Cabo Verde",
-        "flag": "🇨🇻",
-        "score": 0
-      },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "mlb-nym-atl-0307",
-      "sport": "MLB",
-      "apiId": "401816005",
-      "autoUpdate": true,
-      "time": "20:15",
-      "group": "MLB",
-      "stadium": "Truist Park",
-      "tv": "ESPN 4, Disney+",
-      "teamA": {
-        "name": "Atlanta Braves",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "New York Mets",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "wc-col-gan",
-      "sport": "FIFA",
-      "apiId": "760501",
-      "autoUpdate": true,
-      "time": "22:30",
-      "group": "Copa do Mundo",
-      "stadium": "GEHA Field at Arrowhead Stadium",
+      "stadium": "Lincoln Financial Field",
       "tv": "CazéTV",
       "teamA": {
-        "name": "Colômbia",
-        "flag": "🇨🇴",
+        "name": "Paraguai",
+        "flag": "🇵🇾",
         "score": 0
       },
       "teamB": {
-        "name": "Gana",
-        "flag": "🇬🇭",
+        "name": "França",
+        "flag": "🇫🇷",
+        "score": 0
+      },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "serieb-goi-csc-0407",
+      "sport": "SÉRIEB",
+      "apiId": "401873981",
+      "autoUpdate": true,
+      "time": "20:00",
+      "group": "Brasileiro Série B",
+      "stadium": "Estádio da Serrinha",
+      "tv": "Disney+, GOAT, X Sports",
+      "teamA": {
+        "name": "Goiás",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3395.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Ceará",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "status": "UPCOMING"
