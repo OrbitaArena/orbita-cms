@@ -1,25 +1,17 @@
 # JOGOS DE HOJE
 
-## Sexta, 03/jul
+## Sábado, 04/jul
 
-0h - Copa do Mundo: Suíça x Argélia (📺 CazéTV)
+14h - Copa do Mundo: Canadá x Marrocos (📺 CazéTV)
 
-15h - Copa do Mundo: Austrália x Egito (📺 CazéTV, SporTV)
+16h - Série B: Criciúma x Sport (📺 Disney+)
 
-19h - Copa do Mundo: Argentina x Cabo Verde (📺 CazéTV, SBT, Canais Globo)
+16h - Série B: Novo Horizontino x Atlético Goianiense (📺 Disney+)
 
-20h - MLB: New York Mets x Atlanta Braves (ESPN 4 e Disney+)
+16h - Série B: Londrina x CRB (📺 Disney+)
 
-22h30 - Copa do Mundo: Colômbia x Gana (📺 CazéTV)
+18h - Copa do Mundo: Paraguai x França (📺 CazéTV)
 
-Beisebol e Softbol (📺 Disney+)
-
-19h30 - Colorado 4th July (softbol): Jogo a definir
-
-22h - LMB: Pericos de Puebla x Guerreros de Oaxaca
-
-22h30 - Colorado 4th July (softbol): Jogo a definir
-
-23h30 - LMB: Caliente de Durango x Toros de Tijuana
+20h - Série B: Goiás x Ceará (📺 Disney+, GOAT, X Sports)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
