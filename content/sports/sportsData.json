@@ -1,276 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-sui-alg",
-      "sport": "FIFA",
-      "apiId": "760498",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "00:00",
-      "date": "03/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "BC Place",
-      "location": "Vancouver, Canadá",
-      "dateTime": "03 JUL - 00:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Suíça",
-        "code": "SUI",
-        "flag": "🇨🇭",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Argélia",
-        "code": "ALG",
-        "flag": "🇩🇿",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-aus-egt",
-      "sport": "FIFA",
-      "apiId": "760499",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "15:00",
-      "date": "03/07",
-      "seriesInfo": "CazéTV, SporTV",
-      "stadium": "AT&T Stadium",
-      "location": "Arlington, Texas, EUA",
-      "dateTime": "03 JUL - 15:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Austrália",
-        "code": "AUS",
-        "flag": "🇦🇺",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Egito",
-        "code": "EGT",
-        "flag": "🇪🇬",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-arg-cpv",
-      "sport": "FIFA",
-      "apiId": "760500",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "Duelo Histórico",
-      "time": "19:00",
-      "date": "03/07",
-      "seriesInfo": "CazéTV, SBT, Canais Globo",
-      "stadium": "Hard Rock Stadium",
-      "location": "Miami Gardens, Flórida, EUA",
-      "dateTime": "03 JUL - 19:00",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Argentina",
-        "code": "ARG",
-        "flag": "🇦🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Cabo Verde",
-        "code": "CPV",
-        "flag": "🇨🇻",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-nym-atl-0307",
-      "sport": "MLB",
-      "apiId": "401816005",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:15",
-      "date": "03/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Truist Park",
-      "location": "Cumberland, Geórgia",
-      "dateTime": "03 JUL - 20:15",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Atlanta Braves",
-        "code": "ATL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "New York Mets",
-        "code": "NYM",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "wc-col-gan",
-      "sport": "FIFA",
-      "apiId": "760501",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "22:30",
-      "date": "03/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "GEHA Field at Arrowhead Stadium",
-      "location": "Kansas City, Missouri, EUA",
-      "dateTime": "03 JUL - 22:30",
-      "group": "16 avos",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Colômbia",
-        "code": "COL",
-        "flag": "🇨🇴",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Gana",
-        "code": "GAN",
-        "flag": "🇬🇭",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-can-mar",
       "sport": "FIFA",
       "apiId": "760502",
@@ -444,6 +174,8 @@
       "apiId": "760504",
       "autoUpdate": true,
       "league": "Copa do Mundo",
+      "featured": true,
+      "title": "A Batalha de Nova Jersey!",
       "status": "UPCOMING",
       "time": "17:00",
       "date": "05/07",
@@ -463,6 +195,106 @@
         "name": "Noruega",
         "code": "NOR",
         "flag": "🇳🇴",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "mlb-sd-lad-0507",
+      "sport": "MLB",
+      "apiId": "401816043",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "05/07",
+      "seriesInfo": "ESPN 3, Disney+",
+      "stadium": "Dodger Stadium",
+      "location": "Los Angeles, California",
+      "dateTime": "05 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Los Angeles Dodgers",
+        "code": "LAD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "San Diego Padres",
+        "code": "SD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "serieb-nau-juv-0507",
+      "sport": "SÉRIE B",
+      "apiId": "401873980",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "20:30",
+      "date": "05/07",
+      "seriesInfo": "SporTV, Premiere",
+      "stadium": "Estádio dos Aflitos",
+      "location": "Recife, Brasil",
+      "dateTime": "05 JUL - 20:30",
+      "group": "Série B",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Náutico",
+        "code": "NAU",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7633.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Juventude",
+        "code": "JUV",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "homeKeyPlayers": [],
@@ -603,6 +435,50 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "mlb-yankees-rays-0607",
+      "sport": "MLB",
+      "apiId": "401816046",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "19:30",
+      "date": "06/07",
+      "seriesInfo": "ESPN 4, Disney+",
+      "stadium": "Tropicana Field",
+      "location": "St. Petersburg, Flórida",
+      "dateTime": "06 JUL - 19:30",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Tampa Bay Rays",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "New York Yankees",
+        "code": "NYY",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
         }
       ]
     },
@@ -771,6 +647,182 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "mlb-yankees-rays-0707",
+      "sport": "MLB",
+      "apiId": "401816058",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "19:30",
+      "date": "07/07",
+      "seriesInfo": "ESPN 4, Disney+",
+      "stadium": "Tropicana Field",
+      "location": "St. Petersburg, Flórida",
+      "dateTime": "07 JUL - 19:30",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Tampa Bay Rays",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "New York Yankees",
+        "code": "NYY",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-phillies-reds-0807",
+      "sport": "MLB",
+      "apiId": "401816074",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "08/07",
+      "seriesInfo": "ESPN 3, Disney+",
+      "stadium": "Great American Ball Park",
+      "location": "Cincinnati, Ohio",
+      "dateTime": "08 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Cincinnati Reds",
+        "code": "CIN",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cin.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Philadelphia Phillies",
+        "code": "PHI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-brewers-cardinals-0907",
+      "sport": "MLB",
+      "apiId": "401816093",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:30",
+      "date": "09/07",
+      "seriesInfo": "ESPN 4, Disney+",
+      "stadium": "Busch Stadium",
+      "location": "St. Louis, Missouri",
+      "dateTime": "09 JUL - 20:30",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "St. Louis Cardinals",
+        "code": "STL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Milwaukee Brewers",
+        "code": "MIL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/mil.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-mariners-rays-1007",
+      "sport": "MLB",
+      "apiId": "401816103",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "10/07",
+      "seriesInfo": "ESPN 4, Disney+",
+      "stadium": "Busch Stadium",
+      "location": "St. Louis, Missouri",
+      "dateTime": "10 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Tampa Bay Rays",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Seattle Mariners",
+        "code": "SEA",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sea.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
         }
       ]
     },
