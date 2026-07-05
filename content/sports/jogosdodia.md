@@ -1,17 +1,13 @@
 # JOGOS DE HOJE
 
-## Sábado, 04/jul
+## Domingo, 05/jul
 
-14h - Copa do Mundo: Canadá x Marrocos (📺 CazéTV)
+17h - Copa do Mundo: Brasil x Noruega (📺 CazéTV, SBT, Canais Globo)
 
-16h - Série B: Criciúma x Sport (📺 Disney+)
+20h - MLB: San Diego Padres x Los Angeles Dodgers (📺 ESPN3, Disney+)
 
-16h - Série B: Novo Horizontino x Atlético Goianiense (📺 Disney+)
+20h30 - Série B: Náutico x Juventude (📺 SporTV, Premiere)
 
-16h - Série B: Londrina x CRB (📺 Disney+)
-
-18h - Copa do Mundo: Paraguai x França (📺 CazéTV)
-
-20h - Série B: Goiás x Ceará (📺 Disney+, GOAT, X Sports)
+21h - Copa do Mundo: México x Inglaterra (📺 CazéTV)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
