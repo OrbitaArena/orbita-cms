@@ -22,6 +22,30 @@ Sexta, 3/jul
 
 20h - New York Mets x Atlanta Braves (ESPN 4 e Disney+)
 
+Domingo, 5/jul
+
+20h - San Diego Padres x Los Angeles Dodgers (ESPN 3 e Disney+)
+
+Segunda, 6/jul
+
+19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
+
+Terça, 7,jul
+
+19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
+
+Quarta, 8/jul
+
+20h - Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
+
+Quinta, 9/jul
+
+20h30 MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
+
+Sexta, 10/jul
+
+20h - Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
+
 ## BEISEBOL E SOFTBOL NO DISNEY+
 
 Segunda, 29/jun
