@@ -13,6 +13,32 @@
     "featured": true
   },
   {
+    "id": "live-poff001",
+    "title": "COPA ITÁLIA KIDS 2026 | SEMI E FINAIS | sub 08, 09 e 10",
+    "badge": "Poffo Sports",
+    "dateTime": "05 JUL - 08:00",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/hnHUyCm_v3U/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "featured": true,
+    "videoUrlPlaceholder": "⚽ COPA ITÁLIA KIDS 2026 | SEMI E FINAIS | sub 08, 09 e 10⚽",
+    "youtubeId": "hnHUyCm_v3U",
+    "streamUrl": "https://www.youtube.com/watch?v=hnHUyCm_v3U"
+  },
+  {
+    "id": "live-criquete002",
+    "title": "LIVE Cricket - Yorkshire v Leicestershire Foxes",
+    "badge": "Yorkshire Cricket",
+    "dateTime": "05 JUL - 10:00",
+    "category": "Críquete",
+    "image": "https://i.ytimg.com/vi/YQ06zuT0FEc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "featured": true,
+    "videoUrlPlaceholder": "🔴 LIVE Cricket - Yorkshire v Leicestershire Foxes | Vitality Blast at Headingley",
+    "youtubeId": "YQ06zuT0FEc",
+    "streamUrl": "https://www.youtube.com/watch?v=YQ06zuT0FEc"
+  },
+  {
     "id": "live-fiba3x3-002",
     "title": "LIVE 🔴 FIBA 3x3 Women's Series Xiantao Stop 2026 | Finals",
     "badge": "FIBA3x3",
