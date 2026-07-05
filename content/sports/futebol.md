@@ -68,6 +68,8 @@ Segunda, 6/jul
 
 16h - Portugal x Espanha (📺 CazéTV)
 
+29h - Série B: Vila Nova x São Bernardo (📺 ESPN)
+
 21h - Estados Unidos x Bélgica (📺 CazéTV)
 
 Terça, 7/jul
