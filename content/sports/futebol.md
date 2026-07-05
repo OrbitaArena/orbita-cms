@@ -46,11 +46,21 @@ Sábado, 4/jul
 
 14h - Canadá x MArrocos (📺 CazéTV)
 
+16h - Série B: Criciúma x Sport (📺 Disney+)
+
+16h - Série B: Novo Horizontino x Atlético Goianiense (📺 Disney+)
+
+16h - Série B: Londrina x CRB (📺 Disney+)
+
 18h - Paraguai x França (📺 CazéTV)
+
+20h - Série B: Goiás x Ceará (📺 Disney+, GOAT, X Sports)
 
 Domingo, 5/jul
 
 17h - Brasil x Noruega (📺 CazéTV, SBT, Canais Globo)
+
+20h30 - Série B: Náutico x Juventude (📺 SporTV, Premiere)
 
 21h - México x Inglaterra (📺 CazéTV)
 
