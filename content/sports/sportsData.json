@@ -1,185 +1,17 @@
 {
   "ticker": [
     {
-      "id": "wc-can-mar",
-      "sport": "FIFA",
-      "apiId": "760502",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "14:00",
-      "date": "04/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "NRG Stadium",
-      "location": "Houston, Texas, EUA",
-      "dateTime": "04 JUL - 14:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Canadá",
-        "code": "CAN",
-        "flag": "🇨🇦",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Marrocos",
-        "code": "MAR",
-        "flag": "🇲🇦",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-par-fra",
-      "sport": "FIFA",
-      "apiId": "760503",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "18:00",
-      "date": "04/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "Lincoln Financial Field",
-      "location": "Filadélfia, Pensilvânia, EUA",
-      "dateTime": "04 JUL - 18:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Paraguai",
-        "code": "PAR",
-        "flag": "🇵🇾",
-        "score": 0
-      },
-      "teamB": {
-        "name": "França",
-        "code": "FRA",
-        "flag": "🇫🇷",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "serieb-goi-csc-0407",
-      "sport": "SÉRIE B",
-      "apiId": "401873981",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "04/07",
-      "seriesInfo": "Disney+, GOAT, X Sports",
-      "stadium": "Estádio da Serrinha",
-      "location": "Goiânia, Brasil",
-      "dateTime": "04 JUL - 20:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Goiás",
-        "code": "GOI",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3395.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Ceará",
-        "code": "CSC",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-bra-nor",
       "sport": "FIFA",
       "apiId": "760504",
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "featured": true,
-      "title": "A Batalha de Nova Jersey!",
+      "title": "O SONHO DO HEXA ACABOU!",
       "status": "UPCOMING",
       "time": "17:00",
       "date": "05/07",
-      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "seriesInfo": "Haaland elimina o Brasil",
       "stadium": "MetLife Stadium",
       "location": "East Rutherford, New Jersey, EUA",
       "dateTime": "05 JUL - 17:00",
@@ -333,9 +165,10 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "title": "Bellingham desencanta!",
       "time": "21:00",
       "date": "05/07",
-      "seriesInfo": "CazéTV",
+      "seriesInfo": "Inglaterra faz história!",
       "stadium": "Estadio Banorte",
       "location": "Cidade do México, México",
       "dateTime": "05 JUL - 21:00",
@@ -941,43 +774,56 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-par-fra",
+      "id": "wc-por-esp",
       "sport": "FIFA",
-      "apiId": "760503",
+      "apiId": "760506",
       "autoUpdate": true,
-      "time": "18:00",
+      "time": "16:00",
       "group": "Copa do Mundo",
-      "stadium": "Lincoln Financial Field",
+      "stadium": "AT&T Stadium",
       "tv": "CazéTV",
       "teamA": {
-        "name": "Paraguai",
-        "flag": "🇵🇾",
+        "name": "Portugal",
+        "flag": "🇵🇹",
         "score": 0
       },
       "teamB": {
-        "name": "França",
-        "flag": "🇫🇷",
+        "name": "Espanha",
+        "flag": "🇪🇸",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "serieb-goi-csc-0407",
-      "sport": "SÉRIEB",
-      "apiId": "401873981",
+      "id": "mlb-yankees-rays-0607",
+      "sport": "MLB",
+      "apiId": "401816046",
       "autoUpdate": true,
-      "time": "20:00",
-      "group": "Brasileiro Série B",
-      "stadium": "Estádio da Serrinha",
-      "tv": "Disney+, GOAT, X Sports",
+      "time": "19:30",
+      "group": "MLB",
+      "stadium": "Tropicana Field",
+      "tv": "ESPN4 / Disney+",
+      "teamA": { "name": "Tampa Bay Rays", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
+      "teamB": { "name": "New York Yankees", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "wc-usa-bel",
+      "sport": "FIFA",
+      "apiId": "760507",
+      "autoUpdate": true,
+      "time": "21:00",
+      "group": "Copa do Mundo",
+      "stadium": "Lumen Field",
+      "tv": "CazéTV",
       "teamA": {
-        "name": "Goiás",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3395.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "Estados Unidos",
+        "flag": "🇺🇸",
         "score": 0
       },
       "teamB": {
-        "name": "Ceará",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "Bélgica",
+        "flag": "🇧🇪",
         "score": 0
       },
       "status": "UPCOMING"
