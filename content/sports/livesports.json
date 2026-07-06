@@ -1,4 +1,30 @@
-[
+[ 
+  {
+    "id": "live-softbol-jls26",
+    "title": Brasil 🆚 Guánica – AO VIVO 🥎🇧🇷 | 2026 JLS Latin America Region",
+    "badge": "Terrão TV",
+    "dateTime": "06 JUL - 14:30",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/xmcJbcmmlVQ/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Brasil 🆚 Guánica – AO VIVO 🥎🇧🇷 | 2026 JLS Latin America Region",
+    "youtubeId": "xmcJbcmmlVQ",
+    "streamUrl": "https://www.youtube.com/watch?v=xmcJbcmmlVQ",
+    "featured": true
+  },
+  {
+    "id": "live-new-921",
+    "title": "AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S.",
+    "badge": "Canal Bochas",
+    "dateTime": "05 JUL - 15:30",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/eKvY6MXy-W8/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S. - FINAL",
+    "youtubeId": "eKvY6MXy-W8",
+    "streamUrl": "https://www.youtube.com/watch?v=eKvY6MXy-W8",
+    "featured": true
+  },
   {
     "id": "live-new-911",
     "title": "AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S.",
@@ -6,7 +32,7 @@
     "dateTime": "05 JUL - 13:30",
     "category": "Bocha",
     "image": "https://i.ytimg.com/vi/r2YjMqlAu68/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: TORNEIO DE TRIOS FEMININO FLAMENGO GUARDA MOR - FAXINAL DO S. - SEMIFINAL",
     "youtubeId": "r2YjMqlAu68",
     "streamUrl": "https://www.youtube.com/watch?v=r2YjMqlAu68",
