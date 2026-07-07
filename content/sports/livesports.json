@@ -1,5 +1,18 @@
 [ 
   {
+    "id": "live-bochas-febos-002",
+    "title": "1ª RODADA 1ª FASE JASC FASE MICRORREGIONAL DE BOCHA EM RIO DO SUL",
+    "badge": "febosctv",
+    "dateTime": "07 JUL - 19:30",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/VXUaI1dDU-Y/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "1ª RODADA 1ª FASE JASC FASE MICRORREGIONAL DE BOCHA EM RIO DO SUL // 07/07/2026",
+    "youtubeId": "VXUaI1dDU-Y",
+    "streamUrl": "https://www.youtube.com/watch?v=VXUaI1dDU-Y"
+  },
+  {
     "id": "live-softbol-jls26-02",
     "title": "🥎 Brasil vs México – AO VIVO | 2026 JLS Latin America Region",
     "badge": "Terrão TV",
