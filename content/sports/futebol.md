@@ -30,13 +30,13 @@ Sábado, 11/jul
 
 ## Brasileiro Série B
 
-Segunda, 06/jul
+Segunda, 6/jul
 
 19h - Vila Nova x São Bernardo (📺 ESPN, XSports, SportyNet)
 
 19h - Botafogo/SP x Avaí (📺 Disney+)
 
-Terça, 07/Jul
+Terça, 7/Jul
 
 20h - Athletic x Operário-PR (📺 Disney+)
 
@@ -70,7 +70,7 @@ Segunda, 13/jul
 
 ## Brasileiro Série C
 
-Segunda, 06/jul
+Segunda, 6/jul
 
 19h - Brusque x Figueirense (📺 SportyNet)
 
@@ -78,13 +78,19 @@ Segunda, 06/jul
 
 ## Brasileiro Série D
 
-Segunda, 06/jul
+Segunda, 6/jul
 
 20h - Ivinhema/MS x ASA (📺 Metrópolis)
 
 ## MLB & USL
 
-Quarta, 08/jul
+Terça, 7/jul
+
+22h -	MLS Next Pro: Vancouver 2 x Ventura County (📺 Onefootball)
+
+23h	- MLS Next Pro: San Jose Earthquakes II x Sporting KC II (📺 Onefootball)
+
+Quarta, 8/jul
 
 20:00	USL Championship: Hartford Athletic	x	Orange County SC	(📺 Disney+)
 
