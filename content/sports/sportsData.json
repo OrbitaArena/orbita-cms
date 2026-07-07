@@ -528,6 +528,41 @@
       ]
     },
     {
+      "id": "wnba-wings-liberty-0707",
+      "sport": "WNBA",
+      "apiId": "401857046",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "07/07",
+      "seriesInfo": "ESPN2",
+      "stadium": "Barclays Center",
+      "location": "Brooklyn, NY",
+      "dateTime": "07 JUL - 21:00",
+      "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+      "group": "WNBA",
+      "teamA": {
+        "name": "New York Liberty",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Dallas Wings",
+        "code": "NYY",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        { "label": "Aproveitamento %", "valueA": "42.7%", "valueB": "38.0%", "ratioA": 53 },
+        { "label": "Rebotes", "valueA": "51", "valueB": "35", "ratioA": 59 },
+        { "label": "Assistências", "valueA": "25", "valueB": "18", "ratioA": 58 }
+      ]
+    },
+    {
       "id": "mlb-phillies-reds-0807",
       "sport": "MLB",
       "apiId": "401816074",
@@ -774,30 +809,51 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-por-esp",
+      "id": "wc-arg-egt",
       "sport": "FIFA",
-      "apiId": "760506",
+      "apiId": "760509",
       "autoUpdate": true,
-      "time": "16:00",
+      "time": "13:00",
       "group": "Copa do Mundo",
-      "stadium": "AT&T Stadium",
-      "tv": "CazéTV",
+      "stadium": "Mercedes-Benz Stadium",
+      "tv": "CazéTV, SBT, Canais Globo",
       "teamA": {
-        "name": "Portugal",
-        "flag": "🇵🇹",
+        "name": "Argentina",
+        "flag": "🇦🇷",
         "score": 0
       },
       "teamB": {
-        "name": "Espanha",
-        "flag": "🇪🇸",
+        "name": "Egito",
+        "flag": "🇪🇬",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "mlb-yankees-rays-0607",
+      "id": "wc-sui-col",
+      "sport": "FIFA",
+      "apiId": "760508",
+      "autoUpdate": true,
+      "time": "17:00",
+      "group": "Copa do Mundo",
+      "stadium": "BC Place",
+      "tv": "CazéTV",
+      "teamA": {
+        "name": "Suiça",
+        "flag": "🇨🇭",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Colômbia",
+        "flag": "🇨🇴",
+        "score": 0
+      },
+      "status": "UPCOMING"
+    },
+    {
+      "id": "mlb-yankees-rays-0707",
       "sport": "MLB",
-      "apiId": "401816046",
+      "apiId": "401816058",
       "autoUpdate": true,
       "time": "19:30",
       "group": "MLB",
@@ -808,24 +864,16 @@
       "status": "UPCOMING"
     },
     {
-      "id": "wc-usa-bel",
-      "sport": "FIFA",
-      "apiId": "760507",
+      "id": "wnba-wings-liberty-0707",
+      "sport": "WNBA",
+      "apiId": "401857046",
       "autoUpdate": true,
       "time": "21:00",
-      "group": "Copa do Mundo",
-      "stadium": "Lumen Field",
-      "tv": "CazéTV",
-      "teamA": {
-        "name": "Estados Unidos",
-        "flag": "🇺🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Bélgica",
-        "flag": "🇧🇪",
-        "score": 0
-      },
+      "group": "WNBA",
+      "stadium": "Barclays Center",
+      "tv": "ESPN2",
+      "teamA": { "name": "New York Liberty", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "Dallas Wings", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
