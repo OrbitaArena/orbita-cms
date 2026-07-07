@@ -14,6 +14,20 @@ Terça, 7/jul
 
 17h - Suíça x Colômbia (📺 CazéTV)
 
+Quinta, 9/jul
+
+17h - Copa do Mundo: França x Marrocos (📺 CazéTV)
+
+Sexta, 10/jul
+
+16h - Copa do Mundo: Espanha x Bélgica  (📺 CazéTV)
+
+Sábado, 11/jul
+
+18h - Copa do Mundo: Noruega x Inglaterra  (📺 CazéTV)
+
+22h - Copa do Mundo: ??? x ???  (📺 CazéTV)
+
 ## Brasileiro Série B
 
 Segunda, 06/jul
@@ -29,6 +43,30 @@ Terça, 07/Jul
 Quarta, 8/jul
 
 20h - Ponte Preta x Criciúma (📺 ESPN)
+
+Sexta, 10/jul
+
+19h - Série B: Juventude x Vila Nova (📺 Disney+)
+
+20h - Série B: Sport x Botafogo/SP (📺 Disney+)
+
+Domingo, 12/jul
+
+11h - Série B: Operário/PR x Novorizontino (📺 Disney+)
+
+16h - Série B: Avaí x Náutico (📺 Disney+)
+
+16h - Série B: São Bernardo x Cuiabá (📺 Disney+)
+
+18h - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
+
+19h - Série B: CRB x Goiás (📺 Disney+)
+
+Segunda, 13/jul
+
+19h - Série B: América Mineiro x Londrina (📺 Disney+)
+
+20h30 - Série B: Ceará x Athletic (📺 Disney+)
 
 ## Brasileiro Série C
 
