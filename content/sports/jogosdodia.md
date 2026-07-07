@@ -6,7 +6,7 @@
 
 17h - Copa26: Suíça x Colômbia (📺 CazéTV)
 
-MLB: 19h30 - New York Yankees x Tampa Bay Rays (📺 ESPN4, Disney+)
+19h30 - MLB: New York Yankees x Tampa Bay Rays (📺 ESPN4, Disney+)
 
 20h - SérieB: Athletic x Operário-PR (📺 Disney+)
 
