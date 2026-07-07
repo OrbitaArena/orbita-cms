@@ -1,27 +1,23 @@
 # JOGOS DE HOJE
 
-## Segunda, 06/jul
+## Terça, 07/jul
 
-16h - Copa26: Portugal x Espanha (📺 CazéTV)
+13h - Copa26: Argentina x Egito (📺 CazéTV, SBT, Globo)
 
-19h - SérieB: Vila Nova x São Bernardo (📺 ESPN, XSports, SportyNet)
+17h - Copa26: Suíça x Colômbia (📺 CazéTV)
 
-19h - SérieB: Botafogo/SP x Avaí (📺 Disney+)
+MLB: 19h30 - New York Yankees x Tampa Bay Rays (📺 ESPN4, Disney+)
 
-19h - SérieC: Brusque x Figueirense (📺 SportyNet)
+20h - SérieB: Athletic x Operário-PR (📺 Disney+)
 
-19h30 - MLB: New York Yankees x Tampa Bay Rays (📺 ESPN4, Disney+)
+20h - NBA: Salt Lake City Summer League (📺 Disney+)
 
-20h - AUSL (softbol): Texas Volts x Chicago Bandits (📺 Disney+)
+20h - AUSL (softbol): Carolina Blaze x Portland Cascade (📺 Disney+)
 
-20h - SérieD: Ivinhema/MS x ASA (📺 Metrópolis)
+21h - WNBA: Dallas Wings x New York Liberty (📺 ESPN2)
 
-21h - Copa26: Estados Unidos x Bélgica (📺 CazéTV)
+22h - LMB: Guerreros de Oaxaca x El Águila de Veracruz (📺 Disney+)
 
-21h - SérieC: Amaxonas x Itabaiana (📺 SportyNet)
-
-21h - LNF Futsal: Santo André x Joinville (📺 XSports, LNFTV)
-
-22h30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
+22h30 - LMB: Toros de Tijuana x Rieleros de Aguascalientes (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
