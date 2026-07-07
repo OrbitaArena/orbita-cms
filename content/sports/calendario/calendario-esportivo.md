@@ -1,29 +1,29 @@
 # CALENDÁRIO ESPORTIVO
 
-## Domingo, 05/jul
+## Quarta, 08/jul
 
-11h - Série C: Ypiranga/RS x Paysandu (📺 SportyNet)
+08:55 - Ciclismo: Tour de France Etapa 5 (📺 Disney+)
 
-11h30 - LNF Futsal: Jaraguá x Cascavel (📺 X Sports, LNFTV)
+10:15 - Ciclismo: Tour de France Etapa 5 (📺 ESPN3)
 
-13h - NWSL: Boston Legacy x Bay FC (📺 ESPN3, Disney+)
+20:00 - SérieB: Ponte Preta x Criciúma (📺 ESPN)
 
-13h - PLL Lacrosse All-Star: West x East (📺 Disney+)
+20:00 - MLB: Philadelphia Phillies x Cincinnati Reds (📺 ESPN3, Disney+)
 
-17h - Copa do Mundo: Brasil x Noruega (📺 CazéTV, SBT, Canais Globo)
+20:00 - USL Championship: Hartford Athletic x Orange County SC (📺 Disney+)
 
-17h30 - NBA Summer: Miami Heat x Los Angeles Lakers (📺 Disney+)
+20:00 - USL League One: New York Cosmos x FC Naples (📺 Disney+)
 
-18h30 - WLL Lacrosse All-Star: Team Izzy x Team Humphrey (📺 Disney+)
+20:00 - USL League One: Greenville Triumph SC x Sarasota Paradise (📺 Disney+)
 
-20h - MLB: San Diego Padres x Los Angeles Dodgers (📺 ESPN3, Disney+)
+21:00 - Amistoso: Boca Juniors x Athletico Paranaense (📺 ESPN4)
 
-20h - WNBA: Indiana Fever x Las Vegas Aces (📺 ESPN2)
+21:30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos (📺 Disney+)
 
-20h30 - Série B: Náutico x Juventude (📺 SporTV, Premiere)
+22:30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
 
-21h - Copa do Mundo: México x Inglaterra (📺 CazéTV)
+23:00 - MLB: Arizona Diamondbacks x San Diego Padres (📺 Disney+)
 
-21h - Série C: Anápolis x Botafogo/PB (📺 SportyNet)
+23:30 - USL Championship: Sacramento Republic FC x Rhode Island FC (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
