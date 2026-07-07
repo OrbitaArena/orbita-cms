@@ -13,6 +13,7 @@ Terça, 7/jul
 Quarta, 8/jul
 
 20h - Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
+
 23h - Arizona Diamondbacks x San Diego Padres (Disney+)
 
 Quinta, 9/jul
