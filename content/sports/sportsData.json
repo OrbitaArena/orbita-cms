@@ -1,386 +1,17 @@
 {
   "ticker": [
     {
-      "id": "wc-bra-nor",
-      "sport": "FIFA",
-      "apiId": "760504",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "featured": true,
-      "title": "O SONHO DO HEXA ACABOU!",
-      "status": "UPCOMING",
-      "time": "17:00",
-      "date": "05/07",
-      "seriesInfo": "Haaland elimina o Brasil",
-      "stadium": "MetLife Stadium",
-      "location": "East Rutherford, New Jersey, EUA",
-      "dateTime": "05 JUL - 17:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Brasil",
-        "code": "BRA",
-        "flag": "🇧🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Noruega",
-        "code": "NOR",
-        "flag": "🇳🇴",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-sd-lad-0507",
-      "sport": "MLB",
-      "apiId": "401816043",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "05/07",
-      "seriesInfo": "ESPN 3, Disney+",
-      "stadium": "Dodger Stadium",
-      "location": "Los Angeles, California",
-      "dateTime": "05 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Los Angeles Dodgers",
-        "code": "LAD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "San Diego Padres",
-        "code": "SD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "serieb-nau-juv-0507",
-      "sport": "SÉRIE B",
-      "apiId": "401873980",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:30",
-      "date": "05/07",
-      "seriesInfo": "SporTV, Premiere",
-      "stadium": "Estádio dos Aflitos",
-      "location": "Recife, Brasil",
-      "dateTime": "05 JUL - 20:30",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Náutico",
-        "code": "NAU",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7633.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Juventude",
-        "code": "JUV",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-mex-eng",
-      "sport": "FIFA",
-      "apiId": "760505",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "title": "Bellingham desencanta!",
-      "time": "21:00",
-      "date": "05/07",
-      "seriesInfo": "Inglaterra faz história!",
-      "stadium": "Estadio Banorte",
-      "location": "Cidade do México, México",
-      "dateTime": "05 JUL - 21:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "México",
-        "code": "MEX",
-        "flag": "🇲🇽",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Inglaterra",
-        "code": "ENG",
-        "flag": "🇬🇧",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "wc-por-esp",
-      "sport": "FIFA",
-      "apiId": "760506",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "16:00",
-      "date": "06/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "AT&T Stadium",
-      "location": "Arlington, Texas, EUA",
-      "dateTime": "06 JUL - 16:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Portugal",
-        "code": "POR",
-        "flag": "🇵🇹",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Espanha",
-        "code": "ESP",
-        "flag": "🇪🇸",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-yankees-rays-0607",
-      "sport": "MLB",
-      "apiId": "401816046",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "19:30",
-      "date": "06/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Tropicana Field",
-      "location": "St. Petersburg, Flórida",
-      "dateTime": "06 JUL - 19:30",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Tampa Bay Rays",
-        "code": "TB",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "New York Yankees",
-        "code": "NYY",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "wc-usa-bel",
-      "sport": "FIFA",
-      "apiId": "760507",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "21:00",
-      "date": "06/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "Lumen Field",
-      "location": "Seattle, Washington, EUA",
-      "dateTime": "06 JUL - 21:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Estados Unidos",
-        "code": "USA",
-        "flag": "🇺🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Bélgica",
-        "code": "BEL",
-        "flag": "🇧🇪",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-arg-egt",
       "sport": "FIFA",
       "apiId": "760509",
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "featured": true,
+      "title": "VITÓRIA ÉPICA EM BUSCA DO TETRA!",
       "time": "13:00",
       "date": "07/07",
-      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "seriesInfo": "Vitória épica de virada!",
       "stadium": "Mercedes-Benz Stadium",
       "location": "Atlanta, Georgia, EUA",
       "dateTime": "07 JUL - 13:00",
@@ -563,6 +194,62 @@
       ]
     },
     {
+      "id": "serieb-pon-cri-0807",
+      "sport": "SÉRIE B",
+      "apiId": "401873986",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "08/07",
+      "seriesInfo": "ESPN",
+      "stadium": "Moisés Lucarelli",
+      "location": "Ponte Preta, Brasil",
+      "dateTime": "08 JUL - 20:20",
+      "group": "Série B",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Ponte Preta",
+        "code": "PON",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Criciúma",
+        "code": "CRI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9971.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "mlb-phillies-reds-0807",
       "sport": "MLB",
       "apiId": "401816074",
@@ -587,6 +274,50 @@
         "name": "Philadelphia Phillies",
         "code": "PHI",
         "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-diamondbacks-padres-0807",
+      "sport": "MLB",
+      "apiId": "401816080",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "23:00",
+      "date": "08/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Petco Park",
+      "location": "San Diego, Califórnia",
+      "dateTime": "08 JUL - 23:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "San Diego Padres",
+        "code": "SD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Arizona Diamondbacks",
+        "code": "ARI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "homeKeyPlayers": [],
@@ -809,71 +540,50 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-arg-egt",
+      "id": "serieb-pon-cri-0807",
       "sport": "FIFA",
-      "apiId": "760509",
+      "apiId": "401873986",
       "autoUpdate": true,
-      "time": "13:00",
-      "group": "Copa do Mundo",
-      "stadium": "Mercedes-Benz Stadium",
-      "tv": "CazéTV, SBT, Canais Globo",
+      "time": "20:00",
+      "group": "Brasileiro Série B",
+      "stadium": "Moisés Lucarelli",
+      "tv": "ESPN",
       "teamA": {
-        "name": "Argentina",
-        "flag": "🇦🇷",
+        "name": "Ponte Preta",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3459.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Egito",
-        "flag": "🇪🇬",
+        "name": "Criciúma",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9971.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "wc-sui-col",
-      "sport": "FIFA",
-      "apiId": "760508",
-      "autoUpdate": true,
-      "time": "17:00",
-      "group": "Copa do Mundo",
-      "stadium": "BC Place",
-      "tv": "CazéTV",
-      "teamA": {
-        "name": "Suiça",
-        "flag": "🇨🇭",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Colômbia",
-        "flag": "🇨🇴",
-        "score": 0
-      },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "mlb-yankees-rays-0707",
+      "id": "mlb-phillies-reds-0807",
       "sport": "MLB",
-      "apiId": "401816058",
+      "apiId": "401816074",
       "autoUpdate": true,
-      "time": "19:30",
+      "time": "20:00",
       "group": "MLB",
-      "stadium": "Tropicana Field",
-      "tv": "ESPN4 / Disney+",
-      "teamA": { "name": "Tampa Bay Rays", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "New York Yankees", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
+      "stadium": "Great American Ball Park",
+      "tv": "ESPN3, Disney+",
+      "teamA": { "name": "Cincinnati Reds", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cin.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
+      "teamB": { "name": "Philadelphia Phillies", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
       "status": "UPCOMING"
     },
     {
-      "id": "wnba-wings-liberty-0707",
-      "sport": "WNBA",
-      "apiId": "401857046",
+      "id": "mlb-diamondbacks-padres-0807",
+      "sport": "MLB",
+      "apiId": "401816080",
       "autoUpdate": true,
-      "time": "21:00",
-      "group": "WNBA",
-      "stadium": "Barclays Center",
-      "tv": "ESPN2",
-      "teamA": { "name": "New York Liberty", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "Dallas Wings", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "time": "23:00",
+      "group": "MLB",
+      "stadium": "Petco Park",
+      "tv": "Disney+",
+      "teamA": { "name": "San Diego Padres", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "Arizona Diamondbacks", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
