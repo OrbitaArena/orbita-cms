@@ -14,9 +14,9 @@
 
 21:00 - Amistoso: Boca Juniors x Athletico Paranaense (📺 ESPN 4)
 
-21h30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos (📺 Disney+)
+21:30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos (📺 Disney+)
 
-22h30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
+22:30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
 
 23:00 - MLB: Arizona Diamondbacks x San Diego Padres (Disney+)
 
