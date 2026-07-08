@@ -1,27 +1,25 @@
 # JOGOS DE HOJE
 
-## Terça, 07/jul
+## Quarta, 08/jul
 
-13:00 - Copa26: Argentina x Egito (📺 CazéTV, SBT, Canais Globo, NSports)
+20:00 - Série B: Ponte Preta x Criciúma (📺 ESPN)
 
-17:00 - Copa26: Suíça x Colômbia (📺 CazéTV)
+20:00 - MLB: Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
 
-19:30 - MLB: New York Yankees x Tampa Bay Rays (📺 ESPN4, FOX Sports, Disney+)
+20:00 - USL Championship: Hartford Athletic x Orange County SC (📺 Disney+)
 
-20:00 - SérieB: Athletic x Operário-PR (📺 ESPN, Disney+)
+20:00 - USL League One: New York Cosmos x FC Naples (📺 Disney+)
 
-20:00 - NBA: Salt Lake City Summer League (📺 Disney+)
+20:00 - USL League One: Greenville Triumph SC x Sarasota Paradise (📺 Disney+)
 
-20:00 - AUSL (softbol): Carolina Blaze x Portland Cascade (📺 Disney+)
+21:00 - Amistoso: Boca Juniors x Athletico Paranaense (📺 ESPN 4)
 
-21:00 - WNBA: Dallas Wings x New York Liberty (📺 ESPN2)
+21h30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos (📺 Disney+)
 
-22:00 - LMB: Guerreros de Oaxaca x El Águila de Veracruz (📺 Disney+)
+22h30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
 
-22:00 -	MLS Next Pro: Vancouver 2 x Ventura County (Onefootball)
+23:00 - MLB: Arizona Diamondbacks x San Diego Padres (Disney+)
 
-22:30 - LMB: Toros de Tijuana x Rieleros de Aguascalientes (📺 Disney+)
-
-23:00	- MLS Next Pro: San Jose Earthquakes II x Sporting KC II (Onefootball)
+23:30 - USL Championship: Sacramento Republic FC x Rhode Island FC (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
