@@ -338,6 +338,62 @@
       ]
     },
     {
+      "id": "wc-fra-mar",
+      "sport": "FIFA",
+      "apiId": "760510",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "17:00",
+      "date": "09/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "Gillette Stadium",
+      "location": "Foxborough, Massachusetts, EUA",
+      "dateTime": "09 JUL - 17:00",
+      "group": "Quartas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "França",
+        "code": "FRA",
+        "flag": "🇫🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Marrocos",
+        "code": "MAR",
+        "flag": "🇲🇦",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "mlb-brewers-cardinals-0907",
       "sport": "MLB",
       "apiId": "401816093",
@@ -382,6 +438,62 @@
       ]
     },
     {
+      "id": "wc-esp-bel",
+      "sport": "FIFA",
+      "apiId": "760511",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "16:00",
+      "date": "10/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "SoFi Stadium",
+      "location": "Inglewood, California, EUA",
+      "dateTime": "10 JUL - 16:00",
+      "group": "Quartas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Espanha",
+        "code": "ESP",
+        "flag": "🇪🇸",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Bélgica",
+        "code": "BEL",
+        "flag": "🇧🇪",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "mlb-mariners-rays-1007",
       "sport": "MLB",
       "apiId": "401816103",
@@ -422,6 +534,118 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "wc-nor-eng",
+      "sport": "FIFA",
+      "apiId": "760512",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "18:00",
+      "date": "11/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "Hard Rock Stadium",
+      "location": "Miami Gardens, Flórida, EUA",
+      "dateTime": "11 JUL - 18:00",
+      "group": "Quartas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Noruega",
+        "code": "NOR",
+        "flag": "🇳🇴",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Inglaterra",
+        "code": "ENG",
+        "flag": "🇬🇧",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-arg-sui",
+      "sport": "FIFA",
+      "apiId": "760513",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "time": "22:00",
+      "date": "11/07",
+      "seriesInfo": "CazéTV",
+      "stadium": "GEHA Field at Arrowhead Stadium",
+      "location": "Kansas City, Missouri, EUA",
+      "dateTime": "11 JUL - 22:00",
+      "group": "Quartas de Final",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Argentina",
+        "code": "ARG",
+        "flag": "🇦🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Suíça",
+        "code": "ENG",
+        "flag": "🇨🇭",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
         }
       ]
     },
