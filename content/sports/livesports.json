@@ -13,6 +13,19 @@
     "featured": true
   },
   {
+    "id": "criquete-berks-001",
+    "title": "Berkshire U18 Girls vs Hampshire U18 Girls",
+    "badge": "Berkshire Cricket",
+    "dateTime": "09 JUL - 07:00",
+    "category": "Críquete",
+    "image": "https://i.ytimg.com/vi/X7Prw2qjyMk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Berkshire U18 Girls vs Hampshire U18 Girls",
+    "youtubeId": "X7Prw2qjyMk",
+    "streamUrl": "https://www.youtube.com/watch?v=X7Prw2qjyMk",
+    "featured": false
+  },
+  {
     "id": "live-fiba3x3-004",
     "title": "LIVE 🔴 FIBA 3x3 Women's Series Càceres Stop 2026 | Finals",
     "badge": "FIBA3x3",
