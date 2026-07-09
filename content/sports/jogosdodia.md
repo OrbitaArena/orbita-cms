@@ -2,7 +2,13 @@
 
 ## Quinta, 09/jul
 
+15:00 - Brasil Ladies Cup: SF/Flamengo x Peñarol (📺 XSports, Bandsports)
+
+18:00 - LNF Futsal: Lages x Sport (📺 XSports, LNFTV)
+
 17:00 - Copa do Mundo: França x Marrocos (📺 CazéTV)
+
+20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 XSports, Bandsports)
 
 20:30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
 
