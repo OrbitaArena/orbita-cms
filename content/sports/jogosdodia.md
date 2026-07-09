@@ -2,7 +2,7 @@
 
 ## Quinta, 09/jul
 
-07:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
+11:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
 
 15:00 - Brasil Ladies Cup: SF/Flamengo x Peñarol (📺 XSports, Bandsports)
 
