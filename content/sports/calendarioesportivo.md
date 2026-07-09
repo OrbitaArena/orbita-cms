@@ -160,8 +160,6 @@
 
 10:30 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
 
-10:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
-
 11:00 - Série B: Operário/PR x Novorizontino (📺 Disney+)
 
 11:20 - LNF Futsal: Jaraguá x Cascavel (📺 XSports)
@@ -194,6 +192,8 @@
 
 19:00 -	MLS Next Pro: CT United x Toronto FC II (📺 Onefootball)
 
+19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
+
 19:45 - Nascar Cup: GP de Echopark (📺 ESPN4, FOX Sports)
 
 20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN3)
@@ -202,9 +202,13 @@
 
 21:30 -	MLS Next Pro: Austin FC II x MNUFC2 (📺 Onefootball)
 
+22:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
+
 ## Segunda, 13/jul
 
 19:00 - Série B: América Mineiro x Londrina (📺 Disney+)
+
+20:15 - Série C: Figueirense x Volta Redonda (📺 SportyNet)
 
 20:30 - Série B: Ceará x Athletic (📺 ESPN, Disney+)
 
