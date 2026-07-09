@@ -1,5 +1,18 @@
 [ 
   {
+    "id": "criquete-berks-001",
+    "title": "Berkshire U18 Girls vs Hampshire U18 Girls",
+    "badge": "Berkshire Cricket",
+    "dateTime": "09 JUL - 07:00",
+    "category": "Críquete",
+    "image": "https://i.ytimg.com/vi/X7Prw2qjyMk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Berkshire U18 Girls vs Hampshire U18 Girls",
+    "youtubeId": "X7Prw2qjyMk",
+    "streamUrl": "https://www.youtube.com/watch?v=X7Prw2qjyMk",
+    "featured": false
+  },
+  {
     "id": "live-softbol-jls26-04",
     "title": "🥎 México x Brasil – AO VIVO | 2026 JLS Latin America Region",
     "badge": "Terrão TV",
@@ -13,16 +26,16 @@
     "featured": true
   },
   {
-    "id": "criquete-berks-001",
-    "title": "Berkshire U18 Girls vs Hampshire U18 Girls",
-    "badge": "Berkshire Cricket",
-    "dateTime": "09 JUL - 07:00",
-    "category": "Críquete",
-    "image": "https://i.ytimg.com/vi/X7Prw2qjyMk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "id": "fut-cacoal-001",
+    "title": "14º NOITE DE LIGA CACOAL SOCIETY 2026",
+    "badge": "Boletim Esportivo Cacoal",
+    "dateTime": "09 JUL - 20:30",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/M0NE_BhLE_I/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
-    "videoUrlPlaceholder": "Berkshire U18 Girls vs Hampshire U18 Girls",
-    "youtubeId": "X7Prw2qjyMk",
-    "streamUrl": "https://www.youtube.com/watch?v=X7Prw2qjyMk",
+    "videoUrlPlaceholder": "14º NOITE DE LIGA CACOAL SOCIETY 2026",
+    "youtubeId": "M0NE_BhLE_I",
+    "streamUrl": "https://www.youtube.com/watch?v=M0NE_BhLE_I",
     "featured": false
   },
   {
@@ -37,6 +50,32 @@
     "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Càceres Stop 2026 | Finals",
     "youtubeId": "_dhMUrF2c7A",
     "streamUrl": "https://www.youtube.com/watch?v=_dhMUrF2c7A"
+  },
+   {
+    "id": "fut-coe-001",
+    "title": "SEMIFINAL | FRANÇA X ITÁLIA - 2º CAMPEONATO TONY SOCCER/WT ENERGY 2026",
+    "badge": "Canal Coé",
+    "dateTime": "10 JUL - 20:00",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/4caQP05a__o/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "SEMIFINAL | FRANÇA X ITÁLIA - 2º CAMPEONATO TONY SOCCER/WT ENERGY 2026",
+    "youtubeId": "4caQP05a__o",
+    "streamUrl": "https://www.youtube.com/watch?v=4caQP05a__o",
+    "featured": false
+  },
+   {
+    "id": "fut-maciel-001",
+    "title": "10° RODADA | CAMPEONATO ABERTO DE FUTSAL | SENTINELA DO SUL",
+    "badge": "Canal do Maciel",
+    "dateTime": "10 JUL - 20:00",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/KMqURlT9RTw/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "10° RODADA | CAMPEONATO ABERTO DE FUTSAL | SENTINELA DO SUL",
+    "youtubeId": "KMqURlT9RTw",
+    "streamUrl": "https://www.youtube.com/watch?v=KMqURlT9RTw",
+    "featured": false
   },
   {
     "id": "live-nwsl-pride-kc",
@@ -65,6 +104,19 @@
     "featured": true
   },
   {
+    "id": "live-canalbochas-001",
+    "title": "38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
+    "badge": "Canal Bochas",
+    "dateTime": "12 JUL - 09:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/eKvY6MXy-W8/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: 38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
+    "youtubeId": "eKvY6MXy-W8",
+    "streamUrl": "https://www.youtube.com/watch?v=eKvY6MXy-W8",
+    "featured": true
+  },
+  {
     "id": "live-fiba3x3-005",
     "title": "LIVE 🔴 FIBA 3x3 Càceres Challenger 2026 | Qualifier for Debrecen Masters | Finals",
     "badge": "FIBA3x3",
@@ -89,6 +141,19 @@
     "videoUrlPlaceholder": "🥎💥 Sarasota Senior Softball 55+ | Big Action | 🎥 LIVE GAME - WED. A - SWYCH vs Kurkjian Inv.",
     "youtubeId": "NXwHzCHxEa4",
     "streamUrl": "https://www.youtube.com/watch?v=NXwHzCHxEa4"
+  },
+  {
+    "id": "live-bochas-febos-003",
+    "title": "2ª e 3ª RODADA 1ª FASE JASC FASE MICRORREGIONAL DE BOCHA EM RIO DO SUL // 08/07/2026",
+    "badge": "febosctv",
+    "dateTime": "08 JUL - 20:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/wzxVxgRIukw/maxresdefault.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "featured": false,
+    "videoUrlPlaceholder": "2ª e 3ª RODADA 1ª FASE JASC FASE MICRORREGIONAL DE BOCHA EM RIO DO SUL // 08/07/2026",
+    "youtubeId": "wzxVxgRIukw",
+    "streamUrl": "https://www.youtube.com/watch?v=wzxVxgRIukw"
   },
   {
     "id": "live-sarasota-08jul-02",
