@@ -134,9 +134,21 @@
 
 18:00 - Copa do Mundo: Noruega x Inglaterra  (📺 CazéTV)
 
+20:00 -	MLS Next Pro: Atlanta United 2 x Inter Miami CF II  (📺 Onefootball)
+
+20:00 -	MLS Next Pro: Crown Legacy FC x NYCFC II (📺 Onefootball)
+
+20:00 -	MLS Next Pro: Houston Dynamo 2 x St Louis CITY2 (📺 Onefootball)
+
+21:00 -	MLS Next Pro: Colorado Rapids 2 x North Texas (📺 Onefootball)
+
 21:00 - Boxe: Austin Brooks x Viktor Slavinskyi (📺 FOX Sports)
 
 22:00 - Copa do Mundo: Argentina x Suíça  (📺 CazéTV)
+
+23:00 -	MLS Next Pro: Real Monarchs x Vancouver Whitecaps FC II (📺 Onefootball)
+
+23:00 -	MLS Next Pro: Los Angeles FC 2 x Portland Timbers 2 (📺 Onefootball)
 
 ## Domingo, 12/jul
 
@@ -164,17 +176,31 @@
 
 16:00 - ESPN KnockOut: Megan Redstall x Maisey Rose Courtney (📺 ESPN3)
 
+16:00 -	MLS Next Pro: Philadelphia Union II x Huntsville City FC (📺 Onefootball)
+
 17:00 - MLB: Arizona Diamondbacks x Los Angeles Dodgers (📺 ESPN2) 
 
 17:00 - NWSL: Seattle Reign x Portland Thorns (📺 ESPN4, FOX Sports)
 
+17:00 -	MLS Next Pro: Chicago Fire FC II x Red Bull New York II (📺 Onefootball)
+
 18:00 - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
 
+18:00 -	MLS Next Pro: Carolina Core FC x Chattanooga FC (📺 Onefootball)
+
 19:00 - Série B: CRB x Goiás (📺 ESPN, SportyNet, Disney+)
+
+19:00 -	MLS Next Pro:FC Cincinnati 2 x Orlando City (📺 Onefootball)
+
+19:00 -	MLS Next Pro: CT United x Toronto FC II (📺 Onefootball)
 
 19:45 - Nascar Cup: GP de Echopark (📺 ESPN4, FOX Sports)
 
 20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN3)
+
+21:00 -	MLS Next Pro: San Jose Earthquakes II x Tacoma Defiance II (📺 Onefootball)
+
+21:30 -	MLS Next Pro: Austin FC II x MNUFC2 (📺 Onefootball)
 
 ## Segunda, 13/jul
 
