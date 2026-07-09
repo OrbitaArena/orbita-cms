@@ -4,25 +4,25 @@
 
 Segunda, 6/jul
 
-19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
+19h30 - MLB: New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
 
 Terça, 7/jul
 
-19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
+19h30 - MLB: New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
 
 Quarta, 8/jul
 
-20h - Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
+20h - MLB: Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
 
-23h - Arizona Diamondbacks x San Diego Padres (Disney+)
+23h - MLB: Arizona Diamondbacks x San Diego Padres (Disney+)
 
 Quinta, 9/jul
 
-20h30 - Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
+20h30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
 
 Sexta, 10/jul
 
-20h - Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
+20h - MLB: Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
 
 ## BEISEBOL E SOFTBOL NO DISNEY+
 
