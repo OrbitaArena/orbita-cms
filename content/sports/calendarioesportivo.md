@@ -28,9 +28,25 @@
 
 ## Quinta, 09/jul
 
+07:20 - Liga das Nações: Japão x Tailândia (📺 SPORTV2)
+
+09:45 - Liga das Nações: China x Ucrânia (📺 SPORTV2)
+
+10:00 - Ciclismo: Tour de France Etapa 6 (📺 ESPN3)
+
+11:30 - Liga das Nações: Rep. Tcheca x Holanda (📺 SPORTV2)
+
+15:00 - Brasil Ladies Cup: Flamengo x Peñarol (📺 XSports, Bandsports)
+
+15:00 - Liga das Nações: Rep. Sérvia x França (📺 SPORTV2)
+
 17:00 - Copa do Mundo: França x Marrocos (📺 CazéTV)
 
-20:30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
+18:00 - LNF Futsal: Lages x Sport (📺 XSports, LNFTV)
+
+20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 XSports, Bandsports)
+
+20:30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN4, Disney+)
 
 21:00 - AUSL (softbol): Utah Talons x Oklahoma City Spark (📺 Disney+)
 
