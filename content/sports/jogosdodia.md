@@ -1,25 +1,15 @@
 # JOGOS DE HOJE
 
-## Quarta, 08/jul
+## Quinta, 09/jul
 
-20:00 - Série B: Ponte Preta x Criciúma (📺 ESPN)
+17:00 - Copa do Mundo: França x Marrocos (📺 CazéTV)
 
-20:00 - MLB: Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
+20:30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
 
-20:00 - USL Championship: Hartford Athletic x Orange County SC (📺 Disney+)
+21:00 - AUSL (softbol): Utah Talons x Oklahoma City Spark (📺 Disney+)
 
-20:00 - USL League One: New York Cosmos x FC Naples (📺 Disney+)
+22:30 - LMB: Caliente de Durango x Saraperos de Saltillo (📺 Disney+)
 
-20:00 - USL League One: Greenville Triumph SC x Sarasota Paradise (📺 Disney+)
-
-21:00 - Amistoso: Boca Juniors x Athletico Paranaense (📺 ESPN 4)
-
-21:30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos (📺 Disney+)
-
-22:30 - LMB: Piratas de Campeche x Leones de Yucatán (📺 Disney+)
-
-23:00 - MLB: Arizona Diamondbacks x San Diego Padres (Disney+)
-
-23:30 - USL Championship: Sacramento Republic FC x Rhode Island FC (📺 Disney+)
+22:30 - LMB: Diablos Rojos de México x Olmecas de Tabasco (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
