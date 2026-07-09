@@ -6,6 +6,8 @@
 
 10:15 - Ciclismo: Tour de France Etapa 5 (📺 ESPN3)
 
+14:00 - JLS Latin America (softbol): Porto Rico x Brasil (📺 TerrãoTV)
+
 20:00 - SérieB: Ponte Preta x Criciúma (📺 ESPN)
 
 20:00 - MLB: Philadelphia Phillies x Cincinnati Reds (📺 ESPN3, Disney+)
@@ -27,6 +29,8 @@
 23:30 - USL Championship: Sacramento Republic FC x Rhode Island FC (📺 Disney+)
 
 ## Quinta, 09/jul
+
+07:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
 
 07:20 - Liga das Nações: Japão x Tailândia (📺 SPORTV2)
 
