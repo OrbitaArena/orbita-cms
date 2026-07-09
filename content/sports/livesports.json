@@ -1,9 +1,9 @@
 [ 
   {
     "id": "live-softbol-jls26-04",
-    "title": "🥎 Brasil vs México – AO VIVO | 2026 JLS Latin America Region",
+    "title": "🥎 México x Brasil – AO VIVO | 2026 JLS Latin America Region",
     "badge": "Terrão TV",
-    "dateTime": "08 JUL - 07:00",
+    "dateTime": "09 JUL - 11:00",
     "category": "Softbol",
     "image": "https://i.ytimg.com/vi/7xlR1GVNp4o/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
@@ -11,6 +11,58 @@
     "youtubeId": "7xlR1GVNp4o",
     "streamUrl": "https://www.youtube.com/watch?v=7xlR1GVNp4o",
     "featured": true
+  },
+  {
+    "id": "live-fiba3x3-004",
+    "title": "LIVE 🔴 FIBA 3x3 Women's Series Càceres Stop 2026 | Finals",
+    "badge": "FIBA3x3",
+    "dateTime": "10 JUL - 14:00",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/_dhMUrF2c7A/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Càceres Stop 2026 | Finals",
+    "youtubeId": "_dhMUrF2c7A",
+    "streamUrl": "https://www.youtube.com/watch?v=_dhMUrF2c7A"
+  },
+  {
+    "id": "live-nwsl-pride-kc",
+    "title": "ORLANDO PRIDE X KANSAS CITY CURRENT | AO VIVO E COM IMAGENS | NWSL",
+    "badge": "Canal GOAT",
+    "dateTime": "10 JUL - 20:30",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/wKF7LyMWB0I/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "ORLANDO PRIDE X KANSAS CITY CURRENT | AO VIVO E COM IMAGENS | NWSL",
+    "youtubeId": "wKF7LyMWB0I",
+    "streamUrl": "https://www.youtube.com/watch?v=wKF7LyMWB0I",
+    "featured": true
+  },
+  {
+    "id": "live-nwsl-pride-kc",
+    "title": "UTAH ROYALS X GOTHAM FC | AO VIVO E COM IMAGENS | NWSL",
+    "badge": "Canal GOAT",
+    "dateTime": "10 JUL - 22:30",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/roVaIFbrdec/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "UTAH ROYALS X GOTHAM FC | AO VIVO E COM IMAGENS | NWSL",
+    "youtubeId": "roVaIFbrdec",
+    "streamUrl": "https://www.youtube.com/watch?v=roVaIFbrdec",
+    "featured": true
+  },
+  {
+    "id": "live-fiba3x3-005",
+    "title": "LIVE 🔴 FIBA 3x3 Càceres Challenger 2026 | Qualifier for Debrecen Masters | Finals",
+    "badge": "FIBA3x3",
+    "dateTime": "12 JUL - 14:00",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/fGWJesVu1H8/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "featured": false,
+    "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Càceres Challenger 2026 | Qualifier for Debrecen Masters | Finals",
+    "youtubeId": "fGWJesVu1H8",
+    "streamUrl": "https://www.youtube.com/watch?v=fGWJesVu1H8"
   },
   {
     "id": "live-sarasota-08jul-01",
@@ -162,7 +214,7 @@
     "dateTime": "05 JUL - 05:30",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/lT-jVUuD-kc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "featured": false,
     "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Xiantao Stop 2026 | Finals",
     "youtubeId": "lT-jVUuD-kc",
@@ -175,7 +227,7 @@
     "dateTime": "05 JUL - 11:30",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/2yHCkqAanw8/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "featured": false,
     "videoUrlPlaceholder": "LIVE 🔴 FIBA #3x3WorldTour Marseille 2026 | Finals",
     "youtubeId": "2yHCkqAanw8",
@@ -221,32 +273,6 @@
     "featured": true
   },
   {
-    "id": "live-serieb-goi-csc",
-    "title": "GOIÁS X CEARÁ | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-    "badge": "Canal GOAT",
-    "dateTime": "04 JUL - 19:30",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/puhCZAaLTc4/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "GOIÁS X CEARÁ | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-    "youtubeId": "puhCZAaLTc4",
-    "streamUrl": "https://www.youtube.com/watch?v=puhCZAaLTc4",
-    "featured": true
-  },
-  {
-    "id": "live-nwsl-sd-nyc",
-    "title": "SAN DIEGO WAVE X GOTHAM FC | AO VIVO E COM IMAGENS | NWSL",
-    "badge": "Canal GOAT",
-    "dateTime": "04 JUL - 21:15",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/sgrYHFBT9qE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "SAN DIEGO WAVE X GOTHAM FC | AO VIVO E COM IMAGENS | NWSL",
-    "youtubeId": "sgrYHFBT9qE",
-    "streamUrl": "https://www.youtube.com/watch?v=sgrYHFBT9qE",
-    "featured": true
-  },
-  {
     "id": "live-ihfhandball-001",
     "title": "Iceland vs Brazil | 2026 IHF Women's Junior",
     "badge": "IHF Competitions",
@@ -271,19 +297,6 @@
     "videoUrlPlaceholder": "LIVE Cricket - Yorkshire v Somerset & Durham | Vitality Blast Double-Header at Headingley",
     "youtubeId": "x6Skp3IG6NI",
     "streamUrl": "https://www.youtube.com/watch?v=x6Skp3IG6NI"
-  },
-  {
-    "id": "live-softball01",
-    "title": "🥎 Venice / Sarasota Senior Softball – Friday Gold LIVE",
-    "badge": "Sarasota Senior Softball",
-    "dateTime": "03 JUL - 10:00",
-    "category": "Softbol",
-    "image": "https://i.ytimg.com/vi/vWce7Tz01xQ/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "featured": false,
-    "videoUrlPlaceholder": "🥎 Venice / Sarasota Senior Softball – Friday Gold LIVE 🥎🔥 Elite 50+ Softball in Venice, FL",
-    "youtubeId": "vWce7Tz01xQ",
-    "streamUrl": "https://www.youtube.com/watch?v=vWce7Tz01xQ"
   },
   {
     "id": "live-futsal-maciel001",
