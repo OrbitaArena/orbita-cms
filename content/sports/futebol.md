@@ -60,7 +60,7 @@ Domingo, 12/jul
 
 18h - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
 
-19h - Série B: CRB x Goiás (📺 SportyNet, Disney+)
+19h - Série B: CRB x Goiás (📺 ESPN, SportyNet, Disney+)
 
 Segunda, 13/jul
 
@@ -72,9 +72,9 @@ Segunda, 13/jul
 
 Segunda, 6/jul
 
-19h - Brusque x Figueirense (📺 SportyNet)
+19h - Série C: Brusque x Figueirense (📺 SportyNet)
 
-21h - Amaxonas x Itabaiana (📺 SportyNet)
+21h - Série C: Amaxonas x Itabaiana (📺 SportyNet)
 
 Sábado, 11/jul
 
@@ -96,7 +96,7 @@ Segunda, 13/jul
 
 Segunda, 6/jul
 
-20:00 - Ivinhema/MS x ASA (📺 Metrópolis)
+20:00 - Série D: Ivinhema/MS x ASA (📺 Metrópolis)
 
 ## MLS & USL
 
