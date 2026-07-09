@@ -30,13 +30,13 @@
 
 ## Quinta, 09/jul
 
-07:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
-
 07:20 - Liga das Nações: Japão x Tailândia (📺 SPORTV2)
 
 09:45 - Liga das Nações: China x Ucrânia (📺 SPORTV2)
 
 10:00 - Ciclismo: Tour de France Etapa 6 (📺 ESPN3)
+
+11:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
 
 11:30 - Liga das Nações: Rep. Tcheca x Holanda (📺 SPORTV2)
 
