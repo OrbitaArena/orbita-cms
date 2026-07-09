@@ -48,7 +48,7 @@ Sexta, 10/jul
 
 19h - Série B: Juventude x Vila Nova (📺 Disney+)
 
-20h - Série B: Sport x Botafogo/SP (📺 Disney+)
+20h - Série B: Sport x Botafogo/SP (📺 SportyNet, Disney+)
 
 Domingo, 12/jul
 
@@ -60,7 +60,7 @@ Domingo, 12/jul
 
 18h - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
 
-19h - Série B: CRB x Goiás (📺 Disney+)
+19h - Série B: CRB x Goiás (📺 SportyNet, Disney+)
 
 Segunda, 13/jul
 
@@ -82,9 +82,15 @@ Sábado, 11/jul
 
 Domingo, 12/jul
 
-10:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
+15:00 - Série C: Paysandu x Guarani (📺 SportyNet)
 
-15:45 - Série C: Paysandu x Guarani (📺 SportyNet)
+19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
+
+22:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
+
+Segunda, 13/jul
+
+20:15 - Série C: Figueirense x Volta Redonda (📺 SportyNet)
 
 ## Brasileiro Série D
 
