@@ -90,17 +90,25 @@
 
 19:30 - PLL Lacrosse: Philadelphia Waterdogs x California Redwoods (📺 Disney+)
 
+19:30 - LNF Futsal: Corinthians x Minas (📺 LNFTV)
+
 20:00 - MLB: Seattle Mariners x Tampa Bay Rays (ESPN3)
 
 20:00 - Série B: Sport x Botafogo/SP (📺 XSports, SportyNet, Disney+)
 
 20:00 - AUSL (softbol): Carolina Blaze x Texas Volts (📺 Disney+)
 
+20:30 - LNF Futsal: Magnus x Santo André (📺 LNFTV)
+
+21:00 - NWSL: Orlando Pride x KC Current (📺 Canal GOAT)
+
 22:00 - LMB: Conspiradores de Querétaro x Diablos Rojos de México (📺 Disney+)
 
 22:00 - PLL Lacrosse: Utah Archers x New York Atlas (📺 Disney+)
 
 22:30 - LMB: Guerreros de Oaxaca x Olmecas de Tabasco (📺 Disney+)
+
+23:00 - NWSL: Utah Royals x Gotham FC (📺 Canal GOAT)
 
 23:00 - Rugby Aupiki: Matatū x Hurricanes Poua (📺 Disney+)  
 
