@@ -22,7 +22,7 @@
 
 20:00 - MLB: Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
 
-20:00 - Série B: Sport x Botafogo/SP (📺 Disney+)
+20:00 - Série B: Sport x Botafogo/SP (📺 XSports, SportyNet, Disney+)
 
 20:00 - AUSL (softbol): Carolina Blaze x Texas Volts (📺 Disney+)
 
