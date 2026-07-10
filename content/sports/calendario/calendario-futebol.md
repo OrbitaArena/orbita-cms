@@ -208,7 +208,7 @@ Sábado, 11/jul
 
 23:00 -	MLS Next Pro: Los Angeles FC 2 x Portland Timbers 2 (📺 Onefootball)
 
-Domingo, 12jul
+Domingo, 12/jul
 
 16:00 -	MLS Next Pro: Philadelphia Union II x Huntsville City FC (📺 Onefootball)
 
