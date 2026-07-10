@@ -6,11 +6,11 @@
     "dateTime": "09 JUL - 11:00",
     "category": "Softbol",
     "image": "https://i.ytimg.com/vi/7xlR1GVNp4o/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "MÉXICO 🆚 BRASIL AO VIVO 🇧🇷🥎 | SEMIFINAL | 2026 JLS Latin America Region",
     "youtubeId": "7xlR1GVNp4o",
     "streamUrl": "https://www.youtube.com/watch?v=7xlR1GVNp4o",
-    "featured": true
+    "featured": false
   },
   {
     "id": "fut-xsports-001",
@@ -19,11 +19,11 @@
     "dateTime": "09 JUL - 14:50",
     "category": "Futebol",
     "image": "https://i.ytimg.com/vi/EtvLPSz_ZTs/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "FLAMENGO X PEÑAROL | SEMIFINAL - LADIES CUP | AO VIVO E COM IMAGENS",
     "youtubeId": "EtvLPSz_ZTs",
     "streamUrl": "https://www.youtube.com/watch?v=EtvLPSz_ZTs",
-    "featured": true
+    "featured": false
   },
   {
     "id": "fut-xsports-002",
@@ -32,11 +32,11 @@
     "dateTime": "09 JUL - 19:50",
     "category": "Futebol",
     "image": "https://i.ytimg.com/vi/DzvEl3RXHxU/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "PALMEIRAS X PARAGUAI | SEMIFINAL - LADIES CUP | AO VIVO E COM IMAGENS",
     "youtubeId": "DzvEl3RXHxU",
     "streamUrl": "https://www.youtube.com/watch?v=DzvEl3RXHxU",
-    "featured": true
+    "featured": false
   },
   {
     "id": "fut-cacoal-001",
@@ -45,7 +45,7 @@
     "dateTime": "09 JUL - 20:30",
     "category": "Futebol",
     "image": "https://i.ytimg.com/vi/M0NE_BhLE_I/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "14º NOITE DE LIGA CACOAL SOCIETY 2026",
     "youtubeId": "M0NE_BhLE_I",
     "streamUrl": "https://www.youtube.com/watch?v=M0NE_BhLE_I",
@@ -71,7 +71,7 @@
     "dateTime": "10 JUL - 14:00",
     "category": "Basquete",
     "image": "https://i.ytimg.com/vi/_dhMUrF2c7A/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "featured": false,
     "videoUrlPlaceholder": "LIVE 🔴 FIBA 3x3 Women's Series Càceres Stop 2026 | Finals",
     "youtubeId": "_dhMUrF2c7A",
