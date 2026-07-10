@@ -98,7 +98,7 @@ Segunda, 6/jul
 
 20:00 - Série D: Ivinhema/MS x ASA (📺 Metrópolis)
 
-## MLS & USL
+## MLS, USL & NWSL
 
 Terça, 7/jul
 
@@ -115,6 +115,12 @@ Quarta, 8/jul
 20:00	USL League One: Greenville Triumph SC	x	Sarasota Paradise	(📺 Disney+)
 
 23:30	USL Championship: Sacramento Republic FC	x	Rhode Island FC	(📺 Disney+)
+
+Sexta, 10/jul
+
+21:00 - NWSL: Orlando Pride x KC Current (📺 Canal GOAT)
+
+23:00 - NWSL: Utah Royals x Gotham FC (📺 Canal GOAT)
 
 Sábado, 11/jul
 
@@ -151,6 +157,12 @@ Domingo, 12jul
 Quinta, 9/jul
 
 18:00 - LNF Futsal: Lages x Sport (📺 XSports, LNFTV)
+
+Sexta, 10/jul
+
+19:30 - LNF Futsal: Corinthians x Minas (📺 LNFTV)
+
+20:30 - LNF Futsal: Magnus x Santo André (📺 LNFTV)
 
 Domingo, 12/jul
 
