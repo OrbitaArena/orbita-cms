@@ -1,23 +1,37 @@
 # JOGOS DE HOJE
 
-## Quinta, 09/jul
+## Sexta, 10/jul
 
-11:00 - JLS Latin America (softbol): México x Brasil (📺 TerrãoTV)
+07:00 - Liga das Nações: Polônia x Brasil (📺 SPORTV2)
 
-15:00 - Brasil Ladies Cup: SF/Flamengo x Peñarol (📺 XSports, Bandsports)
+09:30 - Liga das Nações: Bélgica x Itália (📺 SPORTV2)
 
-18:00 - LNF Futsal: Lages x Sport (📺 XSports, LNFTV)
+11:30 - Liga das Nações: Bulgária x Tchéquia (📺 SPORTV2)
 
-17:00 - Copa do Mundo: França x Marrocos (📺 CazéTV)
+14:50 - Liga das Nações: Alemanha x Holanda (📺 SPORTV2)
 
-20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 XSports, Bandsports)
+15:30 - NBA: NBA Summer League (📺 Disney+)
 
-20:30 - MLB: Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
+16:00 - Copa do Mundo: Espanha x Bélgica  (📺 CazéTV)
 
-21:00 - AUSL (softbol): Utah Talons x Oklahoma City Spark (📺 Disney+)
+19:00 - Série B: Juventude x Vila Nova (📺 Disney+)
 
-22:30 - LMB: Caliente de Durango x Saraperos de Saltillo (📺 Disney+)
+16:00 - Uruguaio: Deportivo Maldonado x Albion (📺 Disney+)
 
-22:30 - LMB: Diablos Rojos de México x Olmecas de Tabasco (📺 Disney+)
+19:30 - PLL Lacrosse: Philadelphia Waterdogs x California Redwoods (📺 Disney+)
+
+20:00 - MLB: Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
+
+20:00 - Série B: Sport x Botafogo/SP (📺 Disney+)
+
+20:00 - AUSL (softbol): Carolina Blaze x Texas Volts (📺 Disney+)
+
+22:00 - LMB: Conspiradores de Querétaro x Diablos Rojos de México (📺 Disney+)
+
+22:00 - PLL Lacrosse: Utah Archers x New York Atlas (📺 Disney+)
+
+22:30 - LMB: Guerreros de Oaxaca x Olmecas de Tabasco (📺 Disney+)
+
+23:00 - Rugby Aupiki: Matatū x Hurricanes Poua (📺 Disney+) 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
