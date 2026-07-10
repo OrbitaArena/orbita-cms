@@ -187,6 +187,8 @@
       },
       "homeKeyPlayers": [],
       "awayKeyPlayers": [],
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
       "stats": [
         {
           "label": "Posse de Bola",
@@ -200,6 +202,20 @@
           "valueB": "0",
           "ratioA": 50
         },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
     {
       "id": "mlb-mariners-rays-1007",
       "sport": "MLB",
@@ -286,6 +302,20 @@
           "valueB": "0",
           "ratioA": 50
         },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
     {
       "id": "wc-nor-eng",
       "sport": "FIFA",
