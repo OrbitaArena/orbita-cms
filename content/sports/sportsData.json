@@ -343,6 +343,41 @@
       ]
     },
     {
+  "id": "wnba-liberty-lynx-1107",
+  "sport": "WNBA",
+  "apiId": "401857057",
+  "autoUpdate": true,
+  "league": "WNBA Temporada Regular",
+  "status": "UPCOMING",
+  "time": "20:00",
+  "date": "11/07",
+  "seriesInfo": "ESPN4, Disney+",
+  "stadium": "Target Center",
+  "location": "Minneapolis, MN",
+  "dateTime": "11 JUL - 20:00",
+  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+  "group": "WNBA",
+  "teamA": {
+    "name": "Minnesota Lynx",
+    "code": "BOS",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/min.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "New York Liberty",
+    "code": "DAL",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  ]
+},
+    {
       "id": "wc-arg-sui",
       "sport": "FIFA",
       "apiId": "760513",
