@@ -28,6 +28,42 @@ Sábado, 11/jul
 
 22h - Copa do Mundo: Argentina x Suíça  (📺 CazéTV)
 
+## Brasileiro Série A
+
+Quinta, 16/jul
+
+19:30 - Série A: Botafogo x Santos (📺 Record, CazéTV, Premiere)
+
+19:30 - Série A: Vitória x Vasco da Gama (📺 Premiere)
+
+Sexta, 17/jul
+
+19:30	- Série A: Bahia x Chapecoense (📺 Premiere)
+
+20:00	- Série A: Mirassol x Grêmio (📺 Premiere)
+
+20:00	- Série A: Fluminense x RB Bragantino (📺 Premiere)
+
+Terça, 21/jul
+
+19:30 - Série A: Atlético-MG x Bahia (📺 Premiere, SporTV)
+
+Quarta, 22/jul
+
+19:30 - Série A: 	Corinthians x Remo (📺 Premiere)
+
+21:30 - Série A: Chapecoense x Flamengo (📺 Premiere, Globo)
+
+21:30 - Série A: 	Internacional x Cruzeiro (📺 Premiere, Globo)
+
+21:30 - Série A: São Paulo x Athletico-PR (📺 geTV, Premiere, Globo)
+
+Quinta, 23/jul
+
+19:30 - Série A: 	Botafogo x Vitória (📺 Record, CazéTV, Premiere)
+
+21:30 - Série A: Coritiba x Palmeiras (📺 Amazon Prime)
+
 ## Brasileiro Série B
 
 Segunda, 6/jul
@@ -97,6 +133,42 @@ Segunda, 13/jul
 Segunda, 6/jul
 
 20:00 - Série D: Ivinhema/MS x ASA (📺 Metrópolis)
+
+Sábado, 11/jul
+
+16:00 - Série D: Portuguesa x Marcílio Dias (📺 Metrópolis)
+
+18:00 - Série D: XV de Piracicaba x Cianorte (📺 Metrópolis)
+
+Domingo, 12/jul
+
+15:30 - Série D: São Luiz x Velo Clube (📺 Metrópolis)
+
+16:00 - Série D: Iguatu x Maguari (📺 Metrópolis)
+
+16:00 - Série D: ABX x Águia de Marabá (📺 Metrópolis)
+
+16:00 - Série D: Gama x Porto Velho (📺 Metrópolis)
+
+16:00 - Série D: Uberlândia x Serra Branca (📺 Metrópolis)
+
+16:00 - Série D: Portuguesa/RJ x São José/RS  (📺 Metrópolis)
+
+16:00 - Série D: Manauara x Goiatuba (📺 Metrópolis)
+
+17:00 - Série D: Capital x Nacional/AM (📺 Metrópolis)
+
+17:00 - Série D: Ferroviário x Imperatriz/AM (📺 Metrópolis)
+
+17:00 - Série D: Treze/PB x Crac (📺 Metrópolis)
+
+17:00 - Série D: ASA x Ivinhema (📺 Metrópolis)
+
+Segunda, 13/jul
+
+20:00 - Série D: CSA x Betim EC (📺 Metrópolis)
+
+20:00 - Série D: América/RN x Trem/AP (📺 Metrópolis)
 
 ## MLS, USL & NWSL
 
@@ -183,6 +255,34 @@ Quinta, 9/jul
 15:00 - Brasil Ladies Cup: Flamengo x Peñarol (📺 XSports, Nsports, Bandsports)
 
 20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 XSports, Nsports, Bandsports)
+
+## Estaduais
+
+Domingo, 12/jul
+
+18:30 - Paulista Feminino: São Paulo x Taubaté (📺 SporTV)
+
+## Campeonatos Sul-Americanos
+
+Sábado, 11/jul
+
+10:00 - Uruguaio: Juventud x Torque (📺 Disney+)
+
+15:00 - Uruguaio: Danubio x Nacional (📺 Disney+)
+
+18:00 - Uruguaio: Wanderers x Progreso (📺 Disney+)
+
+Domingo, 12/jul
+
+12:00 - Uruguaio: Liverpool MOntevideo x Cerro (📺 Disney+)
+
+15:00 - Uruguaio: Boston River x Central Espanhol (📺 Disney+)
+
+18:30 - Uruguaio: Racing/URU x Peñarol (📺 Disney+)
+
+Segunda, 13/jul
+
+19:00 - Uruguaio: Cerro Largo x Defensor Sp. (📺 Disney+)
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
