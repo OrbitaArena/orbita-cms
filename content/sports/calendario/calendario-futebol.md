@@ -236,6 +236,16 @@ Sexta, 10/jul
 
 20:30 - LNF Futsal: Magnus x Santo André (📺 LNFTV)
 
+Sábado, 11/jul
+
+17:00 - LNF Futsal: Cascavel x Praia Clube (📺 LNFTV)
+
+18:30 - LNF Futsal: Pato x Tubarão (📺 XSports, LNFTV)
+
+19:30 - LNF Futsal: Jaraguá x São José/SP (📺 LNFTV)
+
+20:30 - LNF Futsal: Marreco x Umuarama (📺 XSports, LNFTV)
+
 Domingo, 12/jul
 
 11:20 - LNF Futsal: Jaraguá x Cascavel (📺 XSports)
