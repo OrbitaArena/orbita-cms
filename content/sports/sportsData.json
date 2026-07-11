@@ -1,108 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-fra-mar",
-      "sport": "FIFA",
-      "apiId": "760510",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "FRANÇA AVANÇA PARA SUA 3A SEMIFINAL SEGUIDA!",
-      "time": "17:00",
-      "date": "09/07",
-      "seriesInfo": "A França está na semifinal!",
-      "stadium": "Gillette Stadium",
-      "location": "Foxborough, Massachusetts, EUA",
-      "dateTime": "09 JUL - 17:00",
-      "group": "Quartas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "França",
-        "code": "FRA",
-        "flag": "🇫🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Marrocos",
-        "code": "MAR",
-        "flag": "🇲🇦",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-brewers-cardinals-0907",
-      "sport": "MLB",
-      "apiId": "401816093",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:30",
-      "date": "09/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Busch Stadium",
-      "location": "St. Louis, Missouri",
-      "dateTime": "09 JUL - 20:30",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "St. Louis Cardinals",
-        "code": "STL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Milwaukee Brewers",
-        "code": "MIL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/mil.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
       "id": "wc-esp-bel",
       "sport": "FIFA",
       "apiId": "760511",
@@ -323,6 +221,8 @@
       "autoUpdate": true,
       "league": "Copa do Mundo",
       "status": "UPCOMING",
+      "featured": true,
+      "title": "DUELO KANE x HALLAND",
       "time": "18:00",
       "date": "11/07",
       "seriesInfo": "CazéTV",
@@ -578,50 +478,58 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-esp-bel",
+      "id": "wc-nor-eng",
       "sport": "FIFA",
-      "apiId": "760511",
+      "apiId": "760512",
       "autoUpdate": true,
-      "time": "16:00",
+      "time": "18:00",
       "group": "Copa do Mundo",
-      "stadium": "SoFi Stadium",
+      "stadium": "Hard Rock Stadium",
       "tv": "CazéTV",
       "teamA": {
-        "name": "Espanha",
-        "flag": "🇪🇸",
+        "name": "Noruega",
+        "flag": "🇳🇴",
         "score": 0
       },
       "teamB": {
-        "name": "Bélgica",
-        "flag": "🇧🇪",
+        "name": "Inglaterra",
+        "flag": "🇬🇧",
+        "score": 0
+      },
+      "status": "UPCOMING"
+    },
+  {
+      "id": "wc-arg-sui",
+      "sport": "FIFA",
+      "apiId": "760513",
+      "autoUpdate": true,
+      "time": "22:00",
+      "group": "Copa do Mundo",
+      "stadium": "GEHA Field at Arrowhead Stadium",
+      "tv": "CazéTV",
+      "teamA": {
+        "name": "Argentina",
+        "flag": "🇦🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Suíça",
+        "flag": "🇨🇭",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "mlb-mariners-rays-1007",
-      "sport": "MLB",
-      "apiId": "401816103",
+      "id": "wnba-liberty-lynx-1107",
+      "sport": "WNBA",
+      "apiId": "401857057",
       "autoUpdate": true,
       "time": "20:00",
-      "group": "MLB",
-      "stadium": "Busch Stadium",
-      "tv": "ESPN3",
-      "teamA": { "name": "Tampa Bay Rays", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Seattle Mariners", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sea.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
-    },
-    {
-      "id": "serieb-spo-bot-1007",
-      "sport": "SERIEB",
-      "apiId": "401860223",
-      "autoUpdate": true,
-      "time": "20:00",
-      "group": "Brasileiro Série B",
-      "stadium": "Ilha do Retiro",
-      "tv": "XSports, SportyNet, Disney+",
-      "teamA": { "name": "Sport", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7635.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "Botafogo-SP", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10281.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "group": "WNBA",
+      "stadium": "Target Center",
+      "tv": "ESPN4, Disney+",
+      "teamA": { "name": "Minnesota Lynx", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/min.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "New York Liberty", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
