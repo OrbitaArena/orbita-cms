@@ -28,6 +28,14 @@ Sábado, 11/jul
 
 22h - Copa do Mundo: Argentina x Suíça  (📺 CazéTV)
 
+Terça, 14/07
+
+16h - Copa do Mundo: França x Espanha  (📺 CazéTV)
+
+Quarta, 15/07
+
+16h - Copa do Mundo: ??? x ???  (📺 CazéTV)
+
 ## Brasileiro Série A
 
 Quinta, 16/jul
@@ -262,9 +270,13 @@ Quarta, 15/jul
 
 Quinta, 9/jul
 
-15:00 - Brasil Ladies Cup: Flamengo x Peñarol (📺 XSports, Nsports, Bandsports)
+15:00 - Brasil Ladies Cup: Flamengo x Peñarol (📺 Xsports, Nsports, Bandsports)
 
-20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 XSports, Nsports, Bandsports)
+20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 Xsports, Nsports, Bandsports)
+
+16:00 - Brasil Ladies Cup: Peñarol x Paraguai ㆍ 3º LUGAR (📺 Nsports, Canal GOAT)
+
+20:00 - Brasil Ladies Cup: Flamengo x Palmeiras ㆍ FINAL (📺 Xsports, Nsports, Canal GOAT)
 
 ## Estaduais
 
