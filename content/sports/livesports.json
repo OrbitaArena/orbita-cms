@@ -130,6 +130,32 @@
     "featured": true
   },
   {
+    "id": "live-cornhole-001",
+    "title": "ACL Mesa Signature - USA Forces",
+    "badge": "American Cornhole League  ",
+    "dateTime": "10 JUL - 14:00",
+    "category": "Cornhole",
+    "image": "https://i.ytimg.com/vi/LcdHuOzWXOY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "ACL Mesa Signature - USA Forces",
+    "youtubeId": "LcdHuOzWXOY",
+    "streamUrl": "https://www.youtube.com/watch?v=LcdHuOzWXOY",
+    "featured": true
+  },
+  {
+    "id": "live-cornhole-002",
+    "title": "ACL Mesa Signature - Pro Doubles",
+    "badge": "American Cornhole League  ",
+    "dateTime": "10 JUL - 19:00",
+    "category": "Cornhole",
+    "image": "https://i.ytimg.com/vi/duDjnXU4NTE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "ACL Mesa Signature - Pro Doubles",
+    "youtubeId": "duDjnXU4NTE",
+    "streamUrl": "https://www.youtube.com/watch?v=duDjnXU4NTE",
+    "featured": true
+  },
+  {
     "id": "live-softbol-jls26-04",
     "title": "🥎 México x Brasil – AO VIVO | 2026 JLS Latin America Region",
     "badge": "Terrão TV",
