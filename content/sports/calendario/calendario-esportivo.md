@@ -1,7 +1,5 @@
 # CALENDÁRIO ESPORTIVO
 
-# CALENDÁRIO ESPORTIVO
-
 ## Quarta, 08/jul
 
 08:55 - Ciclismo: Tour de France Etapa 5 (📺 Disney+)
@@ -132,15 +130,19 @@
 
 09:00 - Liga das Nações: China x República Dominicana (📺 SPORTV2)
 
+09:00 - Tiro com Arco: Copa do Mundo ㆍ Etapa Madrid (📺 SPORTV3)
+
 09:30 - Motovelocidade: Sprint Moto GP Alemanha (📺 ESPN4, FOX Sports)
 
-10:00 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
+10:00 - Ciclismo: Tour de France Etapa 8 (📺 ESPN3)
+
+10:00 - Canoagem: Copa do Mundo ㆍ Etapa Montreal (📺 CazéTV)
 
 10:00 - Uruguaio: Juventud x Torque (📺 Disney+)
 
-10:45 - Série C: Caxias x Floresta (📺 SportyNet)
+11:00 - Série C: Caxias x Floresta (📺 SportyNet)
 
-10:50 - LBF: Unimed Campinas x Sesi Araraquara (📺 FOX Sports)
+11:00 - LBF: Unimed Campinas x Sesi Araraquara (📺 ESPN4, FOX Sports)
 
 11:30 - Liga das Nações: Bulgária x França (📺 SPORTV2)
 
@@ -150,9 +152,15 @@
 
 14:00 - WNBA: New York Liberty x Minnesota Lynx (📺 ESPN4, FOX Sports) 
 
+14:00 - Boxe: Jose Kadima x Herbert Matovu (📺 ESPN4)
+
+14:00 - Nascar Truck: Etapa Lime Rock (📺 Disney+)
+
+15:00 - Canoagem: Copa do Mundo ㆍ Etapa Montreal (📺 CazéTV)
+
 15:00 - Uruguaio: Danubio x Nacional (📺 Disney+)
 
-15:30 - Amistoso: Benfica x Flamengo (📺 Band, Sportv, getv, Premiere) 
+15:30 - Amistoso: Benfica x Flamengo (📺 Band, Sportv, getv) 
 
 15:50 - Rugby Nations: Argentina x País de Gales (📺 ESPN3)
 
@@ -160,11 +168,15 @@
 
 16:00 - Série D: Portuguesa x Marcílio Dias (📺 Metrópolis)
 
+16:10 - Rugby Nations: Argentina x País de Gales (📺 ESPN2)
+
 16:30 - NBA SL: Magic x Heat (📺 Amazon Prime)
 
 17:00 - NBA SL: Hornets x Pelicans (📺 Disney+)
 
 17:00 - Diamond League: 9ª Etapa ㆍ Eugene, EUA (📺 SPORTV2, XSports)
+
+17:00 - LNF Futsal: Cascavel x Praia Clube (📺 LNFTV)
 
 18:00 - Copa do Mundo: Noruega x Inglaterra  (📺 CazéTV)
 
@@ -172,9 +184,13 @@
 
 18:00 - Uruguaio: Wanderers x Progreso (📺 Disney+)
 
+18:30 - LNF Futsal: Pato x Tubarão (📺 XSports, LNFTV)
+
 18:30 - NBA SL: 76ers x Pacers (📺 Amazon Prime)
 
 19:00 - NBA SL: Spurs x Knicks (📺 Disney+)
+
+19:30 - LNF Futsal: Jaraguá x São José/SP (📺 LNFTV)
 
 20:00 -	MLS Next Pro: Atlanta United 2 x Inter Miami CF II  (📺 Onefootball)
 
@@ -183,6 +199,8 @@
 20:00 -	MLS Next Pro: Houston Dynamo 2 x St Louis CITY2 (📺 Onefootball)
 
 20:30 - NBA SL: T-Wolves x Nuggets (📺 Amazon Prime)
+
+20:30 - LNF Futsal: Marreco x Umuarama (📺 XSports, LNFTV)
 
 21:00 - NBA SL: Nets x Hawks (📺 Disney+)
 
@@ -195,6 +213,8 @@
 22:30 - NBA SL: Raptors x Rockets (📺 Amazon Prime)
 
 23:00 - NBA SL: Mavericks x Lakers (📺 Disney+)
+
+23:00 - UFC 329: Conor McGregor x Max Holloway (📺 Paramount+)
 
 23:00 -	MLS Next Pro: Real Monarchs x Vancouver Whitecaps FC II (📺 Onefootball)
 
