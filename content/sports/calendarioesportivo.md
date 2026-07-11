@@ -258,7 +258,9 @@
 
 16:00 - Amistoso: Benfica x Flamengo (📺 Band, Sportv2, getv, Premiere) 
 
-16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports) 
+16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports)
+
+16:00 - Brasil Ladies Cup: Peñarol x Paraguai ㆍ 3º LUGAR (📺 Nsports, Canal GOAT)
 
 16:00 - Série D: Portuguesa/RJ x São José/RS (📺 Metrópolis)
 
@@ -290,6 +292,8 @@
 
 19:45 - Nascar Cup: GP de Echopark (📺 ESPN4, FOX Sports)
 
+20:00 - Brasil Ladies Cup: Flamengo x Palmeiras ㆍ FINAL (📺 Xsports, Nsports, Canal GOAT)
+
 20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN3)
 
 21:00 -	MLS Next Pro: San Jose Earthquakes II x Tacoma Defiance II (📺 Onefootball)
@@ -318,6 +322,8 @@
 
 10:00 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
 
+16h - Copa do Mundo: França x Espanha  (📺 CazéTV)
+
 20:30 - MLB: MLB All Star Game (📺 ESPN2)
 
 23:45 - Liga das Nações: Turquia x Polônia (📺 SPORTV2)
@@ -333,6 +339,8 @@
 11:30 - Liga das Nações: Tchéquia x Alemanha (📺 SPORTV2)
 
 14:30 - Liga das Nações: Sérvia x Bulgária (📺 SPORTV2)
+
+16h - Copa do Mundo: ??? x ???  (📺 CazéTV)
 
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
