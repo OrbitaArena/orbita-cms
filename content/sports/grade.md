@@ -150,9 +150,41 @@ Domingo, 12/jul
 
 23:00 - NBA SL: Jazz x Clippers (📺 Amazon Prime)
 
+## Segunda, 13/jul
+
+17:00 - NBA SL: Knicks x Pistons (📺 Amazon Prime)
+
+17:30 - NBA SL: Pacers x Raptors (📺 Disney+)
+
+19:00 - NBA SL: Celtics x Hawks (📺 Amazon Prime)
+
+20:00 - NBA SL: Grizzlies x Mavericks (📺 Disney+)
+
+21:00 - NBA SL: Cavaliers x Heat (📺 Amazon Prime)
+
+22:00 - NBA SL: Bulls x Jazz (📺 Disney+)
+
+23:00 - NBA SL: Bucks x Suns (📺 Amazon Prime)
+
 Sexta, 17/jul
 
 19h20 - LBF: Campinas x Araraquara (ESPN2)
+
+## Terça, 14/jul
+
+00:00 - NBA SL: Trailblazers x T-Wolves (📺 Disney+)
+
+17:00 - NBA SL: Rockets x 79ers (📺 Disney+)
+
+19:00 - NBA SL: Nets x Kings (📺 Amazon Prime)
+
+20:00 - NBA SL: Warriors x Grizzlies (📺 Disney+)
+
+21:00 - NBA SL: Bulls x Wizards (📺 Amazon Prime)
+
+22:00 - NBA SL: Thunder x Nuggets (📺 Disney+)
+
+23:00 - NBA SL: Lakers x Clippers (📺 Amazon Prime)
 
 Domingo, 19/jul
 
