@@ -2,26 +2,6 @@
 
 ## COPA DO MUNDO
 
-Segunda, 6/jul
-
-16h - Portugal x Espanha (📺 CazéTV)
-
-21h - Estados Unidos x Bélgica (📺 CazéTV)
-
-Terça, 7/jul
-
-13h - Argentina x Egito (📺 CazéTV, SBT, Canais Globo)
-
-17h - Suíça x Colômbia (📺 CazéTV)
-
-Quinta, 9/jul
-
-17h - Copa do Mundo: França x Marrocos (📺 CazéTV)
-
-Sexta, 10/jul
-
-16h - Copa do Mundo: Espanha x Bélgica  (📺 CazéTV)
-
 Sábado, 11/jul
 
 18h - Copa do Mundo: Noruega x Inglaterra  (📺 CazéTV)
@@ -34,7 +14,7 @@ Terça, 14/07
 
 Quarta, 15/07
 
-16h - Copa do Mundo: ??? x ???  (📺 CazéTV)
+16h - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
 
 ## Brasileiro Série A
 
@@ -74,26 +54,6 @@ Quinta, 23/jul
 
 ## Brasileiro Série B
 
-Segunda, 6/jul
-
-19h - Vila Nova x São Bernardo (📺 ESPN, XSports, SportyNet)
-
-19h - Botafogo/SP x Avaí (📺 Disney+)
-
-Terça, 7/Jul
-
-20h - Athletic x Operário-PR (📺 Disney+)
-
-Quarta, 8/jul
-
-20h - Ponte Preta x Criciúma (📺 ESPN)
-
-Sexta, 10/jul
-
-19h - Série B: Juventude x Vila Nova (📺 Disney+)
-
-20h - Série B: Sport x Botafogo/SP (📺 SportyNet, Disney+)
-
 Domingo, 12/jul
 
 11h - Série B: Operário/PR x Novorizontino (📺 Disney+)
@@ -114,12 +74,6 @@ Segunda, 13/jul
 
 ## Brasileiro Série C
 
-Segunda, 6/jul
-
-19h - Série C: Brusque x Figueirense (📺 SportyNet)
-
-21h - Série C: Amaxonas x Itabaiana (📺 SportyNet)
-
 Sábado, 11/jul
 
 10:45 - Série C: Caxias x Floresta (📺 SportyNet)
@@ -137,10 +91,6 @@ Segunda, 13/jul
 20:15 - Série C: Figueirense x Volta Redonda (📺 SportyNet)
 
 ## Brasileiro Série D
-
-Segunda, 6/jul
-
-20:00 - Série D: Ivinhema/MS x ASA (📺 Metrópolis)
 
 Sábado, 11/jul
 
@@ -180,28 +130,6 @@ Segunda, 13/jul
 
 ## MLS, USL & NWSL
 
-Terça, 7/jul
-
-22:00 -	MLS Next Pro: Vancouver 2 x Ventura County (📺 Onefootball)
-
-23:00	- MLS Next Pro: San Jose Earthquakes II x Sporting KC II (📺 Onefootball)
-
-Quarta, 8/jul
-
-20:00	USL Championship: Hartford Athletic	x	Orange County SC	(📺 Disney+)
-
-20:00	USL League One: New York Cosmos	x	FC Naples	(📺 Disney+)
-
-20:00	USL League One: Greenville Triumph SC	x	Sarasota Paradise	(📺 Disney+)
-
-23:30	USL Championship: Sacramento Republic FC	x	Rhode Island FC	(📺 Disney+)
-
-Sexta, 10/jul
-
-21:00 - NWSL: Orlando Pride x KC Current (📺 Canal GOAT)
-
-23:00 - NWSL: Utah Royals x Gotham FC (📺 Canal GOAT)
-
 Sábado, 11/jul
 
 20:00 -	MLS Next Pro: Atlanta United 2 x Inter Miami CF II  (📺 Onefootball)
@@ -234,16 +162,6 @@ Domingo, 12/jul
 
 ## LNF Futsal
 
-Quinta, 9/jul
-
-18:00 - LNF Futsal: Lages x Sport (📺 XSports, LNFTV)
-
-Sexta, 10/jul
-
-19:30 - LNF Futsal: Corinthians x Minas (📺 LNFTV)
-
-20:30 - LNF Futsal: Magnus x Santo André (📺 LNFTV)
-
 Sábado, 11/jul
 
 17:00 - LNF Futsal: Cascavel x Praia Clube (📺 LNFTV)
@@ -268,11 +186,7 @@ Quarta, 15/jul
 
 ## Brasil Ladies Cup
 
-Quinta, 9/jul
-
-15:00 - Brasil Ladies Cup: Flamengo x Peñarol (📺 Xsports, Nsports, Bandsports)
-
-20:00 - Brasil Ladies Cup: Palmeiras x Paraguai (📺 Xsports, Nsports, Bandsports)
+Domingo, 12/jul
 
 16:00 - Brasil Ladies Cup: Peñarol x Paraguai ㆍ 3º LUGAR (📺 Nsports, Canal GOAT)
 
