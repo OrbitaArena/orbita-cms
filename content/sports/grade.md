@@ -2,75 +2,139 @@
 
 ## MLB NA ESPN
 
-Segunda, 6/jul
-
-19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
-
-Terça, 7/jul
-
-19h30 - New York Yankees x Tampa Bay Rays (ESPN 4 e Disney+)
-
-Quarta, 8/jul
-
-20h - Philadelphia Phillies x Cincinnati Reds (ESPN 3 e Disney+)
-
-23h - Arizona Diamondbacks x San Diego Padres (Disney+)
-
-Quinta, 9/jul
-
-20h30 - Milwaukee Brewers x St. Louis Cardinals (ESPN 4 e Disney+)
-
 Sexta, 10/jul
 
 20h - Seattle Mariners x Tampa Bay Rays (ESPN 3 e Disney+)
 
+Sábado, 11/jul
+
+20h - Chicago Cubs x Cincinnati Reds (Disney+)
+
+Domingo, 12/jul
+
+13h - Futures Game (Disney+)
+
+17h - Los Angeles Dodgers x Arizona Diamondbacks (ESPN 3 e Disney+)
+
+Terça, 14/jul
+
+20h30 - All-Star Game (ESPN 2 e Disney+)
+
+Quarta, 15/jul
+
+21h - ESPYs (ESPN 2 e Disney+)
+
+Quinta, 16/jul
+
+20h - Philadelphia Phillies x New York Mets (ESPN 2 e Disney+)
+
+Sexta, 17/jul
+
+20h - Los Angeles Dodgers x New York Yankees (ESPN 3 e Disney+)
+
+Terça, 21/jul
+
+20h - MLB: San Diego Padres x Atlanta Braves (ESPN 2 e Disney+)
+
+Quarta, 22/jul
+
+21h - MLB: Detroit Tigers x Chicago Cubs (ESPN 2 e Disney+)
+
+Quinta, 23/jul
+
+16h - MLB: Tampa Bay Rays x Toronto Blue Jays (ESPN 2 e Disney+)
+
 ## BEISEBOL E SOFTBOL NO DISNEY+
-
-Segunda, 6/jul
-
-20h - AUSL (softbol): Texas Volts x Chicago Bandits
-
-22h30 - LMB: Piratas de Campeche x Leones de Yucatán
-
-Terça, 7/jul
-
-20h - AUSL (softbol): Carolina Blaze x Portland Cascade
-
-22h - LMB: Guerreros de Oaxaca x El Águila de Veracruz
-
-22h30 - LMB: Toros de Tijuana x Rieleros de Aguascalientes
-
-Quarta, 8/jul
-
-21h30 - LMB: Acereros de Monclova x Tecos de los Dos Laredos
-
-22h30 - LMB: Piratas de Campeche x Leones de Yucatán
-
-Quinta, 9/jul
-
-21h - AUSL (softbol): Utah Talons x Oklahoma City Spark
-
-22h30 - LMB: Caliente de Durango x Saraperos de Saltillo
-
-22h30 - LMB: Diablos Rojos de México x Olmecas de Tabasco
 
 Sexta, 10/jul
 
-20h - AUSL (softbol): Carolina Blaze x Texas Volts
+20h - AUSL Softbol: Carolina Blaze x Texas Volts
 
 22h - LMB: Conspiradores de Querétaro x Diablos Rojos de México
 
 22h30 - LMB: Guerreros de Oaxaca x Olmecas de Tabasco
 
+Sábado, 11/jul
+
+15h - AUSL Softbol: Carolina Blaze x Texas Volts
+
+21h - LMB: Leones de Yucatán x El Águila de Veracruz
+
+22h40 - LMB: Saraperos de Saltillo x Acereros de Monclova
+
+Domingo, 12/jul
+
+14h - AUSL Softbol: Chicago Bandits x Portland Cascade
+
+21h30 - LMB: Charros de Jalisco x Algodoneros de Unión Laguna
+
+Segunda, 13/jul
+
+20h - AUSL Softbol: Carolina Blaze x Texas Volts
+
+23h30 - LMB: Tecos de los Dos Laredos x Toros de Tijuana
+
+Terça, 14/jul
+
+20h - AUSL Softbol: Oklahoma City Spark x Texas Volts
+
+22h - LMB: El Águila de Veracruz x Pericos de Puebla
+
+23h30 - LMB: Tecos de los Dos Laredos x Toros de Tijuana
+
+Quarta, 15/jul
+
+21h30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo
+
+22h30 - LMB: Charros de Jalisco x Rieleros de Aguascalientes
+
+Quinta, 16/jul
+
+21h30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo
+
+22h - LMB: El Águila de Veracruz x Pericos de Puebla
+
+Sexta, 17/jul
+
+21h - AUSL Softbol: Utah Talons x Portland Cascade
+
+22h30 - LMB: Leones de Yucatán x Bravos de León
+
+22h40 - LMB: Caliente de Durango x Acereros de Monclova
+
+# NFL NA ESPN
+
+Sexta, 24/07
+
+16h - NFL Flag: NFL FLAG Championships (ESPN2)
+
 # BASQUETE NA ESPN: NBA & WNBA
 
-Domingo, 5/jul
+Sexta, 17/jul
 
-20h - WNBA: Indiana Fever x Las Vegas Aces (ESPN2)
+19h20 - LBF: Campinas x Araraquara (ESPN2)
 
-Terça, 7/jul
+Domingo, 19/jul
 
-21h - WNBA: Dallas Wings x New York Liberty (ESPN2)
+14h - WNBA: Los Angeles Sparks x Dallas Wings (ESPN2)
+
+20h - WNBA: Connecticut Sun x Phoenix Mercury (ESPN2)
+
+Segunda, 20/jul
+
+18h50 - LBF: Campinas x Araraquara (ESPN2)
+
+Sexta, 24/07
+
+21h - WNBA: WNBA Skills Competition (ESPN2)
+
+# RUGBY NA ESPN
+
+Sábado, 18/jul
+
+04h - Rugby Nations: Nova Zelândia x Irlanda (ESPN2)
+
+16h - Rugby Nations: Argentina x Inglaterra (ESPN2)
 
 # LACROSSE NO DISNEY+
 
@@ -79,6 +143,20 @@ Sexta, 10/jul
 19h30 - PLL Lacrosse: Philadelphia Waterdogs x California Redwoods
 
 22h - PLL Lacrosse: Utah Archers x New York Atlas
+
+Sexta, 17/jul
+
+19h30 - PLL Lacrosse: Redwoods x Whipsnakes
+
+Sábado, 18/jul
+
+15h - PLL Lacrosse: Chaos x Outlaws
+
+17h30 - PLL Lacrosse: Archers x Waterdogs
+
+Domingo, 19/jul
+
+16h - PLL Lacrosse: Atlas x Cannons
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
