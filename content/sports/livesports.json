@@ -91,6 +91,19 @@
     "featured": true
   },
   {
+    "id": "fut-goat-ava-nau-1207",
+    "title": "AVAÍ X NÁUTICO | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
+    "badge": "Canal GOAT",
+    "dateTime": "12 JUL - 15:30",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/Cw7V68CBqNA/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "AVAÍ X NÁUTICO | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
+    "youtubeId": "Cw7V68CBqNA",
+    "streamUrl": "https://www.youtube.com/watch?v=Cw7V68CBqNA",
+    "featured": true
+  },
+  {
     "id": "fut-sportynet-pay-gua-1207",
     "title": "PAYSANDU X GUARANI: AO VIVO E COM IMAGENS | RODADA 14 | SÉRIE C",
     "badge": "SportyNet",
@@ -104,16 +117,16 @@
     "featured": true
   },
   {
-    "id": "fut-goat-ava-nau-1207",
-    "title": "AVAÍ X NÁUTICO | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-    "badge": "Canal GOAT",
-    "dateTime": "12 JUL - 15:30",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/Cw7V68CBqNA/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "id": "live-canalbochas-002",
+    "title": "38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS - SEMIFINAIS",
+    "badge": "Canal Bochas",
+    "dateTime": "11 JUL - 15:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/2RQOOsDQHKM/hq720.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
-    "videoUrlPlaceholder": "AVAÍ X NÁUTICO | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-    "youtubeId": "Cw7V68CBqNA",
-    "streamUrl": "https://www.youtube.com/watch?v=Cw7V68CBqNA",
+    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: 38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS - SEMIFINAIS",
+    "youtubeId": "2RQOOsDQHKM",
+    "streamUrl": "https://www.youtube.com/watch?v=2RQOOsDQHKM",
     "featured": true
   },
   {
