@@ -110,6 +110,46 @@ Sexta, 24/07
 
 # BASQUETE NA ESPN: NBA & WNBA
 
+Sábado, 11/jul
+
+00:00 - NBA SL: Suns x Trail Blazers (📺 Disney+)
+
+16:30 - NBA SL: Magic x Heat (📺 Amazon Prime)
+
+17:00 - NBA SL: Hornets x Pelicans (📺 Disney+)
+
+18:30 - NBA SL: 76ers x Pacers (📺 Amazon Prime)
+
+19:00 - NBA SL: Spurs x Knicks (📺 Disney+)
+
+20:30 - NBA SL: T-Wolves x Nuggets (📺 Amazon Prime)
+
+21:00 - NBA SL: Nets x Hawks (📺 Disney+)
+
+22:30 - NBA SL: Raptors x Rockets (📺 Amazon Prime)
+
+23:00 - NBA SL: Mavericks x Lakers (📺 Disney+)
+
+Domingo, 12/jul
+
+16:00 - NBA SL: Pelicans x Suns (📺 Disney+)
+
+17:00 - NBA SL: Pistons x Cavaliers (📺 Amazon Prime)
+
+18:00 - NBA SL: Celtics x Hornets (📺 Disney+)
+
+19:00 - NBA SL: Warriors x Thunder (📺 Amazon Prime)
+
+20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN2, Disney+)
+
+20:00 - NBA SL: Trail Blazers x Magic (📺 Disney+)
+
+21:00 - NBA SL: Wizards x Kings (📺 Amazon Prime)
+
+22:00 - NBA SL: Bucks x Spurs (📺 Disney+)
+
+23:00 - NBA SL: Jazz x Clippers (📺 Amazon Prime)
+
 Sexta, 17/jul
 
 19h20 - LBF: Campinas x Araraquara (ESPN2)
