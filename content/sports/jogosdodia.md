@@ -46,6 +46,8 @@
 
 17:00 - Série D: Ferroviário x Imperatriz/AM (📺 Metrópolis)
 
+17:10 - MLB: LA Dodgers x Arizona D-Backs (📺 ESPN3, Disney+)
+
 18:00 - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
 
 18:00 - NBA SL: Celtics x Hornets (📺 Disney+)
