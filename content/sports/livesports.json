@@ -13,19 +13,6 @@
     "featured": false
   },
   {
-    "id": "live-canalbochas-001",
-    "title": "38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
-    "badge": "Canal Bochas",
-    "dateTime": "11 JUL - 09:00",
-    "category": "Bocha",
-    "image": "https://i.ytimg.com/vi/sGmo0MetYPc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
-    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: 38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
-    "youtubeId": "sGmo0MetYPc",
-    "streamUrl": "https://www.youtube.com/watch?v=sGmo0MetYPc",
-    "featured": true
-  },
-  {
     "id": "fut-sportynet-bot-con-1207",
     "title": "BARRA X SANTA CRUZ: AO VIVO, COM IMAGENS E EXCLUSIVO | RODADA 14 | SÉRIE C",
     "badge": "SportyNet",
@@ -193,6 +180,19 @@
     "videoUrlPlaceholder": "🔴 LIVE Cricket - Yorkshire v The Blaze / Notts Outlaws | Vitality Blast at Headingley",
     "youtubeId": "lpBVNeimks4",
     "streamUrl": "https://www.youtube.com/watch?v=lpBVNeimks4"
+  },
+  {
+    "id": "live-canalbochas-001",
+    "title": "38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
+    "badge": "Canal Bochas",
+    "dateTime": "11 JUL - 09:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/sGmo0MetYPc/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: 38° TORNEIO DA INTEGRAÇÃO JOÃO BASTOS - JÚLIO DE CASTILHOS",
+    "youtubeId": "sGmo0MetYPc",
+    "streamUrl": "https://www.youtube.com/watch?v=sGmo0MetYPc",
+    "featured": true
   },
   {
     "id": "fut-sportynet-cxs-flo-1107",
