@@ -224,7 +224,7 @@
 
 14:30 - Liga das Nações: Sérvia x Bulgária (📺 SPORTV2)
 
-16h - Copa do Mundo: ??? x ???  (📺 CazéTV)
+16h - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
 
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
