@@ -24,15 +24,19 @@
 
 16:00 -	MLS Next Pro: Philadelphia Union II x Huntsville City FC (📺 Onefootball)
 
-16:00 - Amistoso: Benfica x Flamengo (📺 Band, Sportv2, getv, Premiere) 
+16:00 - NBA SL: Pelicans x Suns (📺 Disney+)
 
-16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports) 
+16:00 - Amistoso: Fluminense x Bahia (📺 Band, Sportv2, Premiere) 
+
+16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports, SporTV) 
 
 16:00 - Série D: Portuguesa/RJ x São José/RS (📺 Metrópolis)
 
 17:00 - Amistoso: Cruzeiro x Grêmio (📺 Metrópoles) 
 
 17:00 - MLB: Arizona Diamondbacks x Los Angeles Dodgers (📺 ESPN2) 
+
+17:00 - NBA SL: Pistons x Cavaliers (📺 Amazon Prime)
 
 17:00 - NWSL: Seattle Reign x Portland Thorns (📺 ESPN4, FOX Sports)
 
@@ -41,6 +45,8 @@
 17:00 - Série D: Ferroviário x Imperatriz/AM (📺 Metrópolis)
 
 18:00 - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
+
+18:00 - NBA SL: Celtics x Hornets (📺 Disney+)
 
 18:00 -	MLS Next Pro: Carolina Core FC x Chattanooga FC (📺 Onefootball)
 
@@ -54,14 +60,24 @@
 
 19:00 -	MLS Next Pro: CT United x Toronto FC II (📺 Onefootball)
 
+19:00 - NBA SL: Warriors x Thunder (📺 Amazon Prime)
+
 19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
 
-20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN3)
+20:00 - NBA SL: Trail Blazers x Magic (📺 Disney+)
+
+20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN2, Disney+)
+
+21:00 - NBA SL: Wizards x Kings (📺 Amazon Prime)
 
 21:00 -	MLS Next Pro: San Jose Earthquakes II x Tacoma Defiance II (📺 Onefootball)
 
 21:30 -	MLS Next Pro: Austin FC II x MNUFC2 (📺 Onefootball)
 
+22:00 - NBA SL: Bucks x Spurs (📺 Disney+)
+
 22:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
+
+23:00 - NBA SL: Jazz x Clippers (📺 Amazon Prime)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
