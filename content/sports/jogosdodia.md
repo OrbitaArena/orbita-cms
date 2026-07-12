@@ -26,6 +26,8 @@
 
 16:00 - NBA SL: Pelicans x Suns (📺 Disney+)
 
+16:00 - Brasil Ladies Cup: Peñarol x Paraguai ㆍ 3º LUGAR (📺 Nsports, Canal GOAT)
+
 16:00 - Amistoso: Fluminense x Bahia (📺 Band, Sportv2, Premiere) 
 
 16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports, SporTV) 
@@ -63,6 +65,8 @@
 19:00 - NBA SL: Warriors x Thunder (📺 Amazon Prime)
 
 19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
+
+20:00 - Brasil Ladies Cup: Flamengo x Palmeiras ㆍ FINAL (📺 Xsports, Nsports, Canal GOAT)
 
 20:00 - NBA SL: Trail Blazers x Magic (📺 Disney+)
 
