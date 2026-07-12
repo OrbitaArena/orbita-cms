@@ -140,7 +140,9 @@
 
 16:00 -	MLS Next Pro: Philadelphia Union II x Huntsville City FC (📺 Onefootball)
 
-16:00 - Amistoso: Benfica x Flamengo (📺 Band, Sportv2, getv, Premiere) 
+16:00 - NBA SL: Pelicans x Suns (📺 Disney+)
+
+16:00 - Amistoso: Fluminense x Bahia (📺 Band, Sportv2, Premiere)
 
 16:00 - Amistoso: Cascavel x Corinthians (📺 Xsports)
 
@@ -152,6 +154,8 @@
 
 17:00 - MLB: Arizona Diamondbacks x Los Angeles Dodgers (📺 ESPN2) 
 
+17:00 - NBA SL: Pistons x Cavaliers (📺 Amazon Prime)
+
 17:00 - NWSL: Seattle Reign x Portland Thorns (📺 ESPN4, FOX Sports)
 
 17:00 -	MLS Next Pro: Chicago Fire FC II x Red Bull New York II (📺 Onefootball)
@@ -159,6 +163,8 @@
 17:00 - Série D: Ferroviário x Imperatriz/AM (📺 Metrópolis)
 
 18:00 - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
+
+18:00 - NBA SL: Celtics x Hornets (📺 Disney+)
 
 18:00 -	MLS Next Pro: Carolina Core FC x Chattanooga FC (📺 Onefootball)
 
@@ -172,25 +178,37 @@
 
 19:00 -	MLS Next Pro: CT United x Toronto FC II (📺 Onefootball)
 
+19:00 - NBA SL: Warriors x Thunder (📺 Amazon Prime)
+
 19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
 
 19:45 - Nascar Cup: GP de Echopark (📺 ESPN4, FOX Sports)
 
 20:00 - Brasil Ladies Cup: Flamengo x Palmeiras ㆍ FINAL (📺 Xsports, Nsports, Canal GOAT)
 
+20:00 - NBA SL: Trail Blazers x Magic (📺 Disney+)
+
 20:00 - WNBA: Chicago Sky x Dallas Wings (📺 ESPN3)
+
+21:00 - NBA SL: Wizards x Kings (📺 Amazon Prime)
 
 21:00 -	MLS Next Pro: San Jose Earthquakes II x Tacoma Defiance II (📺 Onefootball)
 
 21:30 -	MLS Next Pro: Austin FC II x MNUFC2 (📺 Onefootball)
 
+22:00 - NBA SL: Bucks x Spurs (📺 Disney+)
+
 22:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
+
+23:00 - NBA SL: Jazz x Clippers (📺 Amazon Prime)
 
 ## Segunda, 13/jul
 
 19:00 - Uruguaio: Cerro Largo x Defensor Sp. (📺 Disney+)
 
 19:00 - Série B: América Mineiro x Londrina (📺 Disney+)
+
+20:00 - AUSL Softbol: Carolina Blaze x Texas Volts (📺 Disney+)
 
 20:00 - Série D: CSA x Betim EC (📺 Metrópolis)
 
@@ -202,13 +220,21 @@
 
 20:45 - LNF Futsal: Santo André x Joinville (📺 XSports)
 
+23:30 - LMB: Tecos de los Dos Laredos x Toros de Tijuana (📺 Disney+)
+
 ## Terça, 14/jul
 
 10:00 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
 
-16h - Copa do Mundo: França x Espanha  (📺 CazéTV)
+16:00 - Copa do Mundo: França x Espanha  (📺 CazéTV)
+
+20:00 - AUSL Softbol: Oklahoma City Spark x Texas Volts (📺 Disney+)
 
 20:30 - MLB: MLB All Star Game (📺 ESPN2)
+
+22:00 - LMB: El Águila de Veracruz x Pericos de Puebla (📺 Disney+)
+
+23:30 - LMB: Tecos de los Dos Laredos x Toros de Tijuana (📺 Disney+)
 
 23:45 - Liga das Nações: Turquia x Polônia (📺 SPORTV2)
 
@@ -224,10 +250,57 @@
 
 14:30 - Liga das Nações: Sérvia x Bulgária (📺 SPORTV2)
 
-16h - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
+16:00 - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
 
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
 20:30 - ESPYS AWARDS: The 2026 ESPYS (📺 ESPN2)
+
+21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+
+22:30 - LMB: Charros de Jalisco x Rieleros de Aguascalientes (📺 Disney+)
+
+## Quinta, 16/jul
+
+20:00 - Philadelphia Phillies x New York Mets (📺 ESPN2, Disney+)
+
+21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+
+22:00 - LMB: El Águila de Veracruz x Pericos de Puebla (📺 Disney+)
+
+## Sexta, 17/jul
+
+19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
+
+19h30 - PLL Lacrosse: Redwoods x Whipsnakes (📺 Disney+)
+
+20:00 - Los Angeles Dodgers x New York Yankees (📺 ESPN3, Disney+)
+
+21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
+
+22:30 - LMB: Leones de Yucatán x Bravos de León (📺 Disney+)
+
+22:40 - LMB: Caliente de Durango x Acereros de Monclova (📺 Disney+)
+
+## Sábado, 18/jul
+
+15:00 - PLL Lacrosse: Chaos x Outlaws (📺 Disney+)
+
+17:30 - PLL Lacrosse: Archers x Waterdogs (📺 Disney+)
+
+19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
+
+## Domingo, 19/jul
+
+04:00 - Rugby Nations: Nova Zelândia x Irlanda (📺 ESPN2)
+
+14:00 - WNBA: Los Angeles Sparks x Dallas Wings (📺 ESPN2)
+
+16:00 - PLL Lacrosse: Atlas x Cannons (📺 Disney+)
+
+16:00 - Rugby Nations: Argentina x Inglaterra (📺 ESPN2)
+
+20:00 - WNBA: Connecticut Sun x Phoenix Mercury (📺 ESPN2)
+
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
