@@ -1,220 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-esp-bel",
-      "sport": "FIFA",
-      "apiId": "760511",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "time": "16:00",
-      "date": "10/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "SoFi Stadium",
-      "location": "Inglewood, California, EUA",
-      "dateTime": "10 JUL - 16:00",
-      "group": "Quartas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Espanha",
-        "code": "ESP",
-        "flag": "🇪🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Bélgica",
-        "code": "BEL",
-        "flag": "🇧🇪",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "serieb-juv-vil-1007",
-      "sport": "FIFA",
-      "apiId": "401860231",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "19:00",
-      "date": "10/07",
-      "seriesInfo": "Disney+",
-      "stadium": "Alfredo Jaconi",
-      "location": "Caxias do Sul, Brasil",
-      "dateTime": "10 JUL - 19:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Juventude",
-        "code": "JUV",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6270.png&h=64&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Vila Nova",
-        "code": "VIL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9973.png&h=64&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-mariners-rays-1007",
-      "sport": "MLB",
-      "apiId": "401816103",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "10/07",
-      "seriesInfo": "ESPN 4, Disney+",
-      "stadium": "Busch Stadium",
-      "location": "St. Louis, Missouri",
-      "dateTime": "10 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Tampa Bay Rays",
-        "code": "TB",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Seattle Mariners",
-        "code": "SEA",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sea.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "serieb-spo-bot-1007",
-      "sport": "FIFA",
-      "apiId": "401860223",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "10/07",
-      "seriesInfo": "XSports, SportyNet, Disney+",
-      "stadium": "Ilha do Retiro",
-      "location": "Recife, Brasil",
-      "dateTime": "10 JUL - 20:00",
-      "group": "Série B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Sport",
-        "code": "SPO",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7635.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Botafogo-PB",
-        "code": "BOT",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10281.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-nor-eng",
       "sport": "FIFA",
       "apiId": "760512",
@@ -364,6 +150,141 @@
         }
       ]
     },
+    {
+      "id": "mlb-diamondbacks-dodgers-1207",
+      "sport": "MLB",
+      "apiId": "401816138",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "17:10",
+      "date": "12/07",
+      "seriesInfo": "ESPN3, Disney+",
+      "stadium": "Dodger Stadium",
+      "location": "Los Angeles, California",
+      "dateTime": "12 JUL - 17:10",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Los Angeles Dodgers",
+        "code": "LAD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Arizona Diamondbacks",
+        "code": "ARI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "serieb-ago-for-1207",
+      "sport": "SÉRIE B",
+      "apiId": "401873998",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "18:00",
+      "date": "12/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Estádio Antônio Accioly",
+      "location": "Goiania, Brasil",
+      "dateTime": "12 JUL - 18:00",
+      "group": "SÉRIE B",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Atlético Goianiense",
+        "code": "AGO",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10357.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Fortaleza",
+        "code": "FOR",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+  "id": "wnba-sky-wings-1207",
+  "sport": "WNBA",
+  "apiId": "401857062",
+  "autoUpdate": true,
+  "league": "WNBA Temporada Regular",
+  "status": "UPCOMING",
+  "time": "20:00",
+  "date": "12/07",
+  "seriesInfo": "ESPN2, Disney+",
+  "stadium": "American Airlines Center",
+  "location": "Dallas, TX",
+  "dateTime": "12 JUL - 20:00",
+  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+  "group": "WNBA",
+  "teamA": {
+    "name": "Dallas Wings",
+    "code": "DAL",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Chicago Sky",
+    "code": "CHI",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/chi.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  ]
+},
     {
       "id": "wc-fra-esp-semifinal",
       "sport": "FIFA",
@@ -591,58 +512,50 @@
   ],
   "todayMatches": [
     {
-      "id": "wc-nor-eng",
-      "sport": "FIFA",
-      "apiId": "760512",
+      "id": "serieb-ago-for-12007",
+      "sport": "SÉRIE B",
+      "apiId": "401873998",
       "autoUpdate": true,
       "time": "18:00",
-      "group": "Copa do Mundo",
-      "stadium": "Hard Rock Stadium",
-      "tv": "CazéTV",
+      "group": "Brasileiro Série B",
+      "stadium": "Estádio Antônio Accioly",
+      "tv": "Disney+",
       "teamA": {
-        "name": "Noruega",
-        "flag": "🇳🇴",
+        "name": "Atlético Goianiense",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10357.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "teamB": {
-        "name": "Inglaterra",
-        "flag": "🇬🇧",
+        "name": "Fortaleza",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=64&h=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
   {
-      "id": "wc-arg-sui",
-      "sport": "FIFA",
-      "apiId": "760513",
+      "id": "mlb-diamondbacks-dodgers-1207",
+      "sport": "WNBA",
+      "apiId": "401816138",
       "autoUpdate": true,
-      "time": "22:00",
-      "group": "Copa do Mundo",
-      "stadium": "GEHA Field at Arrowhead Stadium",
-      "tv": "CazéTV",
-      "teamA": {
-        "name": "Argentina",
-        "flag": "🇦🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Suíça",
-        "flag": "🇨🇭",
-        "score": 0
-      },
+      "time": "17:10",
+      "group": "WNBA",
+      "stadium": "Dodger Stadium",
+      "tv": "ESPN3, Disney+",
+      "teamA": { "name": "Los Angeles Dodgers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "Arizona Diamondbacks", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     },
     {
-      "id": "wnba-liberty-lynx-1107",
+      "id": "wnba-sky-wings-1207",
       "sport": "WNBA",
-      "apiId": "401857057",
+      "apiId": "401857062",
       "autoUpdate": true,
       "time": "20:00",
       "group": "WNBA",
-      "stadium": "Target Center",
-      "tv": "ESPN4, Disney+",
-      "teamA": { "name": "Minnesota Lynx", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/min.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "New York Liberty", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "stadium": "American Airlines Center",
+      "tv": "ESPN2, Disney+",
+      "teamA": { "name": "Dallas Wings", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "Chicago Sky", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/chi.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
