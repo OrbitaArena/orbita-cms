@@ -80,6 +80,10 @@
 
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
+20:00 - MLS Next Pro: New England Revolution II x Columbus Crew 2 (📺 Onefootball)
+
+20:00 - NWSL: Orlando Pride x Boston Legacy FC (📺 Canal GOAT, Onefootball)
+
 20:30 - ESPYS AWARDS: The 2026 ESPYS (📺 ESPN2)
 
 21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
@@ -112,6 +116,10 @@
 
 20:00 - Los Angeles Dodgers x New York Yankees (📺 ESPN3, Disney+)
 
+20:00 - MLS Next Pro: Toronto FC II x FC Cincinnati 2 (📺 Onefootball)
+
+21:00 - NWSL: Kansas City Current x San Diego Wave (📺 Canal GOAT, Onefootball)
+
 21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
 
 22:30 - LMB: Leones de Yucatán x Bravos de León (📺 Disney+)
@@ -122,13 +130,31 @@
 
 04:00 - Rugby Nations: Nova Zelândia x Irlanda (📺 ESPN2)
 
+09:00 - MLS Next Pro: San Jose Earthquakes II x North Texas (📺 Onefootball)
+
 15:00 - PLL Lacrosse: Chaos x Outlaws (📺 Disney+)
 
 16:00 - Rugby Nations: Argentina x Inglaterra (📺 ESPN2)
 
 17:30 - PLL Lacrosse: Archers x Waterdogs (📺 Disney+)
 
+18:30 - MLS Next Pro: Crown Legacy FC x Chicago FireFC II (📺 Onefootball)
+
+19:00 - MLS Next Pro: Columbus Crew 2 x Philadelphia Union II (📺 Onefootball)
+
 19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
+
+20:00 - MLS Next Pro: Chattanooga FC x Orlando City B (📺 Onefootball)
+
+20:00 - MLS Next Pro: Houston Dynamo 2 x Colorado Rapids 2 (📺 Onefootball)
+
+20:00 - MLS Next Pro: St Louis CITY2 x Portland Timbers 2 (📺 Onefootball)
+
+21:00 - MLS Next Pro: Huntsville City FC x Atlanta United 2 (📺 Onefootball)
+
+22:00 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
+
+23:00 - MLS Next Pro: Ventura County FC x Los Angeles FC 2 (📺 Onefootball)
 
 ## Domingo, 19/jul
 
@@ -136,7 +162,12 @@
 
 16:00 - PLL Lacrosse: Atlas x Cannons (📺 Disney+)
 
+19:00 - MLS Next Pro: CT United x Red Bull New York II (📺 Onefootball)
+
 20:00 - WNBA: Connecticut Sun x Phoenix Mercury (📺 ESPN2)
 
+21:00 - MLS Next Pro: Sporting Kansas City II x MNUFC2 (📺 Onefootball)
+
+22:30 - MLS Next Pro: Real Monarchs x Tacoma Defiance (📺 Onefootball)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
