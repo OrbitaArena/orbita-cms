@@ -38,9 +38,11 @@
 
 ## Terça, 14/jul
 
+00:00 - Liga das Nações: Canadá x Argentina (📺 SporTV2)
+
 00:00 - NBA SL: Trailblazers x T-Wolves (📺 Disney+)
 
-10:00 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
+10:00 - Ciclismo: Tour de France Etapa 10 (📺 ESPN3)
 
 16:00 - Copa do Mundo: França x Espanha  (📺 CazéTV)
 
@@ -52,7 +54,7 @@
 
 20:00 - AUSL Softbol: Oklahoma City Spark x Texas Volts (📺 Disney+)
 
-20:30 - MLB: MLB All Star Game (📺 ESPN2, Disney+)
+21:00 - MLB: MLB All Star Game (📺 ESPN2, Disney+)
 
 21:00 - NBA SL: Bulls x Wizards (📺 Amazon Prime)
 
