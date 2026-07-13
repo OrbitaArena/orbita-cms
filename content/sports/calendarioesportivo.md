@@ -14,6 +14,8 @@
 
 20:00 - NBA SL: Grizzlies x Mavericks (📺 Disney+)
 
+20:00 - MLB: Home Run Derby (📺 Netflix)
+
 20:00 - AUSL Softbol: Carolina Blaze x Texas Volts (📺 Disney+)
 
 20:00 - Série D: CSA x Betim EC (📺 Metrópolis)
