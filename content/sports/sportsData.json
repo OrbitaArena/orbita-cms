@@ -286,6 +286,62 @@
   ]
 },
     {
+      "id": "serieb-csc-acmg-1307",
+      "sport": "SÉRIE B",
+      "apiId": "401874003",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "20:30",
+      "date": "13/07",
+      "seriesInfo": "ESPN, Disney+",
+      "stadium": "Estádio Presidente Vargas",
+      "location": "Fortaleza, Brasil",
+      "dateTime": "13 JUL - 20:30",
+      "group": "SÉRIE B",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Ceará",
+        "code": "CSC",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Athletic",
+        "code": "ACMG",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20851.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "wc-fra-esp-semifinal",
       "sport": "FIFA",
       "apiId": "760514",
@@ -342,6 +398,50 @@
       ]
     },
     {
+      "id": "mlb-american-national-1407",
+      "sport": "MLB",
+      "apiId": "401817370",
+      "autoUpdate": true,
+      "league": "All Star Game",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "14/07",
+      "seriesInfo": "ESPN2, Disney+",
+      "stadium": "Citizens Bank Park",
+      "location": "Filadélfia, Pensilvânia",
+      "dateTime": "14 JUL - 21:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "American All-Stars",
+        "code": "AL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/al.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "National All-Stars",
+        "code": "NL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nl.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
       "id": "wc-arg-eng-semifinal",
       "sport": "FIFA",
       "apiId": "760515",
@@ -394,6 +494,94 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "mlb-mets-phillies-1607",
+      "sport": "MLB",
+      "apiId": "401816143",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "16/07",
+      "seriesInfo": "ESPN2, Disney+",
+      "stadium": "Citizens Bank Park",
+      "location": "Filadélfia, Pensilvânia",
+      "dateTime": "16 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Philadelphia Phillies",
+        "code": "PHI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "New York Mets",
+        "code": "NYM",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-dodgers-yankees-1707",
+      "sport": "MLB",
+      "apiId": "401816142",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "17/07",
+      "seriesInfo": "ESPN3, Disney+",
+      "stadium": "Yankee Stadium",
+      "location": "Bronx, Nova York",
+      "dateTime": "17 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "New York Yankees",
+        "code": "PHI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Los Angeles Dodgers",
+        "code": "NYM",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
         }
       ]
     },
@@ -512,50 +700,50 @@
   ],
   "todayMatches": [
     {
-      "id": "serieb-ago-for-1207",
+      "id": "serieb-csc-acmg-1307",
       "sport": "SÉRIE B",
-      "apiId": "401873998",
+      "apiId": "401874003",
       "autoUpdate": true,
-      "time": "18:00",
+      "time": "20:30",
       "group": "Brasileiro Série B",
-      "stadium": "Estádio Antônio Accioly",
-      "tv": "Disney+",
+      "stadium": "Estádio Presidente Vargas",
+      "tv": "ESPN, Disney+",
       "teamA": {
-        "name": "Atlético Goianiense",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10357.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "Ceará",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Fortaleza",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=64&h=64",
+        "name": "Athletic",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20851.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
   {
-      "id": "mlb-diamondbacks-dodgers-1207",
-      "sport": "WNBA",
-      "apiId": "401816138",
+      "id": "wc-fra-esp-semifinal",
+      "sport": "FIFA",
+      "apiId": "760514",
       "autoUpdate": true,
-      "time": "17:10",
-      "group": "WNBA",
-      "stadium": "Dodger Stadium",
-      "tv": "ESPN3, Disney+",
-      "teamA": { "name": "Los Angeles Dodgers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "Arizona Diamondbacks", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "time": "16:00",
+      "group": "SEMIFINAL",
+      "stadium": "AT&T Stadium",
+      "tv": "CazéTV",
+      "teamA": { "name": "França", "flag": "🇫🇷", "score": 0 },
+      "teamB": { "name": "Espanha", "flag": "🇪🇸", "score": 0 },
       "status": "UPCOMING"
     },
     {
-      "id": "wnba-sky-wings-1207",
-      "sport": "WNBA",
-      "apiId": "401857062",
+      "id": "mlb-american-national-1407",
+      "sport": "MLB",
+      "apiId": "401817370",
       "autoUpdate": true,
-      "time": "20:00",
-      "group": "WNBA",
-      "stadium": "American Airlines Center",
+      "time": "21:00",
+      "group": "MLB",
+      "stadium": "Citizens Bank Park",
       "tv": "ESPN2, Disney+",
-      "teamA": { "name": "Dallas Wings", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "Chicago Sky", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/chi.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamA": { "name": "American All-Stars", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/al.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "National All-Stars", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nl.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
