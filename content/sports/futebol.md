@@ -2,12 +2,6 @@
 
 ## COPA DO MUNDO
 
-Sábado, 11/jul
-
-18h - Copa do Mundo: Noruega x Inglaterra  (📺 CazéTV)
-
-22h - Copa do Mundo: Argentina x Suíça  (📺 CazéTV)
-
 Terça, 14/07
 
 16h - Copa do Mundo: França x Espanha  (📺 CazéTV)
@@ -54,18 +48,6 @@ Quinta, 23/jul
 
 ## Brasileiro Série B
 
-Domingo, 12/jul
-
-11h - Série B: Operário/PR x Novorizontino (📺 Disney+)
-
-16h - Série B: Avaí x Náutico (📺 Disney+)
-
-16h - Série B: São Bernardo x Cuiabá (📺 Disney+)
-
-18h - Série B: Atlético Goianiense x Fortaleza (📺 Disney+)
-
-19h - Série B: CRB x Goiás (📺 ESPN, SportyNet, Disney+)
-
 Segunda, 13/jul
 
 19h - Série B: América Mineiro x Londrina (📺 Disney+)
@@ -74,53 +56,11 @@ Segunda, 13/jul
 
 ## Brasileiro Série C
 
-Sábado, 11/jul
-
-10:45 - Série C: Caxias x Floresta (📺 SportyNet)
-
-Domingo, 12/jul
-
-15:00 - Série C: Paysandu x Guarani (📺 SportyNet)
-
-19:15 - Série C: Botafogo/PB x Confiança (📺 SportyNet)
-
-22:45 - Série C: Barra/SC x Santa Cruz (📺 SportyNet)
-
 Segunda, 13/jul
 
 20:15 - Série C: Figueirense x Volta Redonda (📺 SportyNet)
 
 ## Brasileiro Série D
-
-Sábado, 11/jul
-
-16:00 - Série D: Portuguesa x Marcílio Dias (📺 Metrópolis)
-
-18:00 - Série D: XV de Piracicaba x Cianorte (📺 Metrópolis)
-
-Domingo, 12/jul
-
-15:30 - Série D: São Luiz x Velo Clube (📺 Metrópolis)
-
-16:00 - Série D: Iguatu x Maguari (📺 Metrópolis)
-
-16:00 - Série D: ABX x Águia de Marabá (📺 Metrópolis)
-
-16:00 - Série D: Gama x Porto Velho (📺 Metrópolis)
-
-16:00 - Série D: Uberlândia x Serra Branca (📺 Metrópolis)
-
-16:00 - Série D: Portuguesa/RJ x São José/RS  (📺 Metrópolis)
-
-16:00 - Série D: Manauara x Goiatuba (📺 Metrópolis)
-
-17:00 - Série D: Capital x Nacional/AM (📺 Metrópolis)
-
-17:00 - Série D: Ferroviário x Imperatriz/AM (📺 Metrópolis)
-
-17:00 - Série D: Treze/PB x Crac (📺 Metrópolis)
-
-17:00 - Série D: ASA x Ivinhema (📺 Metrópolis)
 
 Segunda, 13/jul
 
@@ -130,51 +70,57 @@ Segunda, 13/jul
 
 ## MLS, USL & NWSL
 
-Sábado, 11/jul
+Quarta, 15/jul
 
-20:00 -	MLS Next Pro: Atlanta United 2 x Inter Miami CF II  (📺 Onefootball)
+20:00 - MLS Next Pro: New England Revolution II x Columbus Crew 2 (📺 Onefootball)
 
-20:00 -	MLS Next Pro: Crown Legacy FC x NYCFC II (📺 Onefootball)
+20:00 - NWSL: Orlando Pride x Boston Legacy FC (📺 Canal GOAT, Onefootball)
 
-20:00 -	MLS Next Pro: Houston Dynamo 2 x St Louis CITY2 (📺 Onefootball)
+Sexta, 17/jul
 
-21:00 -	MLS Next Pro: Colorado Rapids 2 x North Texas (📺 Onefootball)
+20:00 -	MLS Next Pro: Toronto FC II x FC Cincinnati 2 (📺 Onefootball)
 
-23:00 -	MLS Next Pro: Real Monarchs x Vancouver Whitecaps FC II (📺 Onefootball)
+21:00 - NWSL: Kansas City Current x San Diego Wave (📺 Canal GOAT, Onefootball)
 
-23:00 -	MLS Next Pro: Los Angeles FC 2 x Portland Timbers 2 (📺 Onefootball)
+Sábado, 18/jul
 
-Domingo, 12/jul
+09:00 -	MLS Next Pro: San Jose Earthquakes II x North Texas (📺 Onefootball)
 
-16:00 -	MLS Next Pro: Philadelphia Union II x Huntsville City FC (📺 Onefootball)
+18:30 -	MLS Next Pro: Crown Legacy FC x Chicago FireFC II (📺 Onefootball)
 
-17:00 -	MLS Next Pro: Chicago Fire FC II x Red Bull New York II (📺 Onefootball)
+19:00 -	MLS Next Pro: Columbus Crew 2 x Philadelphia Union II (📺 Onefootball)
 
-18:00 -	MLS Next Pro: Carolina Core FC x Chattanooga FC (📺 Onefootball)
+20:00 -	MLS Next Pro: Chattanooga FC x Orlando City B (📺 Onefootball)
 
-19:00 -	MLS Next Pro:FC Cincinnati 2 x Orlando City (📺 Onefootball)
+20:00 -	MLS Next Pro: Houston Dynamo 2 x Colorado Rapids 2 (📺 Onefootball)
 
-19:00 -	MLS Next Pro: CT United x Toronto FC II (📺 Onefootball)
+20:00 -	MLS Next Pro: St Louis CITY2 x Portland Timbers 2 (📺 Onefootball)
 
-21:00 -	MLS Next Pro: San Jose Earthquakes II x Tacoma Defiance II (📺 Onefootball)
+21:00 -	MLS Next Pro: Huntsville City FC x Atlanta United 2 (📺 Onefootball)
 
-21:30 -	MLS Next Pro: Austin FC II x MNUFC2 (📺 Onefootball)
+22:00 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
+
+23:00 -	MLS Next Pro: Ventura County FC x Los Angeles FC 2 (📺 Onefootball)
+
+Domingo, 19/jul
+
+19:00 -	MLS Next Pro: CT United x Red Bull New York II (📺 Onefootball)
+
+21:00 -	MLS Next Pro: Sporting Kansas City II x MNUFC2 (📺 Onefootball)
+
+22:30 -	MLS Next Pro: Real Monarchs x Tacoma Defiance (📺 Onefootball)
+
+Quarta, 22/jul
+
+19:30 - MLS Next Pro: Carolina Core FC x Inter Miami CF II (📺 Onefootball)
+
+22:00 - MLS Next Pro: Vancouver Whitecaps FC II x Austin FC II (📺 Onefootball)
+
+Quinta, 23/jul
+
+12:00 - MLS Next Pro: New England Revolution II x NYCFC II (📺 Onefootball)
 
 ## LNF Futsal
-
-Sábado, 11/jul
-
-17:00 - LNF Futsal: Cascavel x Praia Clube (📺 LNFTV)
-
-18:30 - LNF Futsal: Pato x Tubarão (📺 XSports, LNFTV)
-
-19:30 - LNF Futsal: Jaraguá x São José/SP (📺 LNFTV)
-
-20:30 - LNF Futsal: Marreco x Umuarama (📺 XSports, LNFTV)
-
-Domingo, 12/jul
-
-11:20 - LNF Futsal: Jaraguá x Cascavel (📺 XSports)
 
 Segunda, 13/jul
 
@@ -184,37 +130,8 @@ Quarta, 15/jul
 
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
-## Brasil Ladies Cup
-
-Domingo, 12/jul
-
-16:00 - Brasil Ladies Cup: Peñarol x Paraguai ㆍ 3º LUGAR (📺 Nsports, Canal GOAT)
-
-20:00 - Brasil Ladies Cup: Flamengo x Palmeiras ㆍ FINAL (📺 Xsports, Nsports, Canal GOAT)
-
-## Estaduais
-
-Domingo, 12/jul
-
-18:30 - Paulista Feminino: São Paulo x Taubaté (📺 SporTV)
 
 ## Campeonatos Sul-Americanos
-
-Sábado, 11/jul
-
-10:00 - Uruguaio: Juventud x Torque (📺 Disney+)
-
-15:00 - Uruguaio: Danubio x Nacional (📺 Disney+)
-
-18:00 - Uruguaio: Wanderers x Progreso (📺 Disney+)
-
-Domingo, 12/jul
-
-12:00 - Uruguaio: Liverpool MOntevideo x Cerro (📺 Disney+)
-
-15:00 - Uruguaio: Boston River x Central Espanhol (📺 Disney+)
-
-18:30 - Uruguaio: Racing/URU x Peñarol (📺 Disney+)
 
 Segunda, 13/jul
 
