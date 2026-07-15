@@ -236,6 +236,8 @@ Sexta, 17/jul
 
 19:30 - Uruguaio: Nacional x Wanderers (📺 Disney+)
 
+22:00 - Mexicano: Atlético San Luis x Cruz Azul (📺 Disney+)
+
 Sábado, 18/jul
 
 12:30 - Uruguaio: Progresso x Maldonado (📺 Disney+)
@@ -271,6 +273,8 @@ Sábado, 18/jul
 ## Futebol Feminino
 
 Quinta, 16/jul
+
+19:00 - Paulista F: Corinthians x Ferroviária - (📺 HBO Max, CazéTV)
 
 20:00 - Paulista F: Mirassol x RB Bragantino - (📺 Paulistão)
 
