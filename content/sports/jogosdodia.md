@@ -1,35 +1,55 @@
 # JOGOS DE HOJE
 
-## Terça, 14/jul
+## Quarta, 15/jul
 
-00:00 - Liga das Nações: Canadá x Argentina (📺 SporTV2)
+00:00 - Liga das Nações: Canadá x Argentina (📺 SPORTV2)  
 
-00:00 - NBA SL: Trailblazers x T-Wolves (📺 Disney+)
+11:20 - Liga das Nações: Ucrânia x Irã (📺 SPORTV2)
 
-10:00 - Ciclismo: Tour de France Etapa 10 (📺 ESPN3)
+14:50 - Liga das Nações: Sérvia x Turquia (📺 SPORTV2)
 
-16:00 - Copa do Mundo: França x Espanha  (📺 CazéTV)
+16:00 - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
 
-17:00 - NBA SL: Rockets x 79ers (📺 Disney+)
+16:30 - NBA SL: T-Wolves x Pacers (📺 Amazon Prime)
 
-19:00 - NBA SL: Nets x Kings (📺 Amazon Prime)
+17:00 - NBA SL: 76ers x Magic (📺 Disney+)
 
-20:00 - NBA SL: Warriors x Grizzlies (📺 Disney+)
+17:40 - Liga das Nações: França x Brasil (📺 SPORTV2)
 
-20:00 - AUSL Softbol: Oklahoma City Spark x Texas Volts (📺 Disney+)
+17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
 
-21:00 - MLB: MLB All Star Game (📺 ESPN2, Disney+)
+18:30 - NBA SL: Cavaliers x Pelicans (📺 Amazon Prime)
 
-21:00 - NBA SL: Bulls x Wizards (📺 Amazon Prime)
+19:00 - NBA SL: Pistons x Suns (📺 Disney+)
 
-22:00 - NBA SL: Thunder x Nuggets (📺 Disney+)
+19h30 - UL League One: One Knoxville x Fort Wayne (📺 Disney+)
 
-22:00 - LMB: El Águila de Veracruz x Pericos de Puebla (📺 Disney+)
+20:00 - MLS Next Pro: New England Revolution II x Columbus Crew 2 (📺 Onefootball)
 
-23:00 - NBA SL: Lakers x Clippers (📺 Amazon Prime)
+20:00 - NWSL: Orlando Pride x Boston Legacy FC (📺 Canal GOAT, Onefootball)
 
-23:30 - LMB: Tecos de los Dos Laredos x Toros de Tijuana (📺 Disney+)
+20h00 - USL Championship: Lexington x New México (📺 Disney+)
 
-23:45 - Liga das Nações: Turquia x Polônia (📺 SPORTV2)
+20h00 - USL Championship: Miami FC x Indy Eleven (📺 Disney+)
+
+20h00 - UL League One: Chattanooga Red Wolves x Av Alta (📺 Disney+)
+
+20h30 - USL Championship: Sporting Jax x Pittsburgh (📺 Disney+)
+
+20:30 - NBA SL: Hornets x Bucks (📺 Amazon Prime)
+
+21:00 - NBA SL: Kings x Celtics (📺 Disney+)
+
+21:00 - NWSL: Gotham FC x Washington Spirit (📺 ESPN4, Disney+)
+
+21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+
+21:50 - Liga das Nações: EUA x China (📺 SPORTV2)
+
+22:30 - LMB: Charros de Jalisco x Rieleros de Aguascalientes (📺 Disney+)
+
+22:30 - NBA SL: Spurs x Jazz (📺 Amazon Prime)
+
+23:30 - NBA SL: Clipers x Wizards (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
