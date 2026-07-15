@@ -186,13 +186,21 @@
 
 ## Sexta, 17/jul
 
+01:00 - VNL M: Cuba x Argentina (📺 SPORTV2)
+
+15:00 - VNL M: Irã x Eslovênia (📺 SPORTV2)
+
 15:00 - Uruguaio: Albion x Juventud (📺 Disney+)
+
+18:00 - VNL M: China x Bulgária (📺 SPORTV2)
 
 19:00 - Série B: São Bernardo x Avaí (📺 Premiere)
 
 19:00 - Série B: América/MG x Ceará (📺 Disney+)
 
 19:00 - Série B: Juventude x Cuiabá (📺 Disney+)
+
+19:00 - Paulista F: Corinthians x Ferroviária - (📺 HBO Max, CazéTV)
 
 19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
 
@@ -212,6 +220,8 @@
 
 20:00 - MLS Next Pro: Toronto FC II x FC Cincinnati 2 (📺 Onefootball)
 
+20:15 - MLB: Toronto Blue Jays x Chicago White Socks (📺 AppleTV)
+
 21:00 - Série B: Londrina x Botafogo/SP (📺 Disney+)
 
 21:00 - Série B: Fortaleza x Novorizontino - (📺 XSports, SportyNet, ESPN)
@@ -222,7 +232,11 @@
 
 21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
 
+22:00 - VNL M: Brasil  Polônia (📺 SPORTV2, geTV)
+
 22:00 - Boxe: Joel Mafauad x Elias Hidalgo (📺 ESPN4, Disney+)
+
+22:00 - Mexicano: Atlético San Luis x Cruz Azul (📺 Disney+)
 
 22:30 - USL League One: Boise x Portland Hearts of Pine (📺 Disney+)
 
