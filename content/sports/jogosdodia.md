@@ -22,19 +22,19 @@
 
 19:00 - NBA SL: Pistons x Suns (📺 Disney+)
 
-19h30 - UL League One: One Knoxville x Fort Wayne (📺 Disney+)
+19:30 - UL League One: One Knoxville x Fort Wayne (📺 Disney+)
 
 20:00 - MLS Next Pro: New England Revolution II x Columbus Crew 2 (📺 Onefootball)
 
 20:00 - NWSL: Orlando Pride x Boston Legacy FC (📺 Canal GOAT, Onefootball)
 
-20h00 - USL Championship: Lexington x New México (📺 Disney+)
+20:00 - USL Championship: Lexington x New México (📺 Disney+)
 
-20h00 - USL Championship: Miami FC x Indy Eleven (📺 Disney+)
+20:00 - USL Championship: Miami FC x Indy Eleven (📺 Disney+)
 
-20h00 - UL League One: Chattanooga Red Wolves x Av Alta (📺 Disney+)
+20:00 - UL League One: Chattanooga Red Wolves x Av Alta (📺 Disney+)
 
-20h30 - USL Championship: Sporting Jax x Pittsburgh (📺 Disney+)
+20:30 - USL Championship: Sporting Jax x Pittsburgh (📺 Disney+)
 
 20:30 - NBA SL: Hornets x Bucks (📺 Amazon Prime)
 
