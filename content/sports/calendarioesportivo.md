@@ -130,13 +130,15 @@
 
 07:00 - VNL M: Japão x Canadá (📺 SPORTV2)
 
-10:15 - Ciclimos: Tour de France etapa 12 - (📺 ESPN3)
+10:15 - Ciclimos: Tour de France etapa 12 (📺 ESPN3)
 
 11:00 - Premier Padel: Málaga (📺 Disney+)
 
 11:20 - VNL M: Irã x Alemanha (📺 SPORTV2)
 
-13:30 - The Open Championship: Primeira rodada - (📺 ESPN3)
+13:30 - Golf: The Open Championship (📺 ESPN3)
+
+14:55 - Atletismo: Diamond League 10ª Etapa (📺 SPORTV3)
 
 17:00 - NBA SL: Thunders x Mavericks (📺 Amazon Prime)
 
@@ -187,6 +189,12 @@
 ## Sexta, 17/jul
 
 01:00 - VNL M: Cuba x Argentina (📺 SPORTV2)
+
+10:10 - Ciclimo: Tour de France (📺 ESPN3)
+
+13:30 - Golfe: The Open Championship (📺 ESPN3)
+
+14:55 - Atletismo: Diamond League 10ª Etapa Mônaco (📺 SPORTV3)
 
 15:00 - VNL M: Irã x Eslovênia (📺 SPORTV2)
 
@@ -250,7 +258,17 @@
 
 04:00 - Rugby Nations: Nova Zelândia x Irlanda (📺 ESPN2)
 
+04:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
+
+08:00 - Golfe: The Open Championship (📺 ESPN3)
+
+08:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
+
 09:00 - MLS Next Pro: San Jose Earthquakes II x North Texas (📺 Onefootball)
+
+10:00 - Ciclismo: Tour de France (📺 ESPN2)
+
+10:00 - Atletismo: Diamond League 11ª Etapa Londres (📺 SPORTV3)
 
 10:30 - Paulista F: Palmeiras x São Paulo (📺 SporTV)
 
@@ -266,13 +284,15 @@
 
 16:00 - Série B: Ponte Preta x Goiás (📺 RedeTV!, Canal GOAT, Disney+)
 
-16:00 - Série B: Criciúma x Vila Nova (📺 ESPN)
+16:00 - Série B: Criciúma x Vila Nova (📺 ESPN, ESPN4)
 
 16:00 - Série B: Sport x Operário/PR (📺 Disney+)
 
 16:00 - Rugby Nations: Argentina x Inglaterra (📺 ESPN2)
 
 16:00 - Uruguaio: Peñarol x Boston River (📺 Disney+)
+
+16:00 - Boxe: Harlem Eubank x David Papot (📺 ESPN3)
 
 17:00 - NWSL: Bay FC x North Carolina Courage (📺 NWSL+)
 
@@ -342,15 +362,25 @@
 
 ## Domingo, 19/jul
 
+08:00 - Golfe: The Open Championship FINAL (📺 ESPN3)
+
+09:00 - Tiro com Arco: Finais Dia 2 Madrid (📺 SPORTV3)
+
 10:00 - Uruguaio: Central Esp. x Cerro Largo (📺 Disney+)
+
+10:00 - Ciclismo: Tour de France (📺 ESPN2)
 
 13:00 - Uruguaio: Cerro CA x Racing (📺 Disney+)
 
 14:00 - WNBA: Los Angeles Sparks x Dallas Wings (📺 ESPN2)
 
+14:00 - Indy NXT: GP de Nashville (📺 ESPN4)
+
 16:00 - PLL Lacrosse: Atlas x Cannons (📺 Disney+)
 
 19:00 - MLS Next Pro: CT United x Red Bull New York II (📺 Onefootball)
+
+20:00 - MLB: Los Angeles Dodgers x New York Yankees (📺 ESPN3)
 
 20:00 - WNBA: Connecticut Sun x Phoenix Mercury (📺 ESPN2)
 
