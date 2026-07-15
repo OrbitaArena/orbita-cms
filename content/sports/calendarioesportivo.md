@@ -70,19 +70,27 @@
 
 ## Quarta, 15/jul
 
-07:00 - Liga das Nações: Japão x Brasil (📺 SPORTV2)
+00:00 - Liga das Nações: Canadá x Argentina (📺 SPORTV2)
 
-09:30 - Liga das Nações: China x Canadá (📺 SPORTV2)
+10:10 - Ciclismo: Tour de France (📺 ESPN3)
 
-10:10 - Ciclismo: Tour de France Etapa 7 (📺 ESPN3)
+11:20 - Liga das Nações: Ucrânia x Irã (📺 SPORTV2)
 
-11:30 - Liga das Nações: Tchéquia x Alemanha (📺 SPORTV2)
-
-14:30 - Liga das Nações: Sérvia x Bulgária (📺 SPORTV2)
+14:50 - Liga das Nações: Sérvia x Turquia (📺 SPORTV2)
 
 16:00 - Copa do Mundo: Argentina x Inglaterra  (📺 CazéTV)
 
+16:30 - NBA SL: T-Wolves x Pacers (📺 Amazon Prime)
+
+17:00 - NBA SL: 76ers x Magic (📺 Disney+)
+
+17:40 - Liga das Nações: França x Brasil (📺 SPORTV2)
+
 17:45 - LNF Futsal: Vasco x América-RN (📺 XSports)
+
+18:30 - NBA SL: Cavaliers x Pelicans (📺 Amazon Prime)
+
+19:00 - NBA SL: Pistons x Suns (📺 Disney+)
 
 20:00 - MLS Next Pro: New England Revolution II x Columbus Crew 2 (📺 Onefootball)
 
@@ -90,11 +98,29 @@
 
 20:30 - ESPYS AWARDS: The 2026 ESPYS (📺 ESPN2)
 
+20:30 - NBA SL: Hornets x Bucks (📺 Amazon Prime)
+
+21:00 - NBA SL: Kings x Celtics (📺 Disney+)
+
+21:00 - NWSL: Gotham FC x Washington Spirit (📺 ESPN4, Disney+)
+
 21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+
+21:50 - Liga das Nações: EUA x China (📺 SPORTV2)
 
 22:30 - LMB: Charros de Jalisco x Rieleros de Aguascalientes (📺 Disney+)
 
+22:30 - NBA SL: Spurs x Jazz (📺 Amazon Prime)
+
+23:30 - NBA SL: Clipers x Wizards (📺 Disney+)
+
 ## Quinta, 16/jul
+
+07:00 - Liga das Nações: Japão x Canadá (📺 SPORTV2)
+
+11:20 - Liga das Nações: Irã x Alemanha (📺 SPORTV2)
+
+17:50 - Liga das Nações: China x França (📺 SPORTV2)
 
 19:30 - Série A: Botafogo x Santos (📺 Record, CazéTV, Premiere)
 
@@ -103,6 +129,8 @@
 20:00 - Philadelphia Phillies x New York Mets (📺 ESPN2, Disney+)
 
 21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+
+21:40 - Liga das Nações: EUA x Brasil (📺 SPORTV2)
 
 22:00 - LMB: El Águila de Veracruz x Pericos de Puebla (📺 Disney+)
 
@@ -125,6 +153,8 @@
 21:00 - NWSL: Kansas City Current x San Diego Wave (📺 Canal GOAT, Onefootball)
 
 21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
+
+22:00 - Boxe: Joel Mafauad x Elias Hidalgo (📺 ESPN4, Disney+)
 
 22:30 - LMB: Leones de Yucatán x Bravos de León (📺 Disney+)
 
