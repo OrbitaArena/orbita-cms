@@ -508,16 +508,16 @@
       "status": "UPCOMING"
     },
     {
-      "id": "mlb-american-national-1407",
+      "id": "mlb-mets-phillies-1607",
       "sport": "MLB",
-      "apiId": "401817370",
+      "apiId": "401816143",
       "autoUpdate": true,
-      "time": "21:00",
+      "time": "20:00",
       "group": "MLB",
       "stadium": "Citizens Bank Park",
       "tv": "ESPN2, Disney+",
-      "teamA": { "name": "American All-Stars", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/al.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "National All-Stars", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nl.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamA": { "name": "Philadelphia Phillies", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "New York Mets", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
