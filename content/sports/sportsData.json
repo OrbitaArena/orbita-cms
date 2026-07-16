@@ -1,347 +1,6 @@
 {
   "ticker": [
     {
-      "id": "wc-nor-eng",
-      "sport": "FIFA",
-      "apiId": "760512",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "title": "INGLATERRA AVANÇA PRA SEMIFINAL",
-      "time": "18:00",
-      "date": "11/07",
-      "seriesInfo": "CazéTV",
-      "stadium": "Hard Rock Stadium",
-      "location": "Miami Gardens, Flórida, EUA",
-      "dateTime": "11 JUL - 18:00",
-      "group": "Quartas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Noruega",
-        "code": "NOR",
-        "flag": "🇳🇴",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Inglaterra",
-        "code": "ENG",
-        "flag": "🇬🇧",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-  "id": "wnba-liberty-lynx-1107",
-  "sport": "WNBA",
-  "apiId": "401857057",
-  "autoUpdate": true,
-  "league": "WNBA Temporada Regular",
-  "status": "UPCOMING",
-  "time": "20:00",
-  "date": "11/07",
-  "seriesInfo": "ESPN4, Disney+",
-  "stadium": "Target Center",
-  "location": "Minneapolis, MN",
-  "dateTime": "11 JUL - 20:00",
-  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
-  "group": "WNBA",
-  "teamA": {
-    "name": "Minnesota Lynx",
-    "code": "BOS",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/min.png&cquality=40&h=64&scale=crop&w=64",
-    "score": 0
-  },
-  "teamB": {
-    "name": "New York Liberty",
-    "code": "DAL",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64",
-    "score": 0
-  },
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
-  "stats": [
-    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
-  ]
-},
-    {
-      "id": "wc-arg-sui",
-      "sport": "FIFA",
-      "apiId": "760513",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "ARGENTINA NA SEMIFINAL",
-      "time": "22:00",
-      "date": "11/07",
-      "seriesInfo": "Argentina avança pra semifinal",
-      "stadium": "GEHA Field at Arrowhead Stadium",
-      "location": "Kansas City, Missouri, EUA",
-      "dateTime": "11 JUL - 22:00",
-      "group": "Quartas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Argentina",
-        "code": "ARG",
-        "flag": "🇦🇷",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Suíça",
-        "code": "ENG",
-        "flag": "🇨🇭",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-diamondbacks-dodgers-1207",
-      "sport": "MLB",
-      "apiId": "401816138",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "17:10",
-      "date": "12/07",
-      "seriesInfo": "ESPN3, Disney+",
-      "stadium": "Dodger Stadium",
-      "location": "Los Angeles, California",
-      "dateTime": "12 JUL - 17:10",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Los Angeles Dodgers",
-        "code": "LAD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Arizona Diamondbacks",
-        "code": "ARI",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/ari.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "serieb-ago-for-1207",
-      "sport": "SÉRIE B",
-      "apiId": "401873998",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "18:00",
-      "date": "12/07",
-      "seriesInfo": "Disney+",
-      "stadium": "Estádio Antônio Accioly",
-      "location": "Goiania, Brasil",
-      "dateTime": "12 JUL - 18:00",
-      "group": "SÉRIE B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Atlético Goianiense",
-        "code": "AGO",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/10357.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Fortaleza",
-        "code": "FOR",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-  "id": "wnba-sky-wings-1207",
-  "sport": "WNBA",
-  "apiId": "401857062",
-  "autoUpdate": true,
-  "league": "WNBA Temporada Regular",
-  "status": "UPCOMING",
-  "time": "20:00",
-  "date": "12/07",
-  "seriesInfo": "ESPN2, Disney+",
-  "stadium": "American Airlines Center",
-  "location": "Dallas, TX",
-  "dateTime": "12 JUL - 20:00",
-  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
-  "group": "WNBA",
-  "teamA": {
-    "name": "Dallas Wings",
-    "code": "DAL",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
-    "score": 0
-  },
-  "teamB": {
-    "name": "Chicago Sky",
-    "code": "CHI",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/chi.png&cquality=40&h=64&scale=crop&w=64",
-    "score": 0
-  },
-  "homeKeyPlayers": [],
-  "awayKeyPlayers": [],
-  "stats": [
-    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
-  ]
-},
-    {
-      "id": "serieb-csc-acmg-1307",
-      "sport": "SÉRIE B",
-      "apiId": "401874003",
-      "autoUpdate": true,
-      "league": "Brasileiro Série B",
-      "status": "UPCOMING",
-      "time": "20:30",
-      "date": "13/07",
-      "seriesInfo": "ESPN, Disney+",
-      "stadium": "Estádio Presidente Vargas",
-      "location": "Fortaleza, Brasil",
-      "dateTime": "13 JUL - 20:30",
-      "group": "SÉRIE B",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Ceará",
-        "code": "CSC",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Athletic",
-        "code": "ACMG",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20851.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
       "id": "wc-fra-esp-semifinal",
       "sport": "FIFA",
       "apiId": "760514",
@@ -450,7 +109,7 @@
       "status": "UPCOMING",
       "time": "16:00",
       "date": "15/07",
-      "seriesInfo": "CazéTV",
+      "seriesInfo": "Messi brilha, Argentina vira!",
       "stadium": "Mercedes-Benz Stadium",
       "location": "Atlanta, Georgia, EUA",
       "dateTime": "15 JUL - 16:00",
@@ -582,6 +241,121 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "wc-fra-eng-3olugar",
+      "sport": "FIFA",
+      "apiId": "760516",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "title": "DUELO DE CRAQUES: MBAPPE X HARRY KANE",
+      "time": "18:00",
+      "date": "18/07",
+      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "stadium": "Hard Rock Stadium",
+      "location": "Miami Gardens, Flórida, EUA",
+      "dateTime": "18 JUL - 18:00",
+      "group": "FINAL",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "França",
+        "code": "FRA",
+        "flag": "🇫🇷",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Inglaterra",
+        "code": "ENG",
+        "flag": "🇬🇧",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "wc-esp-arg-final",
+      "sport": "FIFA",
+      "apiId": "760517",
+      "autoUpdate": true,
+      "league": "Copa do Mundo",
+      "status": "UPCOMING",
+      "featured": true,
+      "title": "FINALÍSSIMA",
+      "time": "16:00",
+      "date": "19/07",
+      "seriesInfo": "CazéTV, SBT, Canais Globo",
+      "stadium": "MetLife Stadium",
+      "location": "East Rutherford, New Jersey, EUA",
+      "dateTime": "19 JUL - 16:00",
+      "group": "FINAL",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Espanha",
+        "code": "ESP",
+        "flag": "🇪🇸",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Argentina",
+        "code": "ARG",
+        "flag": "🇦🇷",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
         }
       ]
     },
