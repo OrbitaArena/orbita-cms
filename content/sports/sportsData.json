@@ -157,6 +157,118 @@
       ]
     },
     {
+      "id": "seriea-bot-san-1607",
+      "sport": "SÉRIE A",
+      "apiId": "401841149",
+      "autoUpdate": true,
+      "league": "Brasileiro Série A",
+      "status": "UPCOMING",
+      "time": "19:30",
+      "date": "16/07",
+      "seriesInfo": "Record, CazéTV, Premiere",
+      "stadium": "Joao Havelange",
+      "location": "Rio de Janeiro, Brasil",
+      "dateTime": "16 JUL - 19:30",
+      "group": "Rodada 19",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Botafogo",
+        "code": "BOT",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6086.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Santos",
+        "code": "SAN",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2674.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "seriea-vit-vas-1607",
+      "sport": "SÉRIE A",
+      "apiId": "401841157",
+      "autoUpdate": true,
+      "league": "Brasileiro Série A",
+      "status": "UPCOMING",
+      "time": "19:30",
+      "date": "16/07",
+      "seriesInfo": "Premiere",
+      "stadium": "Estadio Manoel Barradas",
+      "location": "Salvador, Brasil",
+      "dateTime": "16 JUL - 19:30",
+      "group": "Rodada 19",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Vitória",
+        "code": "VIT",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3457.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Vasco",
+        "code": "VAS",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "mlb-mets-phillies-1607",
       "sport": "MLB",
       "apiId": "401816143",
@@ -201,6 +313,97 @@
       ]
     },
     {
+  "id": "wnba-liberty-wings-1607",
+  "sport": "WNBA",
+  "apiId": "401857072",
+  "autoUpdate": true,
+  "league": "WNBA Temporada Regular",
+  "status": "UPCOMING",
+  "time": "22:00",
+  "date": "16/07",
+  "seriesInfo": "Prime Video",
+  "stadium": "College Park Center",
+  "location": "Arlington, TX",
+  "dateTime": "16 JUL - 22:00",
+  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+  "group": "WNBA",
+  "teamA": {
+    "name": "New York Liberty",
+    "code": "NY",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/ny.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Dallas Wings",
+    "code": "DAL",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  ]
+},
+    {
+      "id": "seriea-amg-csc-1707",
+      "sport": "SÉRIE B",
+      "apiId": "401860235",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "19:00",
+      "date": "17/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Independência",
+      "location": "Belo Horizonte, Brasil",
+      "dateTime": "17 JUL - 19:00",
+      "group": "Rodada 18",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "América Mineiro",
+        "code": "AMG",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6154.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Ceará",
+        "code": "CSC",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        }
+      ]
+    },
+    {
       "id": "mlb-dodgers-yankees-1707",
       "sport": "MLB",
       "apiId": "401816142",
@@ -241,6 +444,62 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "seriea-for-nov-1707",
+      "sport": "SÉRIE B",
+      "apiId": "401860236",
+      "autoUpdate": true,
+      "league": "Brasileiro Série B",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "17/07",
+      "seriesInfo": "XSports, SportyNet, ESPN",
+      "stadium": "Arena Castelão",
+      "location": "Fortaleza, Brasil",
+      "dateTime": "17 JUL - 21:00",
+      "group": "Rodada 18",
+      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
+      "teamA": {
+        "name": "Fortaleza",
+        "code": "FOR",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Novorizontino",
+        "code": "NOV",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/18127.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Posse de Bola",
+          "valueA": "50%",
+          "valueB": "50%",
+          "ratioA": 50
+        },
+        {
+          "label": "Finalizações",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Chutes no Gol",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
+        },
+        {
+          "label": "Faltas Cometidas",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 50
         }
       ]
     },
@@ -302,6 +561,41 @@
       ]
     },
     {
+  "id": "wnba-sparks-wings-1907",
+  "sport": "WNBA",
+  "apiId": "401857080",
+  "autoUpdate": true,
+  "league": "WNBA Temporada Regular",
+  "status": "UPCOMING",
+  "time": "14:00",
+  "date": "19/07",
+  "seriesInfo": "ESPN2",
+  "stadium": "College Park Center",
+  "location": "Arlington, TX",
+  "dateTime": "19 JUL - 14:00",
+  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+  "group": "WNBA",
+  "teamA": {
+    "name": "Dallas Wings",
+    "code": "DAL",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Los Angeles Sparks",
+    "code": "LA",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/la.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  ]
+},
+    {
       "id": "wc-esp-arg-final",
       "sport": "FIFA",
       "apiId": "760517",
@@ -359,6 +653,41 @@
         }
       ]
     },
+    {
+  "id": "wnba-sun-mercury-1907",
+  "sport": "WNBA",
+  "apiId": "401857082",
+  "autoUpdate": true,
+  "league": "WNBA Temporada Regular",
+  "status": "UPCOMING",
+  "time": "20:00",
+  "date": "19/07",
+  "seriesInfo": "ESPN2",
+  "stadium": "Mortgage Matchup Center",
+  "location": "Phoenix, AZ",
+  "dateTime": "19 JUL - 20:00",
+  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
+  "group": "WNBA",
+  "teamA": {
+    "name": "Connecticut Sun",
+    "code": "CON",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/con.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Phoenix Mercury",
+    "code": "PHX",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/scoreboard/phx.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],
+  "awayKeyPlayers": [],
+  "stats": [
+    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
+    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  ]
+},
     {
       "id": "sula-dim-vas-220726",
       "sport": "SULAMERICANA",
@@ -474,37 +803,45 @@
   ],
   "todayMatches": [
     {
-      "id": "serieb-csc-acmg-1307",
-      "sport": "SÉRIE B",
-      "apiId": "401874003",
+      "id": "seriea-bot-san-1607",
+      "sport": "SÉRIE A",
+      "apiId": "401841149",
       "autoUpdate": true,
-      "time": "20:30",
-      "group": "Brasileiro Série B",
-      "stadium": "Estádio Presidente Vargas",
-      "tv": "ESPN, Disney+",
+      "time": "19:30",
+      "group": "Brasileiro Série A",
+      "stadium": "Estádio Joao Havelange",
+      "tv": "Record, CazéTV, Premiere",
       "teamA": {
-        "name": "Ceará",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/9969.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Botafogo",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6086.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Athletic",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20851.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Santos",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2674.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
   {
-      "id": "wc-fra-esp-semifinal",
-      "sport": "FIFA",
-      "apiId": "760514",
+      "id": "seriea-vit-vas-1607",
+      "sport": "SÉRIE A",
+      "apiId": "401841157",
       "autoUpdate": true,
-      "time": "16:00",
-      "group": "SEMIFINAL",
-      "stadium": "AT&T Stadium",
-      "tv": "CazéTV",
-      "teamA": { "name": "França", "flag": "🇫🇷", "score": 0 },
-      "teamB": { "name": "Espanha", "flag": "🇪🇸", "score": 0 },
+      "time": "19:30",
+      "group": "Brasileiro Série A",
+      "stadium": "Estadio Manoel Barradas",
+      "tv": "Premiere",
+      "teamA": {
+        "name": "Vitória",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3457.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Vasco",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
       "status": "UPCOMING"
     },
     {
