@@ -104,9 +104,9 @@
       "id": "wc-arg-eng-semifinal",
       "sport": "FIFA",
       "apiId": "760515",
-      "autoUpdate": true,
+      "autoUpdate": false,
       "league": "Copa do Mundo",
-      "status": "UPCOMING",
+      "status": "FINAL",
       "time": "16:00",
       "date": "15/07",
       "seriesInfo": "Messi brilha, Argentina vira!",
@@ -127,32 +127,32 @@
         "flag": "🇬🇧",
         "score": 0
       },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
+      "homeKeyPlayers": ["Enzo Fernández - 85'", "Lautaro Martínez - 90'+2'"],
+      "awayKeyPlayers": ["Anthony Gordon - 55'"],
       "stats": [
         {
           "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
+          "valueA": "64%",
+          "valueB": "36%",
+          "ratioA": 64
         },
         {
           "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
+          "valueA": "15",
+          "valueB": "5",
+          "ratioA": 80
         },
         {
           "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
+          "valueA": "5",
+          "valueB": "2",
+          "ratioA": 70
         },
         {
           "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
+          "valueA": "15",
+          "valueB": "11",
+          "ratioA": 58
         }
       ]
     },
