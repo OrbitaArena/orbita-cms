@@ -8,6 +8,8 @@
 
 15:00 - Uruguaio: Albion x Juventud (📺 Disney+)
 
+15:00 - Brasileirão Feminino: Vitória x Botafogo (📺 UOL TV)
+
 18:00 - VNL M: China x Bulgária (📺 SPORTV2)
 
 19:00 - Série B: São Bernardo x Avaí (📺 Premiere)
@@ -16,7 +18,7 @@
 
 19:00 - Série B: Juventude x Cuiabá (📺 Disney+)
 
-19:00 - Paulista F: Corinthians x Ferroviária - (📺 HBO Max, CazéTV)
+19:00 - Paulista F: Corinthians x Ferroviária (📺 HBO Max, CazéTV)
 
 19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
 
