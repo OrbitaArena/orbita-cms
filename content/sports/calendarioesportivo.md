@@ -200,6 +200,8 @@
 
 15:00 - Uruguaio: Albion x Juventud (📺 Disney+)
 
+15:00 - Brasileirão Feminino: Vitória x Botafogo (📺 UOL TV)
+
 18:00 - VNL M: China x Bulgária (📺 SPORTV2)
 
 19:00 - Série B: São Bernardo x Avaí (📺 Premiere)
@@ -208,7 +210,7 @@
 
 19:00 - Série B: Juventude x Cuiabá (📺 Disney+)
 
-19:00 - Paulista F: Corinthians x Ferroviária - (📺 HBO Max, CazéTV)
+19:00 - Paulista F: Corinthians x Ferroviária (📺 HBO Max, CazéTV)
 
 19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
 
@@ -217,6 +219,8 @@
 19:30 - Série A: Bahia x Chapecoense (📺 Premiere)
 
 19:30 - Uruguaio: Nacional x Wanderers (📺 Disney+)
+
+19:30 - Copa Paulista: Marília x Grêmio Prudente (📺 Metrópolis)
 
 20:00 - Série A: Mirassol x Grêmio (📺 Premiere)
 
@@ -274,11 +278,13 @@
 
 12:30 - Uruguaio: Progresso x Maldonado (📺 Disney+)
 
-13:00 - NWSL: Gotham x Seattle Reign (📺 ESPN4)
+13:00 - NWSL: Gotham x Seattle Reign (📺 ESPN4, Disney+)
 
 13:00 - USL Championship: Pittsburgh x Louisville City (📺 Disney+)
 
 15:00 - PLL Lacrosse: Chaos x Outlaws (📺 Disney+)
+
+18:00 - VNL M: Sérvia x Alemanha (📺 SPORTV2)
 
 15:00 - NWSL: Denver Summit x Portland Thorns (📺 XSports)
 
@@ -287,6 +293,12 @@
 16:00 - Série B: Criciúma x Vila Nova (📺 ESPN, ESPN4)
 
 16:00 - Série B: Sport x Operário/PR (📺 Disney+)
+
+16:00 - Série D: São José/RS x Treze/PB (📺 Metrópolis)
+
+16:00 - Série D: Nacional/AM x Iguatu (📺 Metrópolis)
+
+16:00 - Série D: Cianorte x ASA (📺 Metrópolis)
 
 16:00 - Rugby Nations: Argentina x Inglaterra (📺 ESPN2)
 
@@ -298,11 +310,19 @@
 
 17:00 - NSL: AFC Toronto x Vancouver Rise (📺 Northern Super League)
 
+17:00 - Série D: Uberlândia x Portuguesa/SP (📺 Metrópolis)
+
 17:30 - PLL Lacrosse: Archers x Waterdogs (📺 Disney+)
 
 18:00 - Série B: Atlético/GO x Athletic Club (📺 ESPN)
 
+18:00 - VNL M: França x Polônia (📺 SPORTV2)
+
 18:30 - MLS Next Pro: Crown Legacy FC x Chicago FireFC II (📺 Onefootball)
+
+18:30 - Série D: Goiatuba x Ferroviário (📺 Metrópolis)
+
+19:00 - Série D: Luverdense x ABC (📺 Metrópolis)
 
 19:00 - MLS Next Pro: Columbus Crew 2 x Philadelphia Union II (📺 Onefootball)
 
@@ -350,6 +370,8 @@
 
 21:45 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
 
+22:00 - VNL M: EUA x Bulgária (📺 SPORTV2)
+
 22:00 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
 
 22:00 - Mexicano: Monterrey x Santos Laguna (📺 SportyNet)
@@ -362,6 +384,8 @@
 
 ## Domingo, 19/jul
 
+00:00 - VNL M: Bélgica x Canadá (📺 SPORTV2)
+
 08:00 - Golfe: The Open Championship FINAL (📺 ESPN3)
 
 09:00 - Tiro com Arco: Finais Dia 2 Madrid (📺 SPORTV3)
@@ -370,13 +394,25 @@
 
 10:00 - Ciclismo: Tour de France (📺 ESPN2)
 
+10:00 - Copa Paulista: EC São Bernardo x Santo André (📺 Metrópolis)
+
+11:00 - Série D: São Luiz x CSA (📺 Metrópolis)
+
+11:00 - Copa Paulista: Osasco Sporting x Juventus/SP (📺 Metrópolis)
+
 13:00 - Uruguaio: Cerro CA x Racing (📺 Disney+)
+
+14:00 - VNL M: China x Brasil (📺 SPORTV2)
 
 14:00 - WNBA: Los Angeles Sparks x Dallas Wings (📺 ESPN2)
 
 14:00 - Indy NXT: GP de Nashville (📺 ESPN4)
 
 16:00 - PLL Lacrosse: Atlas x Cannons (📺 Disney+)
+
+28:00 - VNL M: Bulgária x França (📺 SPORTV2)
+
+19:00 - Série D: América/RN x Gama (📺 Metrópolis)
 
 19:00 - MLS Next Pro: CT United x Red Bull New York II (📺 Onefootball)
 
@@ -387,6 +423,8 @@
 20:00 - NWSL: Boston Legacy x Washington (📺 NWSL+)
 
 21:00 - MLS Next Pro: Sporting Kansas City II x MNUFC2 (📺 Onefootball)
+
+22:00 - VNL M: EUA x Polônia (📺 SPORTV2)
 
 22:30 - MLS Next Pro: Real Monarchs x Tacoma Defiance (📺 Onefootball)
 
