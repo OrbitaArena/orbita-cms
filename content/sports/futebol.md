@@ -144,6 +144,32 @@ Segunda, 17/ago
 
 20:00 - Série A: Internacional x Remo (📺 SporTV, Premiere)
 
+Sábado, 22/ago
+
+16:00 - Série A: Fluminense x Remo (📺 Premiere)
+
+18:30 - Série A: Internacional x Atlético/MG (📺 SporTV, Premiere)
+
+22:30 - Série A: Cruzeiro x Flamengo (📺 Amazon Prime)
+
+Domingo, 23/ago
+
+16:00 - Série A: Vitória x Bahia (📺 Globo, Premiere)
+
+16:00 - Série A: Palmeiras x Vasco (📺 Globo, Premiere)
+
+16:00 - Série A: Bragantino x Grêmio (📺 Globo, Premiere)
+
+18:30 - Série A: Chapecoense x São Paulo (📺 Record, CazéTV, Premiere)
+
+18:30 - Série A: Santos x Mirassol (📺 Premiere)
+
+19:30 - Série A: Coritiba x Corinthians (📺 Premiere)
+
+Segunda, 24/ago
+
+20:00 - Série A: Botafogo x Atlético/PR (📺 SporTV, Premiere)
+
 ## BRASILEIRO SÉRIE B
 
 Segunda, 13/jul
