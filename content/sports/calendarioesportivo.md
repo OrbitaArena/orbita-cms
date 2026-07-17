@@ -284,6 +284,8 @@
 
 15:00 - PLL Lacrosse: Chaos x Outlaws (📺 Disney+)
 
+16:00 - Copa do Mundo: França x Inglaterra (📺 CazéTV, SBT, Canais Globo)
+
 18:00 - VNL M: Sérvia x Alemanha (📺 SPORTV2)
 
 15:00 - NWSL: Denver Summit x Portland Thorns (📺 XSports)
@@ -407,6 +409,8 @@
 14:00 - WNBA: Los Angeles Sparks x Dallas Wings (📺 ESPN2)
 
 14:00 - Indy NXT: GP de Nashville (📺 ESPN4)
+
+16:00 - Copa do Mundo: Espanha x Argentina (📺 CazéTV, SBT, Canais Globo)
 
 16:00 - PLL Lacrosse: Atlas x Cannons (📺 Disney+)
 
