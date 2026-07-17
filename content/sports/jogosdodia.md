@@ -1,53 +1,63 @@
 # JOGOS DE HOJE
 
-## Quinta, 16/jul
+## Sexta, 17/jul
 
-07:00 - VNL M: Japão x Canadá (📺 SPORTV2)
+01:00 - VNL M: Cuba x Argentina (📺 SPORTV2)
 
-11:20 - VNL M: Irã x Alemanha (📺 SPORTV2)
+15:00 - VNL M: Irã x Eslovênia (📺 SPORTV2)
 
-17:00 - NBA SL: Thunders x Mavericks (📺 Amazon Prime)
+15:00 - Uruguaio: Albion x Juventud (📺 Disney+)
 
-17:30 - NBA SL: Rockets x Nets (📺 Disney+)
+18:00 - VNL M: China x Bulgária (📺 SPORTV2)
 
-17:50 - VNL M: China x França (📺 SPORTV2)
+19:00 - Série B: São Bernardo x Avaí (📺 Premiere)
 
-18:45 - Copa Argentina: Racing x Defensa y Justicia (📺 XSports)
+19:00 - Série B: América/MG x Ceará (📺 Disney+)
 
-19:00 - NBA SL: Bulls x Lakers (📺 Amazon Prime)
+19:00 - Série B: Juventude x Cuiabá (📺 Disney+)
 
-19:30 - Série A: Botafogo x Santos (📺 Record, CazéTV, Premiere)
+19:00 - Paulista F: Corinthians x Ferroviária - (📺 HBO Max, CazéTV)
 
-19:30 - Série A: Vitória x Vasco da Gama (📺 Premiere)
+19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
 
-20:00 - Série B: CRB x Náutico (📺 XSports, SportyNet, ESPN)
+19h30 - PLL Lacrosse: Redwoods x Whipsnakes (📺 Disney+)
 
-20:00 - MLB: Philadelphia Phillies x New York Mets (📺 ESPN2, Disney+)
+19:30 - Série A: Bahia x Chapecoense (📺 Premiere)
 
-20:00 - NBA SL: Knicks x Warriors (📺 Disney+)
+19:30 - Uruguaio: Nacional x Wanderers (📺 Disney+)
 
-20:15 - LFF: Taboão x Patinhas (📺 LFF TV)
+20:00 - Série A: Mirassol x Grêmio (📺 Premiere)
 
-20:30 - MLS: CF Montreal x Toronto FC (📺 AppleTV)
+20:00 - Série A: Fluminense x RB Bragantino (📺 Premiere)
 
-21:00 - NBA SL: Hawks x Grizzlies (📺 Amazon Prime)
+20:00 - Amistoso: Flamengo x Olimpia (📺 FlamengoTV)
 
-21:30 - MLS: Chicago Fire x Vancouver Whitecaps (📺 AppleTV)
+20:00 - MLB: Los Angeles Dodgers x New York Yankees (📺 ESPN3, Disney+)
 
-21:30 - MLS: St.Louis City x Sporting Kansas City (📺 AppleTV)
+20:00 - MLS Next Pro: Toronto FC II x FC Cincinnati 2 (📺 Onefootball)
 
-21:30 - LMB: Diablos Rojos del México x Tigres de Quintana Roo (📺 Disney+)
+20:15 - MLB: Toronto Blue Jays x Chicago White Socks (📺 AppleTV)
 
-21:40 - VNL M: EUA x Brasil (📺 SPORTV2, geTV)
+21:00 - Série B: Londrina x Botafogo/SP (📺 Disney+)
 
-21:45 - Copa Argentina: Sarmiento Junin x Boca Juniors (📺 XSports)
+21:00 - Série B: Fortaleza x Novorizontino - (📺 XSports, SportyNet, ESPN)
 
-22:00 - LMB: El Águila de Veracruz x Pericos de Puebla (📺 Disney+)
+21:00 - MLS: Nashville SC x Atlanta United (📺 AppleTV)
 
-22:00 - WNBA: Liberty x Wings (📺 Prime Video)
+21:00 - NWSL: Kansas City Current x San Diego Wave (📺 Canal GOAT, Onefootball)
 
-22:00 - NBA SL: Heat x Raptors (📺 Disney+)
+21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
 
-23:00 - NBA SL: Nuggets x Trail Blazzers (📺 Amazon Prime)
+22:00 - VNL M: Brasil Polônia (📺 SPORTV2, geTV)
 
-23:30 - MLS: Seattle Sounders x Portland Timbers (📺 AppleTV)
+22:00 - Boxe: Joel Mafauad x Elias Hidalgo (📺 ESPN4, Disney+)
+
+22:00 - Mexicano: Atlético San Luis x Cruz Azul (📺 Disney+)
+
+22:30 - USL League One: Boise x Portland Hearts of Pine (📺 Disney+)
+
+22:30 - LMB: Leones de Yucatán x Bravos de León (📺 Disney+)
+
+22:40 - LMB: Caliente de Durango x Acereros de Monclova (📺 Disney+)
+
+23:45 - MLS: Los Angeles Galaxy x Los Angeles FC (📺 AppleTV)
