@@ -28,6 +28,8 @@
 
 19:30 - Uruguaio: Nacional x Wanderers (📺 Disney+)
 
+19:30 - Copa Paulista: Marília x Grêmio Prudente (📺 Metrópolis)
+
 20:00 - Série A: Mirassol x Grêmio (📺 Premiere)
 
 20:00 - Série A: Fluminense x RB Bragantino (📺 Premiere)
