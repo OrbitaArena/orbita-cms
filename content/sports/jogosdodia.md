@@ -4,17 +4,7 @@
 
 04:00 - Rugby Nations: Nova Zelândia x Irlanda (📺 ESPN2)
 
-04:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
-
-08:00 - Golfe: The Open Championship (📺 ESPN3)
-
-08:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
-
 09:00 - MLS Next Pro: San Jose Earthquakes II x North Texas (📺 Onefootball)
-
-10:00 - Ciclismo: Tour de France (📺 ESPN2)
-
-10:00 - Atletismo: Diamond League 11ª Etapa Londres (📺 SPORTV3)
 
 10:30 - Paulista F: Palmeiras x São Paulo (📺 SporTV)
 
