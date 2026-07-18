@@ -1,67 +1,127 @@
 # JOGOS DE HOJE
 
-## Sexta, 17/jul
+## Sábado, 18/jul
 
-01:00 - VNL M: Cuba x Argentina (📺 SPORTV2)
+04:00 - Rugby Nations: Nova Zelândia x Irlanda (📺 ESPN2)
 
-15:00 - VNL M: Irã x Eslovênia (📺 SPORTV2)
+04:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
 
-15:00 - Uruguaio: Albion x Juventud (📺 Disney+)
+08:00 - Golfe: The Open Championship (📺 ESPN3)
 
-15:00 - Brasileirão Feminino: Vitória x Botafogo (📺 UOL TV)
+08:55 - Tiro com Arco: Finais Dia 1 Madrid (📺 SPORTV3)
 
-18:00 - VNL M: China x Bulgária (📺 SPORTV2)
+09:00 - MLS Next Pro: San Jose Earthquakes II x North Texas (📺 Onefootball)
 
-19:00 - Série B: São Bernardo x Avaí (📺 Premiere)
+10:00 - Ciclismo: Tour de France (📺 ESPN2)
 
-19:00 - Série B: América/MG x Ceará (📺 Disney+)
+10:00 - Atletismo: Diamond League 11ª Etapa Londres (📺 SPORTV3)
 
-19:00 - Série B: Juventude x Cuiabá (📺 Disney+)
+10:30 - Paulista F: Palmeiras x São Paulo (📺 SporTV)
 
-19:00 - Paulista F: Corinthians x Ferroviária (📺 HBO Max, CazéTV)
+12:30 - Uruguaio: Progresso x Maldonado (📺 Disney+)
+
+13:00 - NWSL: Gotham x Seattle Reign (📺 ESPN4, Disney+)
+
+13:00 - USL Championship: Pittsburgh x Louisville City (📺 Disney+)
+
+15:00 - PLL Lacrosse: Chaos x Outlaws (📺 Disney+)
+
+16:00 - Copa do Mundo: França x Inglaterra (📺 CazéTV, SBT, Canais Globo)
+
+18:00 - VNL M: Sérvia x Alemanha (📺 SPORTV2)
+
+15:00 - NWSL: Denver Summit x Portland Thorns (📺 XSports)
+
+16:00 - Série B: Ponte Preta x Goiás (📺 RedeTV!, Canal GOAT, Disney+)
+
+16:00 - Série B: Criciúma x Vila Nova (📺 ESPN, ESPN4)
+
+16:00 - Série B: Sport x Operário/PR (📺 Disney+)
+
+16:00 - Série D: São José/RS x Treze/PB (📺 Metrópolis)
+
+16:00 - Série D: Nacional/AM x Iguatu (📺 Metrópolis)
+
+16:00 - Série D: Cianorte x ASA (📺 Metrópolis)
+
+16:00 - Rugby Nations: Argentina x Inglaterra (📺 ESPN2)
+
+16:00 - Uruguaio: Peñarol x Boston River (📺 Disney+)
+
+16:00 - Boxe: Harlem Eubank x David Papot (📺 ESPN3)
+
+17:00 - NWSL: Bay FC x North Carolina Courage (📺 NWSL+)
+
+17:00 - NSL: AFC Toronto x Vancouver Rise (📺 Northern Super League)
+
+17:00 - Série D: Uberlândia x Portuguesa/SP (📺 Metrópolis)
+
+17:30 - PLL Lacrosse: Archers x Waterdogs (📺 Disney+)
+
+18:00 - Série B: Atlético/GO x Athletic Club (📺 ESPN)
+
+18:00 - VNL M: França x Polônia (📺 SPORTV2)
+
+18:30 - MLS Next Pro: Crown Legacy FC x Chicago FireFC II (📺 Onefootball)
+
+18:30 - Série D: Goiatuba x Ferroviário (📺 Metrópolis)
+
+19:00 - Série D: Luverdense x ABC (📺 Metrópolis)
+
+19:00 - MLS Next Pro: Columbus Crew 2 x Philadelphia Union II (📺 Onefootball)
 
 19:20 - LBF: Campinas x Araraquara (📺 ESPN2)
 
-19h30 - PLL Lacrosse: Redwoods x Whipsnakes (📺 Disney+)
+19:30 - NWSL: Chicago x Angel City (📺 NWSL+)
 
-19:30 - Série A: Bahia x Chapecoense (📺 Premiere)
+20:00 - Amistoso: Millonarios x Colo-Colo (📺 ESPN4)
 
-19:30 - Uruguaio: Nacional x Wanderers (📺 Disney+)
+20:00 - Mexicano: Pumas x Pachuca (📺 SportyNet)
 
-19:30 - Copa Paulista: Marília x Grêmio Prudente (📺 Metrópolis)
+20:00 - USL Championship: Detroit x Indy Eleven (📺 Disney+)
 
-20:00 - Série A: Mirassol x Grêmio (📺 Premiere)
+20:00 - USL Championship: Loudoun x Tampa Bay (📺 Disney+)
 
-20:00 - Série A: Fluminense x RB Bragantino (📺 Premiere)
+20:00 - USL Championship: Sporting Jax x Brooklyn (📺 Disney+)
 
-20:00 - Amistoso: Flamengo x Olimpia (📺 FlamengoTV)
+20:00 - USL League One: Charlotte Independ. x Chattanooga Red Wolves (📺 Disney+)
 
-20:00 - MLB: Los Angeles Dodgers x New York Yankees (📺 ESPN3, Disney+)
+20:00 - USL League One: New York Cosmos x Corpus Christi FC (📺 Disney+)
 
-20:00 - MLS Next Pro: Toronto FC II x FC Cincinnati 2 (📺 Onefootball)
+20:00 - USL League One: Richmond Kickers x Spokane Velocity (📺 Disney+)
 
-20:15 - MLB: Toronto Blue Jays x Chicago White Socks (📺 AppleTV)
+20:00 - MLS Next Pro: Chattanooga FC x Orlando City B (📺 Onefootball)
 
-21:00 - Série B: Londrina x Botafogo/SP (📺 Disney+)
+20:00 - MLS Next Pro: Houston Dynamo 2 x Colorado Rapids 2 (📺 Onefootball)
 
-21:00 - Série B: Fortaleza x Novorizontino - (📺 XSports, SportyNet, ESPN)
+20:00 - MLS Next Pro: St Louis CITY2 x Portland Timbers 2 (📺 Onefootball)
 
-21:00 - MLS: Nashville SC x Atlanta United (📺 AppleTV)
+20:30 - USL Championship: Charleston x Sacramento Republic (📺 Disney+)
 
-21:00 - NWSL: Kansas City Current x San Diego Wave (📺 Canal GOAT, Onefootball)
+20:30 - USL Championship: Rhode Island x Hartford Athletic (📺 Disney+)
 
-21:00 - AUSL Softbol: Utah Talons x Portland Cascade (📺 Disney+)
+20:30 - USL League One: Fort Wayne x Greenville (📺 Disney+)
 
-22:00 - VNL M: Brasil Polônia (📺 SPORTV2, geTV)
+20:30 - USL League One: One Knoxville x AV Alta (📺 Disney+)
 
-22:00 - Boxe: Joel Mafauad x Elias Hidalgo (📺 ESPN4, Disney+)
+21:00 - MLS Next Pro: Huntsville City FC x Atlanta United 2 (📺 Onefootball)
 
-22:00 - Mexicano: Atlético San Luis x Cruz Azul (📺 Disney+)
+21:00 - USL League One: Union Omaha x Westchester SC (📺 Disney+)
 
-22:30 - USL League One: Boise x Portland Hearts of Pine (📺 Disney+)
+21:00 - NWSL: Racing Louisville x Houston Dash (📺 NWSL+)
 
-22:30 - LMB: Leones de Yucatán x Bravos de León (📺 Disney+)
+21:30 - USL Championship: FC Tulsa x El Paso (📺 Disney+)
 
-22:40 - LMB: Caliente de Durango x Acereros de Monclova (📺 Disney+)
+21:45 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
 
-23:45 - MLS: Los Angeles Galaxy x Los Angeles FC (📺 AppleTV)
+22:00 - VNL M: EUA x Bulgária (📺 SPORTV2)
+
+22:00 - NWSL: Utah Royals x Orlando Pride (📺 Canal GOAT, Onefootball)
+
+22:00 - Mexicano: Monterrey x Santos Laguna (📺 SportyNet)
+
+22:00 - USL Championship: San Antonio x Las Vegas Lights (📺 Disney+)
+
+23:00 - MLS Next Pro: Ventura County FC x Los Angeles FC 2 (📺 Onefootball)
+
+23:30 - USL Championship: Phoenix Rising x Monterey Bay (📺 Disney+)
