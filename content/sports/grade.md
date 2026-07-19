@@ -75,7 +75,7 @@ Sexta, 24/jul
 
 # NFL NA ESPN
 
-Sexta, 24/07
+Sexta, 24/jul
 
 16h - NFL Flag: NFL FLAG Championships (📺 ESPN2)
 
@@ -85,7 +85,7 @@ Segunda, 20/jul
 
 18h50 - LBF: Campinas x Araraquara (📺 ESPN2)
 
-Sexta, 24/07
+Sexta, 24/jul
 
 21h - WNBA: WNBA Skills Competition (📺 ESPN2)
 
