@@ -94,6 +94,50 @@
       ]
     },
     {
+      "id": "mlb-dodgers-yankees-1907",
+      "sport": "MLB",
+      "apiId": "401816172",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "19/07",
+      "seriesInfo": "ESPN3, Disney+",
+      "stadium": "Yankee Stadium",
+      "location": "Bronx, Nova York",
+      "dateTime": "19 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "New York Yankees",
+        "code": "NYY",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Los Angeles Dodgers",
+        "code": "LAD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
   "id": "wnba-sun-mercury-1907",
   "sport": "WNBA",
   "apiId": "401857082",
@@ -128,6 +172,138 @@
     { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
   ]
 },
+    {
+      "id": "mlb-dodgers-phillies-2007",
+      "sport": "MLB",
+      "apiId": "401816187",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "20/07",
+      "seriesInfo": "ESPN4, Disney+",
+      "stadium": "Citizens Bank Park",
+      "location": "Filadélfia, Pensilvânia",
+      "dateTime": "20 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Philadelphia Phillies",
+        "code": "PHI",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Los Angeles Dodgers",
+        "code": "LAD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-cardinals-angels-2007",
+      "sport": "MLB",
+      "apiId": "401816200",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "23:00",
+      "date": "20/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Angel Stadium",
+      "location": "Anaheim, Califórnia",
+      "dateTime": "20 JUL - 23:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Los Angeles Angels",
+        "code": "LAA",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/laa.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "St. Louis Cardinals",
+        "code": "STL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-padres-braves-2107",
+      "sport": "MLB",
+      "apiId": "401816205",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "21/07",
+      "seriesInfo": "ESPN2, Disney+",
+      "stadium": "Truist Park",
+      "location": "Atlanta, Geórgia",
+      "dateTime": "21 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Atlanta Braves",
+        "code": "ATL",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "San Diego Padres",
+        "code": "SD",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
     {
       "id": "sula-dim-vas-220726",
       "sport": "SULAMERICANA",
@@ -181,6 +357,138 @@
           "valueA": "0",
           "valueB": "0",
           "ratioA": 50
+        }
+      ]
+    },
+    {
+      "id": "mlb-tigers-cubs-2207",
+      "sport": "MLB",
+      "apiId": "401816223",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "21:00",
+      "date": "22/07",
+      "seriesInfo": "ESPN2, Disney+",
+      "stadium": "Wrigley Field",
+      "location": "Chicago, Illinois",
+      "dateTime": "22 JUL - 21:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Chicago Cubs",
+        "code": "CHC",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Detroit Tigers",
+        "code": "DET",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/det.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-rays-blue-jays-2307",
+      "sport": "MLB",
+      "apiId": "401816234",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "16:00",
+      "date": "23/07",
+      "seriesInfo": "ESPN2, Disney+",
+      "stadium": "Rogers Centre",
+      "location": "Toronto, Ontario",
+      "dateTime": "23 JUL - 16:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Tampa Bay Rays",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Toronto Blue Jays",
+        "code": "TOR",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tor.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        }
+      ]
+    },
+    {
+      "id": "mlb-guardians-rays-2407",
+      "sport": "MLB",
+      "apiId": "401816238",
+      "autoUpdate": true,
+      "league": "Temporada Regular",
+      "status": "UPCOMING",
+      "time": "20:00",
+      "date": "24/07",
+      "seriesInfo": "Disney+",
+      "stadium": "Tropicana Field",
+      "location": "St. Petersburg, Flórida",
+      "dateTime": "24 JUL - 20:00",
+      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+      "group": "MLB",
+      "teamA": {
+        "name": "Tampa Bay Rays",
+        "code": "TB",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "teamB": {
+        "name": "Cleveland Guardians",
+        "code": "CLE",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&cquality=40&h=64&scale=crop&w=64",
+        "score": 0
+      },
+      "homeKeyPlayers": [],
+      "awayKeyPlayers": [],
+      "stats": [
+        {
+          "label": "Corridas-Rebatidas-Erros",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
+        },
+        {
+          "label": "Home Runs",
+          "valueA": "0",
+          "valueB": "0",
+          "ratioA": 0
         }
       ]
     },
