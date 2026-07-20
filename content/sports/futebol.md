@@ -308,7 +308,7 @@ Terça, 21/jul
 
 Domingo, 26/jul
 
-22:00 - NWSL: Angel City x Raving Louisville FC (📺 Disney+)
+22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
 
 ## MLS, USL & NWSL
 
@@ -385,7 +385,6 @@ Sábado, 25/jul
 Quarta, 29/jul
 
 19:45 - MLS ALL-STAR: MLS All Stars x Liga MX All Stars (📺 AppleTV)
-
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
