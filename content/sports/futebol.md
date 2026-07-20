@@ -306,6 +306,12 @@ Terça, 21/jul
 
 16:30 - Copa do Brasil F: Fluminense x Cruzeiro (📺 SPORTV)
 
+21:45 - Copa do Brasil F: Vasco x São Paulo (📺 SPORTV)
+
+Quarta, 22/jul
+
+19:00 - Copa do Brasil F: Botafogo x RB Bragantino (📺 SPORTV)
+
 Domingo, 26/jul
 
 22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
@@ -385,6 +391,12 @@ Sábado, 25/jul
 Quarta, 29/jul
 
 19:45 - MLS ALL-STAR: MLS All Stars x Liga MX All Stars (📺 AppleTV)
+
+## FUTSAL
+
+Segunda, 20/jul
+
+20:00 - LNF Futsal: Santo André x Carlos Barbosa (📺 Xsports, LNFTV)
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
