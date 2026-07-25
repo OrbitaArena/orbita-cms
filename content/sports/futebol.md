@@ -140,6 +140,32 @@ Segunda, 24/ago
 
 ## BRASILEIRO SÉRIE B
 
+Domingo, 26/jul
+
+16:00 - Série B: Criciúma x Náutico (📺 ESPN, Disney+)
+
+16:00 - Série B: São Bernardo x Ceará (📺 SporTV, Premiere)
+
+18:30 - Série B: América/MG x Goiás (📺 Disney+)
+
+18:30 - Série B: Londrina x Novorizontino (📺 Disney+)
+
+Segunda, 27/jul
+
+19:30 - Série B: Atlético/GO x Operário (📺 Disney+)
+
+19:30 - Série B: Sport x Cuiabá (📺 Disney+)
+
+19:30 - Série B: CRB x Vila Nova (📺 ESPN, Canal GOAT, SportyNet, Disney+)
+
+Terça, 28/jul
+
+19:30 - Série B: Ponte Preta x Athletic (📺 Disney+)
+
+19:30 - Série B: Juventude x Avai (📺 ESPN, SportyNet, Xsports, Disney+)
+
+21:35 - Série B: Fortaleza x Botafogo/SP (📺 ESPN, SportyNet, RedeTV, Disney+)
+
 ## BRASILEIRO SÉRIE C
 
 ## BRASILEIRO SÉRIE D
