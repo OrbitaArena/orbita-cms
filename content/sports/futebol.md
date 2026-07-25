@@ -292,6 +292,12 @@ Segunda, 20/jul
 
 20:00 - Uruguaio: Defensor Sp x Liverpool Montevideo (📺 Disney+)
 
+Sábado, 25/jul
+
+16:00 - Argentino: Newell's Old Boys x Talleres (📺 ESPN, Disney+)
+
+19:15 - Argentino: River Plate x Barracas Central (📺 ESPN, Disney+)
+
 ## FUTEBOL FEMININO
 
 Segunda, 20/jul
