@@ -2,26 +2,6 @@
 
 ## BRASILEIRO SÉRIE A
 
-Terça, 21/jul
-
-19:30 - Série A: Atlético-MG x Bahia (📺 Premiere, SporTV)
-
-Quarta, 22/jul
-
-19:30 - Série A: Coritiba x Palmeiras (📺 Amazon Prime)
-
-21:30 - Série A: Chapecoense x Flamengo (📺 Premiere, Globo)
-
-21:30 - Série A: 	Internacional x Cruzeiro (📺 Premiere, Globo)
-
-21:30 - Série A: São Paulo x Athletico-PR (📺 geTV, Premiere, Globo)
-
-Quinta, 23/jul
-
-19:30 - Série A: 	Corinthians x Remo (📺 SporTV, Premiere)
-
-19:30 - Série A: 	Botafogo x Vitória (📺 Record, CazéTV, Premiere)
-
 Sábado, 25/jul
 
 18:30 - Série A: Atlético/PR x Internacional (📺 Amazon Prime)
@@ -172,10 +152,6 @@ Terça, 28/jul
 
 ## ESTADUAIS E COPAS
 
-Segunda, 20/jul
-
-15:00 - Copa Paulista: São Caetano x São José EC (📺 Metrópolis, Xsports)
-
 Sábado, 1/ago
 
 17:30 - Copa do Brasil: Vasco x Fluminense (📺 SporTV, Globo, Amazon, geTV, Premiere)
@@ -221,28 +197,6 @@ Quinta, 6/ago
 21:30 - Copa do Brasil: Vitória x Atético/PR (📺 SporTV, geTV, Premiere)
 
 ## LIBERTADORES & SULAMERICANA
-
-Terça 21/jul
-
-19:00 - Sulamericana: Nacional x Tigre (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: UCV x Santos (📺 ESPN, SBT, Disney+)
-
-Quarta, 22/jul
-
-19:00 - Sulamericana: Independiente Medellín x Vasco (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: Sporting Cristal x Bragantino (📺 Paramount+)
-
-21:30 - Sulamericana: Lanús x Cienciano (📺 Paramount+)
-
-Quinta, 23/jul
-
-19:00 - Sulamericana: Bolívar x Grêmio (📺 Paramount+)
-
-21:30 - Sulamericana: Boca Juniors X O'Higgins (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: Santa Fé x Caracas (📺 Paramount+)
 
 Terça, 28/jul
 
@@ -312,12 +266,6 @@ Quinta, 20/ago
 
 ## CAMPEONATOS SUL-AMERICANOS
 
-Segunda, 20/jul
-
-17:00 - Uruguaio: Montevideo City Torque x Danúbio (📺 Disney+)
-
-20:00 - Uruguaio: Defensor Sp x Liverpool Montevideo (📺 Disney+)
-
 Sábado, 25/jul
 
 16:00 - Argentino: Newell's Old Boys x Talleres (📺 ESPN, Disney+)
@@ -325,24 +273,6 @@ Sábado, 25/jul
 19:15 - Argentino: River Plate x Barracas Central (📺 ESPN, Disney+)
 
 ## FUTEBOL FEMININO
-
-Segunda, 20/jul
-
-16:00 - Copa do Brasil F: Coritiba x Internacional (📺 NSports)
-
-19:00 - Copa do Brasil F: Flamengo x Instituto 3B (📺 NSports)
-
-20:00 - Copa do Brasil F: Ferroviária x Corinthians (📺 SporTV)
-
-Terça, 21/jul
-
-16:30 - Copa do Brasil F: Fluminense x Cruzeiro (📺 SPORTV)
-
-21:45 - Copa do Brasil F: Vasco x São Paulo (📺 SPORTV)
-
-Quarta, 22/jul
-
-19:00 - Copa do Brasil F: Botafogo x RB Bragantino (📺 SPORTV)
 
 Sábado, 25/jul
 
@@ -365,46 +295,6 @@ Domingo, 26/jul
 22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
 
 ## MLS, USL & NWSL
-
-Quarta, 22/jul
-
-19:30 - MLS Next Pro: Carolina Core FC x Inter Miami CF II (📺 Onefootball)
-
-20:30 - MLS: Cincinnati FC x Vancouver Whitecaps (📺 AppleTV)
-
-20:30 - MLS: Columbus Crew x New York City (📺 AppleTV)
-
-20:30 - MLS: Inter Miami FC x Chicago Fire (📺 AppleTV)
-
-20:30 - MLS: New England Revolution x Toronto FC (📺 AppleTV)
-
-20:30 - MLS: Philadelphia Union x New York Red Bull (📺 AppleTV)
-
-21:00 - MLS: Charlote FC x Atlanta United (📺 AppleTV)
-
-21:00 - MLS: Austin FC x Seattle Sounders (📺 AppleTV)
-
-21:00 - MLS: Houston Dynamo x DC United (📺 AppleTV)
-
-21:30 - MLS: Sporting Kansas City x Minnesota United (📺 AppleTV)
-
-21:30 - MLS: Nashville SC x CF Montreal (📺 AppleTV)
-
-22:00 - MLS Next Pro: Vancouver Whitecaps FC II x Austin FC II (📺 Onefootball)
-
-22:30 - MLS: Colorado Rapids x San Diego FC (📺 AppleTV)
-
-22:30 - MLS: Los Angeles Galaxy x St. Louis City (📺 AppleTV)
-
-23:30 - MLS: LAFC x Real Salt Lake (📺 AppleTV)
-
-23:30 - MLS: Portland Timbers x FC Dallas (📺 AppleTV)
-
-23:30 - MLS: San Jose Earthquakes x Orlando City (📺 AppleTV)
-
-Quinta, 23/jul
-
-12:00 - MLS Next Pro: New England Revolution II x NYCFC II (📺 Onefootball)
 
 Sábado, 25/jul
 
@@ -439,12 +329,6 @@ Sábado, 25/jul
 Quarta, 29/jul
 
 19:45 - MLS ALL-STAR: MLS All Stars x Liga MX All Stars (📺 AppleTV)
-
-## FUTSAL
-
-Segunda, 20/jul
-
-20:00 - LNF Futsal: Santo André x Carlos Barbosa (📺 Xsports, LNFTV)
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
