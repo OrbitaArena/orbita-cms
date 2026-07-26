@@ -1,64 +1,4 @@
 [
-  {
-      "id": "pll-red-whi-1707",
-      "sport": "PLL Lacrosse",
-      "time": "19:00",
-      "date": "17/07",
-      "group": "PLL 2026",
-      "tv": "ESPN+",
-      "youtubeId": "",
-      "teamA": { "name": "Redwoods", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127636.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 7 },
-      "teamB": { "name": "Whipsnakes", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127638.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 20 },
-      "status": "FINAL"
-  },
-  {
-      "id": "pll-cha-out-1807",
-      "sport": "PLL Lacrosse",
-      "time": "15:00",
-      "date": "18/07",
-      "group": "PLL 2026",
-      "tv": "ESPN+",
-      "youtubeId": "",
-      "teamA": { "name": "Chaos", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 8 },
-      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 10 },
-      "status": "FINAL"
-  },
-  {
-      "id": "pll-arc-wat-1807",
-      "sport": "PLL Lacrosse",
-      "time": "17:30",
-      "date": "18/07",
-      "group": "PLL 2026",
-      "tv": "ESPN+",
-      "youtubeId": "",
-      "teamA": { "name": "Archers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127631.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 18 },
-      "teamB": { "name": "Waterdogs", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127637.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 8 },
-      "status": "FINAL"
-  },
-  {
-      "id": "pll-atl-can-1907",
-      "sport": "PLL Lacrosse",
-      "time": "16:00",
-      "date": "19/07",
-      "group": "PLL 2026",
-      "tv": "ESPN+",
-      "youtubeId": "",
-      "teamA": { "name": "Atlas", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127632.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 13 },
-      "teamB": { "name": "Cannons", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122997.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 15 },
-      "status": "FINAL"
-  },
-  {
-      "id": "bananaball-party-clowns-2307",
-      "sport": "Banana Ball",
-      "time": "20:00",
-      "date": "23/07",
-      "group": "Banana Ball",
-      "tv": "Disney+",
-      "youtubeId": "",
-      "teamA": { "name": "Party Animals", "flag": "", "score": 0 },
-      "teamB": { "name": "Indianapolis Clowns", "flag": "", "score": 0 },
-      "status": "UPCOMING"
-  },
    {
       "id": "pll-arc-out-2407",
       "sport": "PLL Lacrosse",
@@ -67,21 +7,9 @@
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Archers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127631.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
-  },
-  {
-      "id": "bananaball-bananas-fire-2407",
-      "sport": "Banana Ball",
-      "time": "21:00",
-      "date": "24/07",
-      "group": "Banana Ball",
-      "tv": "Disney+",
-      "youtubeId": "",
-      "teamA": { "name": "Savannah Bananas", "flag": "", "score": 0 },
-      "teamB": { "name": "Firefighters", "flag": "", "score": 0 },
-      "status": "UPCOMING"
+      "teamA": { "name": "Archers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127631.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 16 },
+      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 11 },
+      "status": "FINAL"
   },
   {
       "id": "pll-wat-atl-2407",
@@ -91,9 +19,9 @@
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Waterdogs", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127637.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Atlas", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127632.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
+      "teamA": { "name": "Waterdogs", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127637.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 11 },
+      "teamB": { "name": "Atlas", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127632.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 10 },
+      "status": "FINAL"
   },
   {
       "id": "pll-can-cha-2507",
@@ -103,9 +31,9 @@
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Cannons", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122997.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Chaos", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
+      "teamA": { "name": "Cannons", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122997.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 12 },
+      "teamB": { "name": "Chaos", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 13 },
+      "status": "FINAL"
   },
   {
       "id": "pll-whip-arch-2507",
@@ -115,9 +43,21 @@
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Whipsnakes", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127638.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Archers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127631.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
+      "teamA": { "name": "Whipsnakes", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127638.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 8 },
+      "teamB": { "name": "Archers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127631.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 13 },
+      "status": "FINAL"
+  },
+  {
+      "id": "bananaball-bananas-fire-2507",
+      "sport": "Banana Ball",
+      "time": "21:00",
+      "date": "25/07",
+      "group": "Banana Ball",
+      "tv": "Disney+",
+      "youtubeId": "",
+      "teamA": { "name": "Savannah Bananas", "flag": "", "score": 8 },
+      "teamB": { "name": "Firefighters", "flag": "", "score": 2 },
+      "status": "FINAL"
   },
   {
       "id": "pll-wat-out-2507",
@@ -127,8 +67,8 @@
       "group": "PLL 2026",
       "tv": "ESPN+",
       "youtubeId": "",
-      "teamA": { "name": "Waterdogs", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127637.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 0 },
-      "status": "UPCOMING"
+      "teamA": { "name": "Waterdogs", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/127637.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 18 },
+      "teamB": { "name": "Outlaws", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/scoreboard/122896.png&scale=crop&cquality=40&location=origin&w=64&h=64", "score": 8 },
+      "status": "FINAL"
   }
 ]
