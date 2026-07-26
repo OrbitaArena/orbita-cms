@@ -344,7 +344,23 @@ Quarta, 22/jul
 
 19:00 - Copa do Brasil F: Botafogo x RB Bragantino (📺 SPORTV)
 
+Sábado, 25/jul
+
+16:00 - Brasileirão: Mixto x Palmeiras (📺 tvBrasil)
+
+17:00 - Brasileirão: Red Bull Bragantino x Atlético (📺 Uol Play)
+
+17:00 - NSL: Vancouver Rise x Halifax Tides (📺 NSL TV)
+
 Domingo, 26/jul
+
+11:00 - Brasileirão: Corinthians x Vitória (📺 tvBrasil)
+
+15:00 - Brasileirão: Juventude x Ferroviária (📺 Uol Play)
+
+17:00 - NWSL: San Diego Wave x Seattle Reign (📺 Canal GOAT)
+
+20:00 - NWSL: Washington Spirit x Denver Summit (📺 Xsports, Disney+)
 
 22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
 
