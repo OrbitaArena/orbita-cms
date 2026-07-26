@@ -354,9 +354,13 @@
 
 15:00 - PLL Lacrosse: Cannons x Chaos (📺 Disney+)
 
+16:00 - Argentino: Newell's Old Boys x Talleres (📺 ESPN, Disney+)
+
 18:30 - Série A: Atlético/PR x Internacional (📺 Amazon Prime)
 
 18:30 - Série A: Santos x Chapecoense (📺 SporTV, Premiere)
+
+19:15 - Argentino: River Plate x Barracas Central (📺 ESPN, Disney+)
 
 19h30 - PLL Lacrosse: Whipsnakes x Archers (📺 Disney+)
 
@@ -397,6 +401,8 @@
 ## Domingo, 26/jul
 
 08:15 - DTM: Etapa de Oschersleben-ALE (📺 ESPN4)
+
+08:30 - VNL: Brasil x Turquia FINAL (📺 SporTV, VBTV)
 
 11:00 - Tênis: ITF São Paulo M25 Final (📺 ESPN4)
 
