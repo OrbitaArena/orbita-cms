@@ -2,39 +2,35 @@
 
 ## PLL Lacrosse
 
-Sexta, 10/jul
+Sexta, 24/jul
 
-19h30 - Waterdogs x Redwoods (📺 ESPN+)
+21:00 - PLL Lacrosse: Archers 16x11 Outlaws (📺 Disney+)
 
-22h - Archers x Atlas (📺 ESPN2)
+23h30 - PLL Lacrosse: Waterdogs 11x10 Atlas (📺 Disney+)
 
-Sábado, 11/jul
+Sábado, 25/jul
 
-15h - Outlaws x Cannons (📺 ESPN+)
+15:00 - PLL Lacrosse: Cannons 12x13 Chaos (📺 Disney+)
 
-22h30 - Whipsnakes x Chaos (📺 ESPN+)
+19h30 - PLL Lacrosse: Whipsnakes 8x13 Archers (📺 Disney+)
 
-## ACL Cornhole
+22:00 - PLL Lacrosse: Waterdogs 18x8 Outlaws (📺 Disney+)
 
-Sexta, 10/jul
+Sexta, 31/jul
 
-14h - Mesa Signature Open: Pro Tour Singles (📺 ACL TV)
+19:00 - PLL Lacrosse: Redwoods x Chaos (📺 Disney+)
 
-21h - Mesa Signature Open: Pro Signature Doubles (📺 ACL TV)
+21h30 - PLL Lacrosse: Cannons x Archers (📺 Disney+)
 
-Sábado, 11/jul
+Sábado, 1/ago
 
-13h - Mesa Signature Open:  ACL Pro Teams Bracket (📺 ACL TV)
+13:30 - PLL Lacrosse: Outlaws x Whipsnakes (📺 Disney+)
 
-18h - Mesa Signature Open: Pro Signature Singles (📺 ACL TV)
+16h00 - PLL Lacrosse: Chaos x Waterdogs (📺 Disney+)
 
-23h - Mesa Signature Open:  ACL Pro Teams Week 4 Features (📺 ACL TV)
+Domingo, 2/ago
 
-Domingo, 12/jul
-
-16h - Mesa Signature Open: Pro Signature Doubles Final 4 & Women's Singles Semifinals (📺 ACL TV)
-
-18h30 - Mesa Signature Open: Pro Signature Singles Final 4 & Divisional Finals (📺 ACL TV)
+16h00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
 
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
