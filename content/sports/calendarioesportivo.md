@@ -400,19 +400,51 @@
 
 ## Domingo, 26/jul
 
+06:25 - Fórmula 2: GO da Hungria (📺 SPORTV3)
+
 08:15 - DTM: Etapa de Oschersleben-ALE (📺 ESPN4)
 
 08:30 - VNL: Brasil x Turquia FINAL (📺 SporTV, VBTV)
+
+09:00 - Mundial Motocross: MXGP Rep.Tcheca (📺 Bandsports)
+
+10:00 - Fórmula 1: GP da Hungria (📺 Globo, SPORTV3)
+
+10:30 - BR Vôlei Praia: Copacabana Finais (📺 Xsports, SPORTV2)
+
+11:00 - Brasileirão F: Corinthians x Vitória (📺 tvBrasil)
 
 11:00 - Tênis: ITF São Paulo M25 Final (📺 ESPN4)
 
 12:00 - Ciclismo: Tour de France (📺 ESPN3)
 
-14:45 - Nascar Cup Series: GP de Indianápolis (📺 ESPN4)
+12:10 - Stock Car: Etapa do Velocitta (📺 Bandsports)
+
+13:40 - WTT Final: Calderano/Takahashi x Togami/Odo (📺 CazeTV)
+
+14:00 - Kings League: Mundial Clubes, Jogos Fase 1 (📺 ESPN, CazeTV)
+
+14:45 - Nascar Cup: GP de Indianápolis (📺 ESPN4, Disney+)
+
+15:00 - Brasileirão F: Juventude x Ferroviária (📺 Uol Play)
 
 16:00 - Série A: Bahia x Corinthians (📺 Globo, geTV, Premiere)
 
 16:00 - Série A: Cruzeiro x Botafogo (📺 Globo, Premiere)
+
+16:00 - Série B: Criciúma x Náutico (📺 ESPN, Disney+)
+
+16:00 - Série B: São Bernardo x Ceará (📺 Globo, SporTV, Premiere)
+
+16:00 - Série C: Brusque x Ituano (📺 SportyNet)
+
+16:00 - Série C: Ypiranga/RS x Barra/SC (📺 SportyNet+)
+
+17:00 - WTT: Finais F e M Calderano (📺 SPORTV2, CazeTV)
+
+17:15 - Argentino: Estudiantes x Independiente (📺 ESPN3, Disney+)
+
+18:00 - NWSL: San Diego Wave x Seattle Reign (📺 Canal GOAT)
 
 18:30 - Série A: Grêmio x Fluminense (📺 Premiere)
 
@@ -420,9 +452,25 @@
 
 18:30 - Série A: Flamengo x São Paulo (📺 Premiere)
 
+18:30 - Série B: América/MG x Goiás (📺 Disney+)
+
+18:30 - Série B: Londrina x Novorizontino (📺 Disney+)
+
+18:30 - Série C: Caxias x Botafogo/PB (📺 SportyNet)
+
 19:30 - Série A: Remo x Vitória (📺 Premiere)
 
 19:30 - Série A: Palmeiras x Atlético/MG (📺 SporTV, Premiere)
+
+19:30 - Argentino: Dep.Riestra x Boca Juniors (📺 ESPN, Disney+)
+
+19:30 - Sulamericano F: Brasil B x Colombia (📺 SPORTV2)
+
+20:00 - NWSL: Washington Spirit x Denver Summit (📺 Xsports)
+
+20:20 - MLB: Philadelphia Phillies x New York Yankees (📺 ESPN2)
+
+20:30 - Série C: Amazonas x Paysandu (📺 SportyNet)
 
 22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
 
