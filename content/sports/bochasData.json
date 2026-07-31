@@ -1,0 +1,140 @@
+{
+  "canais": [
+    {
+      "id": "canal-bochas",
+      "nome": "Canal Bochas",
+      "categoria": "Bochas",
+      "badge": "YOUTUBE",
+      "youtubeHandle": "@CanalBochas",
+      "youtubeUrl": "https://www.youtube.com/@CanalBochas",
+      "streamUrl": "https://www.youtube.com/@CanalBochas",
+      "image": "https://yt3.googleusercontent.com/PalqMmgp1KP21OucVy5oR2HM1tt5yWWdk7XLHv65dVdaVcGh2aNK2OdOLCTXTEVmikMqN-jLAXc=s160-c-k-c0x00ffffff-no-rj",
+      "summary": "PIONEIRO DOS CANAIS NO BRASIL. Acompanhe tudo o que acontece sobre este esporte que faz amigos !! Transmissões, Vídeos, Fotos, Entrevistas e Muito Mais...",
+      "isLive": true,
+      "socials": {
+        "youtube": "https://www.youtube.com/@CanalBochas",
+        "instagram": "https://www.instagram.com/canal_bochas",
+        "facebook": "https://www.facebook.com/CanalbochasYT",
+        "whatsapp": "https://wa.me/%2B5555999124129?text=Olá,%20vim%20pelo%20%C3%93rbita%20Arena",
+        "x": "https://mono.direct/canal_bochas"
+      }
+    },
+    {
+      "id": "bochas-erechim",
+      "nome": "Bochas Erechim",
+      "categoria": "Bochas",
+      "badge": "YOUTUBE",
+      "youtubeHandle": "@BochasErechim",
+      "youtubeUrl": "https://www.youtube.com/@BochasErechim",
+      "streamUrl": "https://www.youtube.com/@BochasErechim",
+      "image": "https://yt3.googleusercontent.com/e4Z-qRV9L1OS2Ayprt2i0Z0rRyiFqQ3GfVNCV-UeXMpuz4AkcFlEDCe76Y-zHDtopeNhh4Z_DA=s160-c-k-c0x00ffffff-no-rj",
+      "summary": "Lives e divulgação de bochas.",
+      "isLive": true,
+      "socials": {
+        "youtube": "https://www.youtube.com/@BochasErechim",
+        "instagram": "",
+        "facebook": "",
+        "whatsapp": "",
+        "x": ""
+      }
+    },
+    {
+      "id": "febosc-tv",
+      "nome": "FEBOSC",
+      "categoria": "Bochas",
+      "badge": "YOUTUBE",
+      "youtubeHandle": "@febosctv",
+      "youtubeUrl": "https://www.youtube.com/@febosctv",
+      "streamUrl": "https://www.youtube.com/@febosctv",
+      "image": "https://yt3.googleusercontent.com/taJDGzHU8GsOPt4vrYi2WBS1Pve4qniz_64hhDDYmNdczVMB0Xhqi0yeQCBTWQDfuEJpHoP_SQ=s160-c-k-c0x00ffffff-no-rj",
+      "summary": "Canal oficial da Federação de Bocha de Santa Catarina (FEBOSC).",
+      "isLive": true,
+      "socials": {
+        "youtube": "https://www.youtube.com/@febosctv",
+        "instagram": "https://instagram.com/febosc",
+        "facebook": "https://facebook.com/febosc",
+        "whatsapp": "",
+        "x": "https://febosc.com.br"
+      }
+    },
+    {
+      "id": "tata-transmissoes",
+      "nome": "Táta Transmissões",
+      "categoria": "Bochas",
+      "badge": "YOUTUBE",
+      "youtubeHandle": "@MaiconQuintana",
+      "youtubeUrl": "https://www.youtube.com/@MaiconQuintana",
+      "streamUrl": "https://www.youtube.com/@MaiconQuintana",
+      "image": "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&q=80&w=500",
+      "summary": "Cobertura vibrante de eventos de bocha e transmissões com Maicon Quintana.",
+      "isLive": false,
+      "socials": {
+        "youtube": "https://www.youtube.com/@MaiconQuintana",
+        "instagram": "",
+        "facebook": "",
+        "whatsapp": "",
+        "x": ""
+      }
+    },
+    {
+      "id": "bochas-brasil",
+      "nome": "Bochas Brasil",
+      "categoria": "Bochas",
+      "badge": "YOUTUBE",
+      "youtubeHandle": "@BOCHASBRASIL",
+      "youtubeUrl": "https://www.youtube.com/@BOCHASBRASIL",
+      "streamUrl": "https://www.youtube.com/@BOCHASBRASIL",
+      "image": "https://yt3.googleusercontent.com/uG9afJ9VAhPIJE9sw4-JgEzBHi--vY8ntEHHB2fCASKTlnlVKsW7J5RTMCtVdh6fgus_1HieH4c=s160-c-k-c0x00ffffff-no-rj",
+      "summary": "YOUTUBE.COM/@BOCHAS BRASIL FOI CRIADO AOS AMIGOS, PRATICANTES AMANTES E SIMPATIZANTES DA BOCHA : FINALIDADE DO ESPORTE: SAÚDE, RESPEITO, ÉTICA COMPANHEIRISMO E AMIZADE, BOCHA ESPORTE PARA TODOS ",
+      "isLive": false,
+      "socials": {
+        "youtube": "https://www.youtube.com/@BOCHASBRASIL",
+        "instagram": "",
+        "facebook": "https://www.facebook.com/amigosdodom",
+        "whatsapp": "",
+        "x": ""
+      }
+    }
+  ],
+  "campeonatos": [
+    {
+      "id": "bocha-cbo-ago26",
+      "nome": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA",
+      "local": "Santa Maria - RS",
+      "dataExibicao": "1 e 2 de Agosto de 2026",
+      "datasIndividuais": ["01/08/2026", "02/08/2026"],
+      "horario": "08:45",
+      "categoria": "Feminino Duplas",
+      "premiacao": "1° R$ 1.000, 2° R$ 500, 3° R$ 200",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/@CanalBochas",
+      "banner": "https://i.ytimg.com/vi/wTrmO2tsGyQ/maxresdefault.jpg",
+      "status": "AO VIVO"
+    },
+    {
+      "id": "bocha-admidom-ago26",
+      "nome": "1° COPA AGRITECH & H3M DE BOCHA",
+      "local": "Santa Rita - PY",
+      "dataExibicao": "07, 08 e 09 de Agosto de 2026",
+      "datasIndividuais": ["07/08/2026", "08/08/2026", "09/08/2026"],
+      "horario": "09:00",
+      "categoria": "Regra Mundial Rafa Vollo",
+      "premiacao": "80% do valor das Inscrições",
+      "canal": "Amigos do Dom",
+      "link": "https://www.facebook.com/amigosdodom",
+      "banner": "https://scontent.ffor4-1.fna.fbcdn.net/v/t39.30808-6/758964171_982238471512894_5722504978441716984_n.jpg?stp=dst-jpg_tt6&cstp=mx853x1280&ctp=s853x1280&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4-YmVJHGcSwQ7kNvwF2E671&_nc_oc=AdpwtVBK3zZWULu7ojqqBnnsODTMT0uLu7DDr2C0J51Ew4hJmA3nPuMnBcJP3GkgK8I2GyqfA046U8XrUrob8pxH&_nc_zt=23&_nc_ht=scontent.ffor4-1.fna&_nc_gid=cQbVzPV-lKl9Gf8zDDqRAw&_nc_ss=7b289&oh=00_AQHaIEqLDFWZeqMC6cBTjtKgBLAhyY7vohfHuZRvUcdi3A&oe=6A71E3EB",
+      "status": "AGENDADO"
+    }
+  ],
+  "jogosBochas": [
+    {
+      "id": "bocha-cbo-2026-02-live",
+      "evento": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA",
+      "data": "31/07/2026",
+      "horario": "15:15",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=wTrmO2tsGyQ",
+      "status": "AGENDADO"
+    }
+  ]
+}
