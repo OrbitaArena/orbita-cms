@@ -136,5 +136,40 @@
       "link": "https://www.youtube.com/watch?v=wTrmO2tsGyQ",
       "status": "AGENDADO"
     }
+  ],
+  "videos": [
+    {
+      "id": "canalbochas-003",
+      "title": "MELHORES MOMENTOS: Esquenta Braço Individual - Erechim",
+      "duration": "04:20",
+      "image": "https://i.ytimg.com/vi/PbzANwhFsmg/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "canal": "Canal Bochas",
+      "category": "Bochas",
+      "youtubeId": "PbzANwhFsmg",
+      "description": "Esquenta Braço Individual - Erechim",
+      "hasFlame": true
+    },
+    {
+      "id": "canalbochas-002",
+      "title": "MELHORES MOMENTOS: 17° Torneio De Raças - Garibaldi",
+      "duration": "04:58",
+      "image": "https://i.ytimg.com/vi/k5cqz-ZLhqE/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "canal": "Canal Bochas",
+      "category": "Bochas",
+      "youtubeId": "k5cqz-ZLhqE",
+      "description": "17° Torneio De Raças - Garibaldi",
+      "hasFlame": true
+    },
+    {
+      "id": "canalbochas-001",
+      "title": "MELHORES MOMENTOS: 38° Torneio Integração João Bastos - Júlio De Castilhos",
+      "duration": "07:36",
+      "image": "https://i.ytimg.com/vi/0YZGiY1qByk/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "canal": "Canal Bochas",
+      "category": "Bochas",
+      "youtubeId": "0YZGiY1qByk",
+      "description": "38° Torneio Integração João Bastos - Júlio De Castilhos",
+      "hasFlame": true
+    }
   ]
 }
