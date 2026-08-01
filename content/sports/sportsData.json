@@ -1,608 +1,338 @@
 {
   "ticker": [
+  {
+  "id": "copabr-vas-flu-0108",
+  "sport": "COPABR",
+  "apiId": "401873956",
+  "autoUpdate": true,
+  "featured": true,
+  "title": "CLÁSSICO CARIOCA",
+  "league": "COPA DO BRASIL",
+  "status": "UPCOMING",
+  "time": "17:30",
+  "date": "01/08,
+  "seriesInfo": "SporTV, Globo, Amazon, geTV, Premiere",
+  "stadium": "Maracanã",
+  "location": "Rio de Janeiro, Brasil",
+  "dateTime": "01 AGO - 17:30",
+  "group": "Oitavas",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Vasco da Gama",
+    "code": "VAS",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Fluminense",
+    "code": "FLU",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3445.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+      {
+        "id": "mlb-yankees-cubs-0108",
+        "sport": "MLB",
+        "apiId": "401816354",
+        "autoUpdate": true,
+        "league": "Temporada Regular",
+        "status": "UPCOMING",
+        "time": "20:15",
+        "date": "01/08",
+        "seriesInfo": "Disney+",
+        "stadium": "Wrigley Field",
+        "location": "Chicago, Illinois",
+        "dateTime": "01 AGO - 20:15",
+        "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+        "group": "MLB",
+        "teamA": {
+          "name": "Chicago Cubs",
+          "code": "CHC",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
+        },
+        "teamB": {
+          "name": "New York Yankees",
+          "code": "NYY",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
+        },
+        "homeKeyPlayers": [],
+        "awayKeyPlayers": [],
+        "stats": [
+          {
+            "label": "Corridas-Rebatidas-Erros",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          },
+          {
+            "label": "Home Runs",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          }
+        ]
+      },
  {
-  "id": "wnba-sparks-wings-1907",
-  "sport": "WNBA",
-  "apiId": "401857080",
+  "id": "copabr-san-remo-0108",
+  "sport": "COPABR",
+  "apiId": "401873954",
   "autoUpdate": true,
-  "league": "WNBA Temporada Regular",
+  "league": "COPA DO BRASIL",
   "status": "UPCOMING",
-  "time": "14:00",
-  "date": "19/07",
-  "seriesInfo": "ESPN2",
-  "stadium": "College Park Center",
-  "location": "Arlington, TX",
-  "dateTime": "19 JUL - 14:00",
-  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
-  "group": "WNBA",
+  "time": "21:00",
+  "date": "01/08,
+  "seriesInfo": "SporTV, Premiere",
+  "stadium": "Vila Belmiro",
+  "location": "Santos, Brasil",
+  "dateTime": "01 AGO - 21:00",
+  "group": "Oitavas",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
   "teamA": {
-    "name": "Dallas Wings",
-    "code": "DAL",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/dal.png&cquality=40&h=64&scale=crop&w=64",
+    "name": "Santos",
+    "code": "SAN",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2674.png&cquality=40&h=64&scale=crop&w=64",
     "score": 0
   },
   "teamB": {
-    "name": "Los Angeles Sparks",
-    "code": "LA",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/la.png&cquality=40&h=64&scale=crop&w=64",
+    "name": "Remo",
+    "code": "REM",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/4936.png&cquality=40&h=64&scale=crop&w=64",
     "score": 0
   },
-  "homeKeyPlayers": [],
+  "homeKeyPlayers": [],               
   "awayKeyPlayers": [],
-  "stats": [
-    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
   ]
 },
-    {
-      "id": "wc-esp-arg-final",
-      "sport": "FIFA",
-      "apiId": "760517",
-      "autoUpdate": true,
-      "league": "Copa do Mundo",
-      "status": "UPCOMING",
-      "featured": true,
-      "title": "ESPANHA É BI-CAMPEÃ EM COPAS DO MUNDO",
-      "time": "16:00",
-      "date": "19/07",
-      "seriesInfo": "ESPANHA CAMPEÃ",
-      "stadium": "MetLife Stadium",
-      "location": "East Rutherford, New Jersey, EUA",
-      "dateTime": "19 JUL - 16:00",
-      "group": "FINAL",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Espanha",
-        "code": "ESP",
-        "flag": "🇪🇸",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Argentina",
-        "code": "ARG",
-        "flag": "🇦🇷",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-dodgers-yankees-1907",
-      "sport": "MLB",
-      "apiId": "401816172",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "19/07",
-      "seriesInfo": "ESPN3, Disney+",
-      "stadium": "Yankee Stadium",
-      "location": "Bronx, Nova York",
-      "dateTime": "19 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "New York Yankees",
-        "code": "NYY",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nyy.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Los Angeles Dodgers",
-        "code": "LAD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-  "id": "wnba-sun-mercury-1907",
-  "sport": "WNBA",
-  "apiId": "401857082",
+{
+  "id": "copabr-pal-for-0208",
+  "sport": "COPABR",
+  "apiId": "401873913",
   "autoUpdate": true,
-  "league": "WNBA Temporada Regular",
+  "league": "COPA DO BRASIL",
   "status": "UPCOMING",
-  "time": "20:00",
-  "date": "19/07",
-  "seriesInfo": "ESPN2",
-  "stadium": "Mortgage Matchup Center",
-  "location": "Phoenix, AZ",
-  "dateTime": "19 JUL - 20:00",
-  "bannerImage": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=1200",
-  "group": "WNBA",
+  "time": "16:00",
+  "date": "02/08,
+  "seriesInfo": "SporTV, Globo, Amazon, geTV, Premiere",
+  "stadium": "Allianz Parque",
+  "location": "São Paulo, Brasil",
+  "dateTime": "02 AGO - 16:00",
+  "group": "Oitavas",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
   "teamA": {
-    "name": "Connecticut Sun",
-    "code": "CON",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/con.png&cquality=40&h=64&scale=crop&w=64",
+    "name": "Palmeiras",
+    "code": "PAL",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2029.png&cquality=40&h=64&scale=crop&w=64",
     "score": 0
   },
   "teamB": {
-    "name": "Phoenix Mercury",
-    "code": "PHX",
-    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/wnba/500/scoreboard/phx.png&cquality=40&h=64&scale=crop&w=64",
+    "name": "Fortaleza",
+    "code": "FOR",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=40&h=64&scale=crop&w=64",
     "score": 0
   },
-  "homeKeyPlayers": [],
+  "homeKeyPlayers": [],               
   "awayKeyPlayers": [],
-  "stats": [
-    { "label": "Aproveitamento %", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Rebotes", "valueA": "", "valueB": "", "ratioA":  },
-    { "label": "Assistências", "valueA": "", "valueB": "", "ratioA":  }
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
   ]
 },
-    {
-      "id": "mlb-dodgers-phillies-2007",
-      "sport": "MLB",
-      "apiId": "401816187",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "20/07",
-      "seriesInfo": "ESPN4, Disney+",
-      "stadium": "Citizens Bank Park",
-      "location": "Filadélfia, Pensilvânia",
-      "dateTime": "20 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Philadelphia Phillies",
-        "code": "PHI",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Los Angeles Dodgers",
-        "code": "LAD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/lad.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
+      {
+        "id": "mlb-brewers-angels-0208",
+        "sport": "MLB",
+        "apiId": "401816374",
+        "autoUpdate": true,
+        "league": "Temporada Regular",
+        "status": "UPCOMING",
+        "time": "16:15",
+        "date": "02/08",
+        "seriesInfo": "ESPN3, Disney+",
+        "stadium": "Angel Stadium",
+        "location": "Anaheim, Califórnia",
+        "dateTime": "02 AGO - 16:15",
+        "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+        "group": "MLB",
+        "teamA": {
+          "name": "Los Angeles Angels",
+          "code": "LAA",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/laa.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
         },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "mlb-cardinals-angels-2007",
-      "sport": "MLB",
-      "apiId": "401816200",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "23:00",
-      "date": "20/07",
-      "seriesInfo": "Disney+",
-      "stadium": "Angel Stadium",
-      "location": "Anaheim, Califórnia",
-      "dateTime": "20 JUL - 23:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Los Angeles Angels",
-        "code": "LAA",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/laa.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "St. Louis Cardinals",
-        "code": "STL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/stl.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
+        "teamB": {
+          "name": "Milwaukee Brewers",
+          "code": "MIL",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/mil.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
         },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "mlb-padres-braves-2107",
-      "sport": "MLB",
-      "apiId": "401816205",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "21/07",
-      "seriesInfo": "ESPN2, Disney+",
-      "stadium": "Truist Park",
-      "location": "Atlanta, Geórgia",
-      "dateTime": "21 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Atlanta Braves",
-        "code": "ATL",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/atl.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
+        "homeKeyPlayers": [],
+        "awayKeyPlayers": [],
+        "stats": [
+          {
+            "label": "Corridas-Rebatidas-Erros",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          },
+          {
+            "label": "Home Runs",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          }
+        ]
       },
-      "teamB": {
-        "name": "San Diego Padres",
-        "code": "SD",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sd.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
+{
+  "id": "copabr-inter-cor-0208",
+  "sport": "COPABR",
+  "apiId": "401873957",
+  "autoUpdate": true,
+  "league": "COPA DO BRASIL",
+  "status": "UPCOMING",
+  "time": "19:30",
+  "date": "02/08,
+  "seriesInfo": "Amazon Prime",
+  "stadium": "Beira-Rio",
+  "location": "Porto Alegre, Brasil",
+  "dateTime": "02 AGO - 19:30",
+  "group": "Oitavas",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Internacional",
+    "code": "INT",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/1936.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Corinthians",
+    "code": "COR",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/874.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
+        "id": "mlb-giants-rangers-0308",
+        "sport": "MLB",
+        "apiId": "401816381",
+        "autoUpdate": true,
+        "league": "Temporada Regular",
+        "status": "UPCOMING",
+        "time": "21:00",
+        "date": "03/08",
+        "seriesInfo": "Disney+",
+        "stadium": "Globe Life Field",
+        "location": "Arlington, Texas",
+        "dateTime": "03 AGO - 21:00",
+        "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
+        "group": "MLB",
+        "teamA": {
+          "name": "Texas Rangers",
+          "code": "TEX",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tex.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
         },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "sula-dim-vas-220726",
-      "sport": "SULAMERICANA",
-      "apiId": "",
-      "autoUpdate": true,
-      "league": "Copa Sulamericana",
-      "status": "UPCOMING",
-      "time": "19:00",
-      "date": "22/07",
-      "seriesInfo": "Disney+",
-      "stadium": "Estadio Atanasio Girardot",
-      "location": "Medelín, Colômbia",
-      "dateTime": "22 JUL - 19:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Independiente Medellín",
-        "code": "DIM",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2690.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Vasco",
-        "code": "VAS",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
+        "teamB": {
+          "name": "San Francisco Giants",
+          "code": "SF",
+          "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sf.png&cquality=40&h=64&scale=crop&w=64",
+          "score": 0
         },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    },
-    {
-      "id": "mlb-tigers-cubs-2207",
-      "sport": "MLB",
-      "apiId": "401816223",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "21:00",
-      "date": "22/07",
-      "seriesInfo": "ESPN2, Disney+",
-      "stadium": "Wrigley Field",
-      "location": "Chicago, Illinois",
-      "dateTime": "22 JUL - 21:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Chicago Cubs",
-        "code": "CHC",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/chc.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Detroit Tigers",
-        "code": "DET",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/det.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "mlb-rays-blue-jays-2307",
-      "sport": "MLB",
-      "apiId": "401816234",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "16:00",
-      "date": "23/07",
-      "seriesInfo": "ESPN2, Disney+",
-      "stadium": "Rogers Centre",
-      "location": "Toronto, Ontario",
-      "dateTime": "23 JUL - 16:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Tampa Bay Rays",
-        "code": "TB",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Toronto Blue Jays",
-        "code": "TOR",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tor.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "mlb-guardians-rays-2407",
-      "sport": "MLB",
-      "apiId": "401816238",
-      "autoUpdate": true,
-      "league": "Temporada Regular",
-      "status": "UPCOMING",
-      "time": "20:00",
-      "date": "24/07",
-      "seriesInfo": "Disney+",
-      "stadium": "Tropicana Field",
-      "location": "St. Petersburg, Flórida",
-      "dateTime": "24 JUL - 20:00",
-      "bannerImage": "https://images.unsplash.com/photo-1516731415730-0c607149933a?auto=format&fit=crop&q=80&w=1200",
-      "group": "MLB",
-      "teamA": {
-        "name": "Tampa Bay Rays",
-        "code": "TB",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tb.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Cleveland Guardians",
-        "code": "CLE",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/cle.png&cquality=40&h=64&scale=crop&w=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Corridas-Rebatidas-Erros",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        },
-        {
-          "label": "Home Runs",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 0
-        }
-      ]
-    },
-    {
-      "id": "sula-vas-dim-290726",
-      "sport": "SULAMERICANA",
-      "apiId": "",
-      "autoUpdate": true,
-      "league": "Copa Sul-Americana",
-      "status": "UPCOMING",
-      "time": "19:00",
-      "date": "29/07",
-      "seriesInfo": "Disney+",
-      "stadium": "São Januário",
-      "location": "Rio de Janeiro, Brasil",
-      "dateTime": "29 JUL - 19:00",
-      "group": "Oitavas de Final",
-      "bannerImage": "https://images.unsplash.com/photo-1637203727700-9d86c74904d6?auto=format&fit=crop&q=80&w=1200",
-      "teamA": {
-        "name": "Vasco",
-        "code": "VAS",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "teamB": {
-        "name": "Independiente Medellín",
-        "code": "DIM",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2690.png&scale=crop&cquality=40&location=origin&w=64&h=64",
-        "score": 0
-      },
-      "homeKeyPlayers": [],
-      "awayKeyPlayers": [],
-      "stats": [
-        {
-          "label": "Posse de Bola",
-          "valueA": "50%",
-          "valueB": "50%",
-          "ratioA": 50
-        },
-        {
-          "label": "Finalizações",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Chutes no Gol",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        },
-        {
-          "label": "Faltas Cometidas",
-          "valueA": "0",
-          "valueB": "0",
-          "ratioA": 50
-        }
-      ]
-    }
-  ],
+        "homeKeyPlayers": [],
+        "awayKeyPlayers": [],
+        "stats": [
+          {
+            "label": "Corridas-Rebatidas-Erros",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          },
+          {
+            "label": "Home Runs",
+            "valueA": "0",
+            "valueB": "0",
+            "ratioA": 0
+          }
+        ]
+      }
+],
   "todayMatches": [
     {
-      "id": "seriea-bot-san-1607",
-      "sport": "SÉRIE A",
-      "apiId": "401841149",
+      "id": "copabr-vas-flu-0108",
+      "sport": "COPABR",
+      "apiId": "401873956",
       "autoUpdate": true,
-      "time": "19:30",
-      "group": "Brasileiro Série A",
-      "stadium": "Estádio Joao Havelange",
-      "tv": "Record, CazéTV, Premiere",
+      "time": "17:30",
+      "group": "Copa do Brasil",
+      "stadium": "Maracanã",
+      "tv": "SporTV, Globo, Amazon, geTV, Premiere",
       "teamA": {
-        "name": "Botafogo",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6086.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Vasco",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Santos",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2674.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Fluminense",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3445.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
   {
-      "id": "seriea-vit-vas-1607",
-      "sport": "SÉRIE A",
-      "apiId": "401841157",
+      "id": "copabr-pal-for-0208",
+      "sport": "COPABR",
+      "apiId": "401873913",
       "autoUpdate": true,
-      "time": "19:30",
-      "group": "Brasileiro Série A",
-      "stadium": "Estadio Manoel Barradas",
-      "tv": "Premiere",
+      "time": "16:00",
+      "group": "Copa do Brasil",
+      "stadium": "Allianz Parque",
+      "tv": "SporTV, Globo, Amazon, geTV, Premiere",
       "teamA": {
-        "name": "Vitória",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3457.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Palmeiras",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2029.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "teamB": {
-        "name": "Vasco",
-        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3454.png&cquality=40&h=64&scale=crop&w=64",
+        "name": "Fortaleza",
+        "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6272.png&cquality=40&h=64&scale=crop&w=64",
         "score": 0
       },
       "status": "UPCOMING"
     },
     {
-      "id": "mlb-mets-phillies-1607",
+      "id": "mlb-giants-rangers-0308",
       "sport": "MLB",
-      "apiId": "401816143",
+      "apiId": "401816381",
       "autoUpdate": true,
-      "time": "20:00",
+      "time": "21:00",
       "group": "MLB",
-      "stadium": "Citizens Bank Park",
-      "tv": "ESPN2, Disney+",
-      "teamA": { "name": "Philadelphia Phillies", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/phi.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
-      "teamB": { "name": "New York Mets", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/nym.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "stadium": "Globe Life Field",
+      "tv": "Disney+",
+      "teamA": { "name": "Texas Rangers", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/tex.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
+      "teamB": { "name": "San Francisco Giants", "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/scoreboard/sf.png&cquality=40&h=64&scale=crop&w=64", "score": 0 },
       "status": "UPCOMING"
     }
   ]
