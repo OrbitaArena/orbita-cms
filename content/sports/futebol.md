@@ -2,46 +2,6 @@
 
 ## BRASILEIRO SÉRIE A
 
-Sábado, 25/jul
-
-18:30 - Série A: Atlético/PR x Internacional (📺 Amazon Prime)
-
-18:30 - Série A: Santos x Chapecoense (📺 SporTV, Premiere)
-
-20:30 - Série A: Vasco x Mirassol (📺 Record, CazéTV, Premiere)
-
-Domingo, 26/jul
-
-16:00 - Série A: Bahia x Corinthians (📺 Globo, geTV, Premiere)
-
-16:00 - Série A: Cruzeiro x Botafogo (📺 Globo, Premiere)
-
-18:30 - Série A: Grêmio x Fluminense (📺 Premiere)
-
-18:30 - Série A: Bragantino x Coritiba (📺 Premiere)
-
-18:30 - Série A: Flamengo x São Paulo (📺 Premiere)
-
-19:30 - Série A: Remo x Vitória (📺 Premiere)
-
-19:30 - Série A: Palmeiras x Atlético/MG (📺 SporTV, Premiere)
-
-Quarta, 29/jul
-
-19:30 - Série A: Internacional x Flamengo (📺 Amazon Prime)
-
-19:30 - Série A: Mirassol x Remo (📺 Premiere)
-
-21:30 - Série A: Vitória x Palmeiras (📺 Globo, geTV, Premiere)
-
-21:30 - Série A: Fluminense x Bahia (📺 Globo, Premiere)
-
-Quinta, 30/jul
-
-19:30 - Série A: Corinthians x Atlétio/PR (📺 Record, CazéTV, Premiere)
-
-21:30 - Série A: Coritiba x Cruzeiro (📺 SporTV, Premiere)
-
 Sábado, 8/ago
 
 16:00 - Série A: Grêmio x São Paulo (📺 Premiere)
@@ -120,24 +80,6 @@ Segunda, 24/ago
 
 ## BRASILEIRO SÉRIE B
 
-Domingo, 26/jul
-
-16:00 - Série B: Criciúma x Náutico (📺 ESPN, Disney+)
-
-16:00 - Série B: São Bernardo x Ceará (📺 SporTV, Premiere)
-
-18:30 - Série B: América/MG x Goiás (📺 Disney+)
-
-18:30 - Série B: Londrina x Novorizontino (📺 Disney+)
-
-Segunda, 27/jul
-
-19:30 - Série B: Atlético/GO x Operário (📺 Disney+)
-
-19:30 - Série B: Sport x Cuiabá (📺 Disney+)
-
-19:30 - Série B: CRB x Vila Nova (📺 ESPN, Canal GOAT, SportyNet, Disney+)
-
 Terça, 28/jul
 
 19:30 - Série B: Ponte Preta x Athletic (📺 Disney+)
@@ -198,28 +140,6 @@ Quinta, 6/ago
 
 ## LIBERTADORES & SULAMERICANA
 
-Terça, 28/jul
-
-19:00 - Sulamericana: Tigre x Nacional (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: Santos x UCV (📺 ESPN, SBT, Disney+)
-
-Quarta, 29/jul
-
-19:00 - Sulamericana: Vasco x Independiente Mendellín (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: Cienciano x Lanús (📺 Paramount+)
-
-21:30 - Sulamericana: Bragantino x Sporting Cristal (📺 Paramount+)
-
-Quinta, 30/jul
-
-19:00 - Sulamericana: Grêmio x Bolívar (📺 Paramount+)
-
-21:30 - Sulamericana: O'Higgins x Boca Juniors (📺 ESPN, Disney+)
-
-21:30 - Sulamericana: Caracas x Santa Fe (📺 Paramount+)
-
 Terça, 11/ago
 
 19:00 - Libertadores: Fluminense x Independiente Rivadavia (📺 ESPN, Disney+)
@@ -266,33 +186,13 @@ Quinta, 20/ago
 
 ## CAMPEONATOS SUL-AMERICANOS
 
-Sábado, 25/jul
+Sábado, 1/ago
 
-16:00 - Argentino: Newell's Old Boys x Talleres (📺 ESPN, Disney+)
+18:00 - Argentino: Estudiantes x Defensa y Justicia (📺 Disney+)
 
-19:15 - Argentino: River Plate x Barracas Central (📺 ESPN, Disney+)
+20:30 - Argentino: Racing x Tigre (📺 Disney+)
 
 ## FUTEBOL FEMININO
-
-Sábado, 25/jul
-
-16:00 - Brasileirão: Mixto x Palmeiras (📺 tvBrasil)
-
-17:00 - Brasileirão: Red Bull Bragantino x Atlético (📺 Uol Play)
-
-17:00 - NSL: Vancouver Rise x Halifax Tides (📺 NSL TV)
-
-Domingo, 26/jul
-
-11:00 - Brasileirão: Corinthians x Vitória (📺 tvBrasil)
-
-15:00 - Brasileirão: Juventude x Ferroviária (📺 Uol Play)
-
-17:00 - NWSL: San Diego Wave x Seattle Reign (📺 Canal GOAT)
-
-20:00 - NWSL: Washington Spirit x Denver Summit (📺 Xsports, Disney+)
-
-22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
 
 ## MLS, USL & NWSL
 
