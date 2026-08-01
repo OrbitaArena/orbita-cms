@@ -4,7 +4,7 @@
 
 13:30 - PLL Lacrosse: Outlaws x Whipsnakes (📺 Disney+)
 
-16h00 - PLL Lacrosse: Chaos x Waterdogs (📺 Disney+)
+16:00 - PLL Lacrosse: Chaos x Waterdogs (📺 Disney+)
 
 17:30 - Copa do Brasil: Vasco x Fluminense (📺 SporTV, Globo, Amazon, geTV, Premiere)
 
