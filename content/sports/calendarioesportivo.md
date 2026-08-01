@@ -34,7 +34,7 @@
 
 10:45 - Ciclismo: Tour de France F • Etapa 2 (📺 ESPN3)
 
-11:00 - LBF: Campinas x Sampaio • FINAL (📺 ESPN4, TVBRASIL)
+11:00 - LBF: Campinas x Sampaio • Jogo 4 (📺 ESPN4, TVBRASIL)
 
 11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
 
@@ -60,7 +60,7 @@
 
 16:00 - Copa do Brasil: Palmeiras x Fortaleza • OF IDA (📺 SPORTV, GLOBO, AMAZON)
 
-16h00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
+16:00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
 
 17:00 - Amistoso: Liverpool x Leeds (📺 SPORTYNET)
 
