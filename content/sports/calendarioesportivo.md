@@ -1,157 +1,93 @@
 # CALENDÁRIO ESPORTIVO
 
-## Sexta, 24/jul
+## Sábado, 1/ago
 
-10:00 - Ciclismo: Tour de France (📺 ESPN3)
+13:30 - PLL Lacrosse: Outlaws x Whipsnakes (📺 DISNEY+)
 
-20:00 - MLB: Cleveland Guardians x Tampa Bay Rays (📺 Disney+)
+16:00 - PLL Lacrosse: Chaos x Waterdogs (📺 DISNEY+)
 
-21:00 - WNBA: WNBA Skills Competition (📺 ESPN2)
+17:30 - Copa do Brasil: Vasco x Fluminense (📺 SPORTV, GLOBO, AMAZON)
 
-21:00 - PLL Lacrosse: Archers x Outlaws (📺 Disney+)
+18:00 - Argentino: Estudiantes x Defensa y Justicia (📺 DISNEY+)
 
-21:00 - Banana Ball: Savannah Bananas x Firefighters (📺 Disney+)
+19:30 - Copa do Brasil: Atlético/MG x Juventude (📺 AMAZON)
 
-21:00 - PGF Softbol: Campeonato Nacional, jogos a definir (📺 Disney+)
+20:00 - MLB: New York Yankees x Chicago Cubs (📺 DISNEY+)
 
-21:30 - LMB: Pericos de Puebla x Tigres de Quintana Roo (📺 Disney+)
+20:30 - Argentino: Racing x Tigre (📺 DISNEY+)
 
-22:00 - ESPN Knockout: LFA 237 (📺 ESPN4)
+21:00 - Copa do Brasil: Santos x Remo (📺 SPORTV, Premiere)
 
-22:00 - LMB: El Águila de Veracruz x Diablos Rojos del México (📺 Disney+)
+21:00 - Banana Ball: Texas Tailgaters x Party Animals (📺 DISNEY+)
 
-22:30 - LMB: Leones de Yucatán x Olmecas de Tabasco (📺 Disney+)
+21:30 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 DISNEY+)
 
-23h30 - PLL Lacrosse: Waterdogs x Atlas (📺 Disney+)
+22:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 DISNEY+)
 
-## Sábado, 25/jul
+## Domingo, 2/ago
 
-08:15 - DTM: Etapa de Oschersleben-ALE (📺 ESPN4)
+04:40 - VNL: Japão x Eslovênia • 3o Lugar (📺 SPORTV2)
 
-09:00 - Ciclismo: Tour de France (📺 ESPN3)
+08:30 - VNL: EUA x Polônia • FINAL (📺 SPORTV2)
 
-10:50 - LBF: Final (📺 ESPN4)
+10:00 - Senior League Baseball: Toda a janela de jogos (📺 DISNEY+)
 
-15:00 - PLL Lacrosse: Cannons x Chaos (📺 Disney+)
+10:45 - Ciclismo: Tour de France F • Etapa 2 (📺 ESPN3)
 
-16:00 - Argentino: Newell's Old Boys x Talleres (📺 ESPN, Disney+)
+11:00 - LBF: Campinas x Sampaio • FINAL (📺 ESPN4, TVBRASIL)
 
-18:30 - Série A: Atlético/PR x Internacional (📺 Amazon Prime)
+11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
 
-18:30 - Série A: Santos x Chapecoense (📺 SporTV, Premiere)
+11:00 - Brasileirão F: Santos x Juventude (📺 XSPORTS)
 
-19:15 - Argentino: River Plate x Barracas Central (📺 ESPN, Disney+)
+11:00 - Little League Softball World Series: Toda a janela de jogos (📺 DISNEY+)
 
-19h30 - PLL Lacrosse: Whipsnakes x Archers (📺 Disney+)
+12:00 - Uruguaio: Racing x Boston River (📺 DISNEY+)
 
-19:30 - MLS: New York Red Bull x Charlotte FC (📺 AppleTV)
+12:15 - Russo: Krasnodar x Voronezh (📺 GOL BRASIL)
 
-20:15 - MLS: Columbus Crew x FC Cincinnati (📺 AppleTV)
+13:00 - Supercopa HOL: PSV x AZ Alkmaar • FINAL (📺 NSPORTS)
 
-20:30 - Série A: Vasco x Mirassol (📺 Record, CazéTV, Premiere)
+13:00 - Amistoso: Wrexham x Sunderland (📺 SPORTYNET)
 
-20:30 - MLS: DC United x Toronto FC (📺 AppleTV)
+13:00 - Intermediate League Baseball: Toda a janela de jogos (📺 DISNEY+)
 
-20:30 - MLS: CF Montreal x Inter Miami (📺 AppleTV)
+14:00 - Junior League Softball: Toda a janela de jogos (📺 DISNEY+)
 
-20:30 - MLS: New England Revolution x Atlanta United (📺 AppleTV)
+14:00 - WNBA: Minnesota Lynx x Indiana Fever (📺 ESPN4)
 
-20:30 - MLS: New York City x Chicago Fire (📺 AppleTV)
+14:30 - Russo: Akhmat Grozny x Spartak Moscow (📺 XSPORTS)
 
-20:30 - MLS: Orlando City x Nashville SC (📺 AppleTV)
+16:00 - Copa do Brasil: Palmeiras x Fortaleza • OF IDA (📺 SPORTV, GLOBO, AMAZON)
 
-20:30 - MLS: Philadelphia Union x Seattle Sounders (📺 AppleTV)
+17:00 - Amistoso: Liverpool x Leeds (📺 SPORTYNET)
 
-20:30 - MLS: Houston Dynamo x Austin FC (📺 AppleTV)
+17:00 - Argentino: Newell's Old Boys x Boca Juniors (📺 ESPN)
 
-21:30 - MLS: Minnesota United x Vancouver Whitecaps (📺 AppleTV)
+17:00 - NWSL: Washington Spirit x San Diego Wave (📺 XSPORTS, GOAT)
 
-22:00 - PLL Lacrosse: Waterdogs x Outlaws (📺 Disney+)
+18:00 - Copa do Brasil: Mirassol x Grêmio • OF IDA (📺 AMAZON)
 
-22:00 - Boxe: Tim Tszyu x Errol Spence Jr (📺 ESPN4)
+18:00 - Brasileirão F: Ferroviária x Bahia (📺 NSPORTS)
 
-22:30 - MLS: San Diego FC x FC Dallas (📺 AppleTV)
+18:30 - Copa do Brasil: Chapecoense x Cruzeiro • OF IDA (📺 SPORTV, PREMIERE)
 
-23:30 - MLS: LAFC x Sporting Kansas City (📺 AppleTV)
+19:15 - Argentino: River Plate x Rosario Central (📺 ESPN)
 
-23:30 - MLS: Portland Timbers x Real Salt Lake (📺 AppleTV)
+19:30 - Copa do Brasil: Internacional x Corinthians • OF IDA (📺 AMAZON)
 
-23:30 - MLS: San Jose Earthquakes x Los Angeles Galaxy (📺 AppleTV)
+20:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, DISNEY+)
 
-## Domingo, 26/jul
+20:00 - Mexicano: América x Santos Laguna (📺 SPORTYNET)
 
-06:25 - Fórmula 2: GO da Hungria (📺 SPORTV3)
+20:00 - WNBA: Dallas Wings x Connecticut Sun (📺 ESPN4)
 
-08:15 - DTM: Etapa de Oschersleben-ALE (📺 ESPN4)
+21:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 DISNEY+)
 
-08:30 - VNL: Brasil x Turquia FINAL (📺 SporTV, VBTV)
+22:00 - Mexicano: Toluca x Necaxa (📺 SPORTYNET)
 
-09:00 - Mundial Motocross: MXGP Rep.Tcheca (📺 Bandsports)
+22:00 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 DISNEY+)
 
-10:00 - Fórmula 1: GP da Hungria (📺 Globo, SPORTV3)
-
-10:30 - BR Vôlei Praia: Copacabana Finais (📺 Xsports, SPORTV2)
-
-11:00 - Brasileirão F: Corinthians x Vitória (📺 tvBrasil)
-
-11:00 - Tênis: ITF São Paulo M25 Final (📺 ESPN4)
-
-12:00 - Ciclismo: Tour de France (📺 ESPN3)
-
-12:10 - Stock Car: Etapa do Velocitta (📺 Bandsports)
-
-13:40 - WTT Final: Calderano/Takahashi x Togami/Odo (📺 CazeTV)
-
-14:00 - Kings League: Mundial Clubes, Jogos Fase 1 (📺 ESPN, CazeTV)
-
-14:45 - Nascar Cup: GP de Indianápolis (📺 ESPN4, Disney+)
-
-15:00 - Brasileirão F: Juventude x Ferroviária (📺 Uol Play)
-
-16:00 - Série A: Bahia x Corinthians (📺 Globo, geTV, Premiere)
-
-16:00 - Série A: Cruzeiro x Botafogo (📺 Globo, Premiere)
-
-16:00 - Série B: Criciúma x Náutico (📺 ESPN, Disney+)
-
-16:00 - Série B: São Bernardo x Ceará (📺 Globo, SporTV, Premiere)
-
-16:00 - Série C: Brusque x Ituano (📺 SportyNet)
-
-16:00 - Série C: Ypiranga/RS x Barra/SC (📺 SportyNet+)
-
-17:00 - WTT: Finais F e M Calderano (📺 SPORTV2, CazeTV)
-
-17:15 - Argentino: Estudiantes x Independiente (📺 ESPN3, Disney+)
-
-18:00 - NWSL: San Diego Wave x Seattle Reign (📺 Canal GOAT)
-
-18:30 - Série A: Grêmio x Fluminense (📺 Premiere)
-
-18:30 - Série A: Bragantino x Coritiba (📺 Premiere)
-
-18:30 - Série A: Flamengo x São Paulo (📺 Premiere)
-
-18:30 - Série B: América/MG x Goiás (📺 Disney+)
-
-18:30 - Série B: Londrina x Novorizontino (📺 Disney+)
-
-18:30 - Série C: Caxias x Botafogo/PB (📺 SportyNet)
-
-19:30 - Série A: Remo x Vitória (📺 Premiere)
-
-19:30 - Série A: Palmeiras x Atlético/MG (📺 SporTV, Premiere)
-
-19:30 - Argentino: Dep.Riestra x Boca Juniors (📺 ESPN, Disney+)
-
-19:30 - Sulamericano F: Brasil B x Colombia (📺 SPORTV2)
-
-20:00 - NWSL: Washington Spirit x Denver Summit (📺 Xsports)
-
-20:20 - MLB: Philadelphia Phillies x New York Yankees (📺 ESPN2)
-
-20:30 - Série C: Amazonas x Paysandu (📺 SportyNet)
-
-22:00 - NWSL: Angel City x Raving Louisville FC (📺 ESPN4, Disney+)
+22:00 - NWSL: Denver Summit x Boston Legacy (📺 ESPN4)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
