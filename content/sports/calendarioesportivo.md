@@ -60,6 +60,8 @@
 
 16:00 - Copa do Brasil: Palmeiras x Fortaleza • OF IDA (📺 SPORTV, GLOBO, AMAZON)
 
+16h00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
+
 17:00 - Amistoso: Liverpool x Leeds (📺 SPORTYNET)
 
 17:00 - Argentino: Newell's Old Boys x Boca Juniors (📺 ESPN)
