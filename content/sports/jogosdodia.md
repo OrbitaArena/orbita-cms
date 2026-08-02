@@ -1,25 +1,75 @@
 # JOGOS DE HOJE
 
-## Sábado, 1/ago
+## Domingo, 2/ago
 
-13:30 - PLL Lacrosse: Outlaws x Whipsnakes (📺 Disney+)
+04:00 - Mundial Lacrosse F: Israel x Haudenosaunee • Bronze (📺 WL TV)
 
-16:00 - PLL Lacrosse: Chaos x Waterdogs (📺 Disney+)
+04:40 - VNL: Japão x Eslovênia • Bronze (📺 SPORTV2)
 
-17:30 - Copa do Brasil: Vasco x Fluminense (📺 SporTV, Globo, Amazon, geTV, Premiere)
+07:00 - Mundial Lacrosse F: EUA x Canadá • FINAL (📺 WL TV)
 
-18:00 - Argentino: Estudiantes x Defensa y Justicia (📺 Disney+)
+08:30 - VNL: EUA x Polônia • FINAL (📺 SPORTV2)
 
-19:30 - Copa do Brasil: Atlético/MG x Juventude (📺 Amazon Prime)
+10:00 - Senior League Baseball: Toda a janela de jogos (📺 DISNEY+)
 
-20:00 - MLB: New York Yankees x Chicago Cubs (📺 Disney+)
+10:45 - Ciclismo: Tour de France F • Etapa 2 (📺 ESPN3)
 
-20:30 - Argentino: Racing x Tigre (📺 Disney+)
+11:00 - LBF: Campinas x Sampaio • Jogo 4 (📺 ESPN4, TVBRASIL)
 
-21:00 - Copa do Brasil: Santos x Remo (📺 SporTV, Premiere)
+11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
 
-21:00 - Banana Ball: Texas Tailgaters x Party Animals (📺 Disney+)
+11:00 - Brasileirão F: Santos x Juventude (📺 XSPORTS)
 
-21:30 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 Disney+)
+11:00 - Little League Softball World Series: Toda a janela de jogos (📺 DISNEY+)
 
-22:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 Disney+)
+12:00 - Uruguaio: Racing x Boston River (📺 DISNEY+)
+
+12:15 - Russo: Krasnodar x Voronezh (📺 GOL BRASIL)
+
+13:00 - Supercopa HOL: PSV x AZ Alkmaar • FINAL (📺 NSPORTS)
+
+13:00 - Amistoso: Wrexham x Sunderland (📺 SPORTYNET)
+
+13:00 - Intermediate League Baseball: Toda a janela de jogos (📺 DISNEY+)
+
+14:00 - Junior League Softball: Toda a janela de jogos (📺 DISNEY+)
+
+14:00 - WNBA: Minnesota Lynx x Indiana Fever (📺 ESPN4)
+
+14:30 - Russo: Akhmat Grozny x Spartak Moscow (📺 XSPORTS)
+
+16:00 - Copa do Brasil: Palmeiras x Fortaleza • OF IDA (📺 SPORTV, GLOBO, AMAZON)
+
+16:00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
+
+17:00 - Amistoso: Liverpool x Leeds (📺 SPORTYNET)
+
+17:00 - Argentino: Newell's Old Boys x Boca Juniors (📺 ESPN)
+
+17:00 - NWSL: Washington Spirit x San Diego Wave (📺 XSPORTS, GOAT)
+
+18:00 - Copa do Brasil: Mirassol x Grêmio • OF IDA (📺 AMAZON)
+
+18:00 - Brasileirão F: Ferroviária x Bahia (📺 NSPORTS)
+
+18:30 - Copa do Brasil: Chapecoense x Cruzeiro • OF IDA (📺 SPORTV, PREMIERE)
+
+19:15 - Argentino: River Plate x Rosario Central (📺 ESPN)
+
+19:30 - Copa do Brasil: Internacional x Corinthians • OF IDA (📺 AMAZON)
+
+20:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, DISNEY+)
+
+20:00 - Mexicano: América x Santos Laguna (📺 SPORTYNET)
+
+20:00 - WNBA: Dallas Wings x Connecticut Sun (📺 ESPN4)
+
+21:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 DISNEY+)
+
+22:00 - Mexicano: Toluca x Necaxa (📺 SPORTYNET)
+
+22:00 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 DISNEY+)
+
+22:00 - NWSL: Denver Summit x Boston Legacy (📺 ESPN4)
+
+Obs: Horários de Brasília. Grades sujeitas a alteração
