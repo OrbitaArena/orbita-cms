@@ -199,6 +199,42 @@
         ]
       },
 {
+  "id": "arg-newells-boca-0208",
+  "sport": "ARGENTINO",
+  "apiId": "401841473",
+  "autoUpdate": true,
+  "league": "ARGENTINO",
+  "status": "UPCOMING",
+  "time": "17:00",
+  "date": "02/08",
+  "seriesInfo": "ESPN",
+  "stadium": "Marcelo Bielsa",
+  "location": "Rosario, Argentina",
+  "dateTime": "02 AGO - 17:00",
+  "group": "Clausura",
+  "bannerImage": "https://images.unsplash.com/photo-1430232324554-8f4aebd06683?auto=format&fit=crop&q=80&w=1200",
+  "teamA": {
+    "name": "Newell's Old Boys",
+    "code": "NOB",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/14.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "teamB": {
+    "name": "Boca Juniors",
+    "code": "CABJ",
+    "flag": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/5.png&cquality=40&h=64&scale=crop&w=64",
+    "score": 0
+  },
+  "homeKeyPlayers": [],               
+  "awayKeyPlayers": [],
+  "stats": [ 
+    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+  ]
+},
+{
   "id": "copabr-inter-cor-0208",
   "sport": "COPABR",
   "apiId": "401873957",
