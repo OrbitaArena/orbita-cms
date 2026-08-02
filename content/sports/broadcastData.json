@@ -1,0 +1,18 @@
+"broadcastOverrides": [
+  {
+    "matchId": "223512",
+    "home": "Newell's Old Boys",
+    "away": "Boca Juniors",
+    "league": "Liga Argentina",
+    "channels": ["ESPN", "Disney+"],
+    "active": true
+  },
+  {
+    "matchId": "223513",
+    "home": "River Plate",
+    "away": "Rosario Central",
+    "league": "Liga Argentina",
+    "channels": ["ESPN"],
+    "active": true
+  }
+]
