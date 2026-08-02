@@ -26,7 +26,11 @@
 
 ## Domingo, 2/ago
 
-04:40 - VNL: Japão x Eslovênia • 3o Lugar (📺 SPORTV2)
+04:00 - Mundial Lacrosse F: Israel x Haudenosaunee • Bronze (📺 WL TV)
+
+04:40 - VNL: Japão x Eslovênia • Bronze (📺 SPORTV2)
+
+07:00 - Mundial Lacrosse F: EUA x Canadá • FINAL (📺 WL TV)
 
 08:30 - VNL: EUA x Polônia • FINAL (📺 SPORTV2)
 
