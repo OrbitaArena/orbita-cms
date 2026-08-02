@@ -206,7 +206,7 @@ Domingo, 2/ago
 
 ## FUTEBOL FEMININO
 
-Domingo, 2/jul
+Domingo, 2/ago
 
 11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
 
