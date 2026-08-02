@@ -4,14 +4,14 @@
   "id": "copabr-vas-flu-0108",
   "sport": "COPABR",
   "apiId": "401873956",
-  "autoUpdate": true,
+  "autoUpdate": false,
   "featured": true,
-  "title": "CLÁSSICO CARIOCA",
+  "title": "EMPATE AMARGO NO CLÁSSICO CARIOCA",
   "league": "COPA DO BRASIL",
   "status": "UPCOMING",
-  "time": "17:30",
+  "time": "FINAL",
   "date": "01/08",
-  "seriesInfo": "SporTV, Globo, Amazon, geTV, Premiere",
+  "seriesInfo": "Tudo igual no Maraca",
   "stadium": "Maracanã",
   "location": "Rio de Janeiro, Brasil",
   "dateTime": "01 AGO - 17:30",
@@ -33,9 +33,9 @@
   "awayKeyPlayers": [],
   "stats": [ 
     { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
-    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+    { "label": "Finalizações", "valueA": "6", "valueB": "12", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "1", "valueB": "2", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "20", "valueB": "16", "ratioA": 50 }
   ]
 },
       {
@@ -86,7 +86,7 @@
   "id": "copabr-san-remo-0108",
   "sport": "COPABR",
   "apiId": "401873954",
-  "autoUpdate": true,
+  "autoUpdate": false,
   "league": "COPA DO BRASIL",
   "status": "UPCOMING",
   "time": "21:00",
@@ -112,10 +112,10 @@
   "homeKeyPlayers": [],               
   "awayKeyPlayers": [],
   "stats": [ 
-    { "label": "Posse de Bola", "valueA": "50%", "valueB": "50%", "ratioA": 50 },
-    { "label": "Finalizações", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Chutes no Gol", "valueA": "0", "valueB": "0", "ratioA": 50 },
-    { "label": "Faltas Cometidas", "valueA": "0", "valueB": "0", "ratioA": 50 }
+    { "label": "Posse de Bola", "valueA": "60%", "valueB": "40%", "ratioA": 50 },
+    { "label": "Finalizações", "valueA": "19", "valueB": "6", "ratioA": 50 },
+    { "label": "Chutes no Gol", "valueA": "3", "valueB": "3", "ratioA": 50 },
+    { "label": "Faltas Cometidas", "valueA": "12", "valueB": "10", "ratioA": 50 }
   ]
 },
 {
