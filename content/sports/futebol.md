@@ -192,7 +192,31 @@ Sábado, 1/ago
 
 20:30 - Argentino: Racing x Tigre (📺 Disney+)
 
+Domingo, 2/ago
+
+12:00 - Uruguaio: Racing x Boston River (📺 DISNEY+)
+
+17:00 - Argentino: Newell's Old Boys x Boca Juniors (📺 ESPN)
+
+19:15 - Argentino: River Plate x Rosario Central (📺 ESPN)
+
+20:00 - Mexicano: América x Santos Laguna (📺 SPORTYNET)
+
+22:00 - Mexicano: Toluca x Necaxa (📺 SPORTYNET)
+
 ## FUTEBOL FEMININO
+
+Domingo, 2/jul
+
+11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
+
+11:00 - Brasileirão F: Santos x Juventude (📺 XSPORTS)
+
+17:00 - NWSL: Washington Spirit x San Diego Wave (📺 XSPORTS, GOAT)
+
+18:00 - Brasileirão F: Ferroviária x Bahia (📺 NSPORTS)
+
+22:00 - NWSL: Denver Summit x Boston Legacy (📺 ESPN4)
 
 ## MLS, USL & NWSL
 
