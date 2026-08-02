@@ -8,11 +8,11 @@ Sexta, 31/jul
 
 Sábado, 1/ago
 
-20:00 - MLB: New York Yankees x Chicago Cubs (📺 Disney+)
+20:00 - MLB: New York Yankees 2x1 Chicago Cubs (📺 Disney+)
 
 Domingo, 2/ago
 
-220:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, Disney+)
+20:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, Disney+)
 
 Segunda, 3/ago
 
@@ -46,11 +46,11 @@ Sexta, 31/jul
 
 Sábado, 1/ago
 
-21:00 - Banana Ball: Texas Tailgaters x Party Animals (📺 Disney+)
+21:00 - Banana Ball: Texas Tailgaters 1x4 Party Animals (📺 Disney+)
 
-21:30 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 Disney+)
+21:30 - LMB: Saraperos de Saltillo 9x3 Tecos de los Dos Laredos (📺 Disney+)
 
-22:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 Disney+)
+22:00 - LMB: Pericos de Puebla 0x1 Leones de Yucatán (📺 Disney+)
 
 Domingo, 2/ago
 
