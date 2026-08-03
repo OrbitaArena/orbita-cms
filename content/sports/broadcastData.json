@@ -1,4 +1,5 @@
-"broadcastOverrides": [
+{
+  "broadcastOverrides": [
   {
     "matchId": "223512",
     "home": "Newell's Old Boys",
@@ -15,4 +16,5 @@
     "channels": ["ESPN"],
     "active": true
   }
-]
+ ]
+}
