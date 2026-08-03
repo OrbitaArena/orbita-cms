@@ -96,4 +96,26 @@
 
 22:00 - NWSL: Denver Summit x Boston Legacy (📺 ESPN4)
 
+## Segunda, 03/ago
+
+10:00 - Senior League Baseball: Toda a janela de jogos (📺 Disney+)
+
+10:45 - Ciclismo: Tour de France F • Etapa 3 (📺 ESPN3)
+
+11:00 - Little League Softball World Series: Toda a janela de jogos (📺 Disney+)
+
+13:00 - Intermediate League Baseball: Toda a janela de jogos (📺 Disney+)
+
+14:00 - Junior League Softball: Toda a janela de jogos (📺 Disney+)
+
+16:45 - Argentino: Sarmiento x Independiente Rivadavia (📺 Disney+)
+
+19:00 - Uruguaio: Defensor Sp. x Cerro (📺 Disney+)
+
+21:00 - Copa do Brasil: Atlético/PR x Vitória (📺 SporTV, geTV, Premiere)
+
+21:00 - MLB: San Francisco Giants x Texas Rangers (📺 Disney+)
+
+22:00 - WNBA: Sky x Mercury (📺 WNBA Brasil)
+
 Obs: Horários de Brasília. Grades sujeitas a alteração
