@@ -106,7 +106,7 @@
       "id": "copabr-san-remo-0108",
       "sport": "COPABR",
       "apiId": "401873954",
-      "autoUpdate": false,
+      "autoUpdate": true,
       "league": "COPA DO BRASIL",
       "status": "UPCOMING",
       "time": "21:00",
