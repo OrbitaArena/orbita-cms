@@ -1,0 +1,341 @@
+[
+  {
+    "apiId": "401867222",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Boston Cannons",
+      "abbreviation": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127631.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Maryland Whipsnakes",
+      "abbreviation": "WHS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122997.png",
+      "score": 0
+    },
+    "date": "Sexta-feira, 07/08/2026",
+    "time": "19:00",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Peter Barton Stadium, Denver CO",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867224",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Utah Archers",
+      "abbreviation": "UTA",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127636.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Carolina Chaos",
+      "abbreviation": "CHA",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127634.png",
+      "score": 0
+    },
+    "date": "Sexta-feira, 07/08/2026",
+    "time": "21:30",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Peter Barton Stadium, Denver CO",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867225",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "New York Atlas",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127638.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Denver Outlaws",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122896.png",
+      "score": 0
+    },
+    "date": "Sábado, 08/08/2026",
+    "time": "14:00",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Peter Barton Stadium, Denver CO",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867260",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Boston Cannons",
+      "abbreviation": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127631.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "California Redwoods",
+      "abbreviation": "RED",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127633.png",
+      "score": 0
+    },
+    "date": "Sábado, 08/08/2026",
+    "time": "21:00",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Peter Barton Stadium, Denver CO",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867240",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Philadelphia Waterdogs",
+      "abbreviation": "WTD",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127635.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Maryland Whipsnakes",
+      "abbreviation": "WHS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122997.png",
+      "score": 0
+    },
+    "date": "Sábado, 15/08/2026",
+    "time": "15:00",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Zions Bank Stadium, Herriman UT",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867241",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Philadelphia Waterdogs",
+      "abbreviation": "WTD",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127635.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "New York Atlas",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127638.png",
+      "score": 0
+    },
+    "date": "Domingo, 16/08/2026",
+    "time": "14:00",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Zions Bank Stadium, Herriman UT",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867242",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "California Redwoods",
+      "abbreviation": "RED",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127633.png",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Denver Outlaws",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122896.png",
+      "score": 0
+    },
+    "date": "Domingo, 16/08/2026",
+    "time": "16:30",
+    "status": "PRÓXIMO JOGO",
+    "venue": "Zions Bank Stadium, Herriman UT",
+    "broadcaster": "Disney+",
+    "isUpcoming": true
+  },
+  {
+    "apiId": "401867239",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Carolina Chaos",
+      "abbreviation": "CHA",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127634.png",
+      "score": 12
+    },
+    "awayTeam": {
+      "name": "California Redwoods",
+      "abbreviation": "RED",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127633.png",
+      "score": 10
+    },
+    "date": "Sexta-feira, 31/07/2026",
+    "time": "19:00",
+    "status": "FINAL",
+    "venue": "Gillette Stadium, Foxborough MA",
+    "broadcaster": "Disney+",
+    "isUpcoming": false,
+    "stats": {
+      "savesHome": 14,
+      "savesAway": 11,
+      "faceoffsHome": 15,
+      "faceoffsAway": 12,
+      "groundBallsHome": 32,
+      "groundBallsAway": 28
+    },
+    "highlight": {
+      "title": "Melhores Momentos: Carolina Chaos 12 x 10 California Redwoods",
+      "espnVideoUrl": "https://www.espn.com/pll/video/_/gameId/401867239",
+      "clipId": "49515239",
+      "espnClipUrl": "https://www.espn.com/video/clip/_/id/49515239",
+      "duration": "06:40"
+    }
+  },
+  {
+    "apiId": "401867255",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Utah Archers",
+      "abbreviation": "UTA",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127636.png",
+      "score": 14
+    },
+    "awayTeam": {
+      "name": "Boston Cannons",
+      "abbreviation": "BOS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127631.png",
+      "score": 11
+    },
+    "date": "Sexta-feira, 31/07/2026",
+    "time": "21:30",
+    "status": "FINAL",
+    "venue": "Gillette Stadium, Foxborough MA",
+    "broadcaster": "Disney+",
+    "isUpcoming": false,
+    "stats": {
+      "savesHome": 16,
+      "savesAway": 12,
+      "faceoffsHome": 14,
+      "faceoffsAway": 13,
+      "groundBallsHome": 30,
+      "groundBallsAway": 26
+    },
+    "highlight": {
+      "title": "Melhores Momentos: Utah Archers 14 x 11 Boston Cannons",
+      "espnVideoUrl": "https://www.espn.com/pll/video/_/gameId/401867255",
+      "clipId": "49515255",
+      "espnClipUrl": "https://www.espn.com/video/clip/_/id/49515255",
+      "duration": "07:12"
+    }
+  },
+  {
+    "apiId": "401867221",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Maryland Whipsnakes",
+      "abbreviation": "WHS",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122997.png",
+      "score": 15
+    },
+    "awayTeam": {
+      "name": "Denver Outlaws",
+      "abbreviation": "DEN",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/122896.png",
+      "score": 13
+    },
+    "date": "Sábado, 01/08/2026",
+    "time": "13:30",
+    "status": "FINAL",
+    "venue": "Gillette Stadium, Foxborough MA",
+    "broadcaster": "Disney+",
+    "isUpcoming": false,
+    "stats": {
+      "savesHome": 13,
+      "savesAway": 10,
+      "faceoffsHome": 16,
+      "faceoffsAway": 11,
+      "groundBallsHome": 29,
+      "groundBallsAway": 25
+    },
+    "highlight": {
+      "title": "Melhores Momentos: Maryland Whipsnakes 15 x 13 Denver Outlaws",
+      "espnVideoUrl": "https://www.espn.com/pll/video/_/gameId/401867221",
+      "clipId": "49515221",
+      "espnClipUrl": "https://www.espn.com/video/clip/_/id/49515221",
+      "duration": "08:05"
+    }
+  },
+  {
+    "apiId": "401867258",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "Philadelphia Waterdogs",
+      "abbreviation": "WTD",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127635.png",
+      "score": 11
+    },
+    "awayTeam": {
+      "name": "Carolina Chaos",
+      "abbreviation": "CHA",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127634.png",
+      "score": 10
+    },
+    "date": "Sábado, 01/08/2026",
+    "time": "16:00",
+    "status": "FINAL",
+    "venue": "Gillette Stadium, Foxborough MA",
+    "broadcaster": "Disney+",
+    "isUpcoming": false,
+    "stats": {
+      "savesHome": 15,
+      "savesAway": 14,
+      "faceoffsHome": 12,
+      "faceoffsAway": 12,
+      "groundBallsHome": 27,
+      "groundBallsAway": 28
+    },
+    "highlight": {
+      "title": "Melhores Momentos: Philadelphia Waterdogs 11 x 10 Carolina Chaos",
+      "espnVideoUrl": "https://www.espn.com/pll/video/_/gameId/401867258",
+      "clipId": "49515258",
+      "espnClipUrl": "https://www.espn.com/video/clip/_/id/49515258",
+      "duration": "06:55"
+    }
+  },
+  {
+    "apiId": "401867275",
+    "league": "PLL Premier Lacrosse League",
+    "homeTeam": {
+      "name": "California Redwoods",
+      "abbreviation": "RED",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127633.png",
+      "score": 13
+    },
+    "awayTeam": {
+      "name": "New York Atlas",
+      "abbreviation": "ATL",
+      "logo": "https://a.espncdn.com/i/teamlogos/pll/500/scoreboard/127638.png",
+      "score": 12
+    },
+    "date": "Domingo, 02/08/2026",
+    "time": "16:00",
+    "status": "FINAL",
+    "venue": "Gillette Stadium, Foxborough MA",
+    "broadcaster": "Disney+",
+    "isUpcoming": false,
+    "stats": {
+      "savesHome": 17,
+      "savesAway": 13,
+      "faceoffsHome": 15,
+      "faceoffsAway": 10,
+      "groundBallsHome": 34,
+      "groundBallsAway": 26
+    },
+    "highlight": {
+      "title": "Melhores Momentos: California Redwoods 21 x 13 New York Atlas",
+      "espnVideoUrl": "https://www.espn.com/pll/video/_/gameId/401867275",
+      "clipId": "49515296",
+      "espnClipUrl": "https://www.espn.com/video/clip/_/id/49515296",
+      "duration": "08:15"
+    }
+  }
+]
