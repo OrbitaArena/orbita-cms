@@ -12,15 +12,15 @@ Sábado, 1/ago
 
 Domingo, 2/ago
 
-20:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, Disney+)
+20:00 - MLB: Boston Red Sox 8x4 Los Angeles Dodgers (📺 ESPN3, Disney+)
 
 Segunda, 3/ago
 
-21:00 - MLB: San Francisco Giants x Texas Rangers (📺 Disney+)
+21:00 - MLB: San Francisco Giants 5x1 Texas Rangers (📺 Disney+)
 
 Terça, 4/ago
 
-20:00 - MLB: St. Louis Cardinals x New York Yankees (📺 ESPN4, Disney+)
+20:00 - MLB: St. Louis Cardinals 0x2 New York Yankees (📺 ESPN4, Disney+)
 
 Quarta, 5/ago
 
@@ -62,9 +62,9 @@ Domingo, 2/ago
 
 14:00 - Junior League Softball: Toda a janela de jogos (📺 Disney+)
 
-21:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 Disney+)
+21:00 - LMB: Pericos de Puebla 0x7 Leones de Yucatán (📺 Disney+)
 
-22:00 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 Disney+)
+22:00 - LMB: Saraperos de Saltillo 4x6 Tecos de los Dos Laredos (📺 Disney+)
 
 Segunda, 3/ago
 
@@ -86,9 +86,9 @@ Terça, 4/ago
 
 15:00 - Senior League Softball: Toda a janela de jogos (📺 Disney+)
 
-22:00 - LMB: Charros de Jalisco x Dorados de Chihuahua (📺 Disney+)
+22:00 - LMB: Charros de Jalisco 12x9 Dorados de Chihuahua (📺 Disney+)
 
-22:00 - LMB: Toros de Tijuana x Caliente de Durango (📺 Disney+)
+22:00 - LMB: Toros de Tijuana 8x4 Caliente de Durango (📺 Disney+)
  
 Quarta, 5/ago
 
@@ -154,12 +154,34 @@ Sexta, 31/jul
 
 Sábado, 1/ago
 
-13:30 - PLL Lacrosse: Outlaws x Whipsnakes (📺 Disney+)
+13:30 - PLL Lacrosse: Outlaws 14x13 Whipsnakes (📺 Disney+)
 
-16h00 - PLL Lacrosse: Chaos x Waterdogs (📺 Disney+)
+16h00 - PLL Lacrosse: Chaos 6x13 Waterdogs (📺 Disney+)
 
 Domingo, 2/ago
 
-16h00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
+16h00 - PLL Lacrosse: Atlas 13x21 Redwoods (📺 Disney+)
+
+Sexta, 7/ago
+
+19:00 - PLL Lacrosse: Cannons x Whipsnakes (📺 Disney+)
+
+21:30 - PLL Lacrosse: Archers x Chaos (📺 Disney+)
+
+Sábado, 8/ago
+
+14:00 - PLL Lacrosse: Atlas x Outlaws (📺 Disney+)
+
+21:00 - PLL Lacrosse: Cannons x Redwoods (📺 Disney+)
+
+Sábado, 15/ago
+
+15:00 - PLL Lacrosse: Waterdogs x Whipsnakes (📺 Disney+)
+
+Domingo, 16/ago
+
+14:00 - PLL Lacrosse: Waterdogs x Atlas (📺 Disney+)
+
+16:30 - PLL Lacrosse: Redwoods x Outlaws (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
