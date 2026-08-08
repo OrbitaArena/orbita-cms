@@ -98,18 +98,18 @@
   ],
   "campeonatos": [
     {
-      "id": "bocha-cbo-ago26",
-      "nome": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA",
+      "id": "bocha-cbo-ago26-2",
+      "nome": "TORNEIO INDIVIDUAL 2° FORÇA CANAL BOCHAS - SANTA MARIA",
       "local": "Santa Maria - RS",
-      "dataExibicao": "1 e 2 de Agosto de 2026",
-      "datasIndividuais": ["01/08/2026", "02/08/2026"],
-      "horario": "08:45",
-      "categoria": "Feminino Duplas",
-      "premiacao": "1° R$ 1.000, 2° R$ 500, 3° R$ 200",
+      "dataExibicao": "8 de Agosto de 2026",
+      "datasIndividuais": ["08/08/2026"],
+      "horario": "10:00",
+      "categoria": "Individual",
+      "premiacao": "1° R$ 1.300, 2° R$ 700, Copo Stanley Personalizado",
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/@CanalBochas",
-      "banner": "https://i.ytimg.com/vi/wTrmO2tsGyQ/maxresdefault.jpg",
-      "status": "ENCERRADO"
+      "banner": "https://i.ytimg.com/vi/a24kUhsh4PM/hq720.jpg",
+      "status": "ANDAMENTO"
     },
     {
       "id": "bocha-admidom-ago26",
@@ -123,12 +123,53 @@
       "canal": "Amigos do Dom",
       "link": "https://www.facebook.com/amigosdodom",
       "banner": "https://scontent.ffor4-1.fna.fbcdn.net/v/t39.30808-6/758964171_982238471512894_5722504978441716984_n.jpg?stp=dst-jpg_tt6&cstp=mx853x1280&ctp=s853x1280&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4-YmVJHGcSwQ7kNvwF2E671&_nc_oc=AdpwtVBK3zZWULu7ojqqBnnsODTMT0uLu7DDr2C0J51Ew4hJmA3nPuMnBcJP3GkgK8I2GyqfA046U8XrUrob8pxH&_nc_zt=23&_nc_ht=scontent.ffor4-1.fna&_nc_gid=cQbVzPV-lKl9Gf8zDDqRAw&_nc_ss=7b289&oh=00_AQHaIEqLDFWZeqMC6cBTjtKgBLAhyY7vohfHuZRvUcdi3A&oe=6A71E3EB",
-      "status": "AGENDADO"
-    }
+      "status": "ANDAMENTO"
+    },    
+    {
+      "id": "bocha-cbo-ago26",
+      "nome": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA",
+      "local": "Santa Maria - RS",
+      "dataExibicao": "1 e 2 de Agosto de 2026",
+      "datasIndividuais": ["01/08/2026", "02/08/2026"],
+      "horario": "08:45",
+      "categoria": "Feminino Duplas",
+      "premiacao": "1° R$ 1.000, 2° R$ 500, 3° R$ 200",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/@CanalBochas",
+      "banner": "https://i.ytimg.com/vi/wTrmO2tsGyQ/maxresdefault.jpg",
+      "status": "ENCERRADO"
+    }    
   ],
   "jogosBochas": [
     {
+      "id": "bocha-erechim-2026-02-live",
+      "evento": "Final 2º divisão do Municipal Barra do Rio Azul. Palometa x Rio Bonito",
+      "data": "08/08/2026",
+      "horario": "16:00",
+      "canal": "Bochas Erechim",
+      "link": "https://www.youtube.com/watch?v=kOlCVDDfemk",
+      "status": "AO VIVO"
+    },
+    {
       "id": "bocha-cbo-2026-02-live",
+      "evento": "TORNEIO INDIVIDUAL 2° FORÇA CANAL BOCHAS - SANTA MARIA",
+      "data": "08/08/2026",
+      "horario": "10:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=a24kUhsh4PM",
+      "status": "AO VIVO"
+    },
+    {
+      "id": "bocha-erechim-2026-01-live",
+      "evento": "Final Torneio Interno E.C.C Esperança. Jair x Marcos",
+      "data": "07/08/2026",
+      "horario": "16:00",
+      "canal": "Bochas Erechim",
+      "link": "https://www.youtube.com/watch?v=Qy0YLu8YPx4",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "bocha-cbo-2026-01-live",
       "evento": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA",
       "data": "31/07/2026",
       "horario": "15:15",
@@ -139,10 +180,21 @@
   ],
   "videos": [
     {
+      "id": "canalbochas-004",
+      "title": "MELHORES MOMENTOS: 38° Torneio Integração João Bastos - Júlio De Castilhos",
+      "duration": "07:36",
+      "image": "https://i.ytimg.com/vi/0YZGiY1qByk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+      "canal": "Canal Bochas",
+      "category": "Bocha",
+      "youtubeId": "0YZGiY1qByk",
+      "description": "38° Torneio Integração João Bastos - Júlio De Castilhos",
+      "hasFlame": true
+    },
+    {
       "id": "canalbochas-003",
       "title": "MELHORES MOMENTOS: Esquenta Braço Individual - Erechim",
       "duration": "04:20",
-      "image": "https://i.ytimg.com/vi/PbzANwhFsmg/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "image": "https://i.ytimg.com/vi/PbzANwhFsmg/hq720.jpg?auto=format&fit=crop&q=80&w=500",
       "canal": "Canal Bochas",
       "category": "Bocha",
       "youtubeId": "PbzANwhFsmg",
@@ -153,7 +205,7 @@
       "id": "canalbochas-002",
       "title": "MELHORES MOMENTOS: 17° Torneio De Raças - Garibaldi",
       "duration": "04:58",
-      "image": "https://i.ytimg.com/vi/k5cqz-ZLhqE/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "image": "https://i.ytimg.com/vi/k5cqz-ZLhqE/hq720.jpg?auto=format&fit=crop&q=80&w=500",
       "canal": "Canal Bochas",
       "category": "Bocha",
       "youtubeId": "k5cqz-ZLhqE",
@@ -164,7 +216,7 @@
       "id": "canalbochas-001",
       "title": "MELHORES MOMENTOS: 38° Torneio Integração João Bastos - Júlio De Castilhos",
       "duration": "07:36",
-      "image": "https://i.ytimg.com/vi/0YZGiY1qByk/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
+      "image": "https://i.ytimg.com/vi/0YZGiY1qByk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
       "canal": "Canal Bochas",
       "category": "Bocha",
       "youtubeId": "0YZGiY1qByk",
