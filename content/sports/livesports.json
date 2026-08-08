@@ -1,5 +1,44 @@
 [ 
   {
+    "id": "berechim-0808",
+    "title": "Final 2º divisão do Municipal Barra do Rio Azul. Palometa x Rio Bonito",
+    "badge": "Bochas Erechim",
+    "dateTime": "08 AGO - 16:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/kOlCVDDfemk/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Final 2º divisão do Municipal Barra do Rio Azul. Palometa x Rio Bonito",
+    "youtubeId": "kOlCVDDfemk",
+    "streamUrl": "https://www.youtube.com/watch?v=kOlCVDDfemk",
+    "featured": true
+  },
+  {
+    "id": "cbochas-0808",
+    "title": "TORNEIO INDIVIDUAL 2° FORÇA CANAL BOCHAS - SANTA MARIA",
+    "badge": "Canal Bochas",
+    "dateTime": "08 AGO - 14:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/a24kUhsh4PM/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "TORNEIO INDIVIDUAL 2° FORÇA CANAL BOCHAS - SANTA MARIA",
+    "youtubeId": "a24kUhsh4PM",
+    "streamUrl": "https://www.youtube.com/watch?v=a24kUhsh4PM",
+    "featured": true
+  },
+  {
+    "id": "futebol-0808-01",
+    "title": "Atlântico FC x Pé na Lama FC AO VIVO | Final | Futebol de Campo Masculino",
+    "badge": "Jogos da Cidade de Sao Paulo",
+    "dateTime": "08 AGO - 13:00",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/MC3rVlihY3I/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "Atlântico FC x Pé na Lama FC AO VIVO | Final | Futebol de Campo Masculino",
+    "youtubeId": "MC3rVlihY3I",
+    "streamUrl": "https://www.youtube.com/watch?v=MC3rVlihY3I",
+    "featured": true
+  },
+  {
     "id": "cbochas-0208",
     "title": "2° TORNEIO FEMININO DE BOCHAS (MUNDIAL) - SANTA MARIA - FINAL",
     "badge": "Canal Bochas",
