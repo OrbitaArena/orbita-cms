@@ -6,20 +6,20 @@
       "name": "Boston Cannons",
       "abbreviation": "BOS",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122997.png",
-      "score": 0
+      "score": 14
     },
     "awayTeam": {
       "name": "Maryland Whipsnakes",
       "abbreviation": "WHS",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127638.png",
-      "score": 0
+      "score": 12
     },
     "date": "Sexta-feira, 07/08/2026",
     "time": "19:00",
-    "status": "PRÓXIMO JOGO",
+    "status": "ENCERRADO",
     "venue": "Peter Barton Stadium, Denver CO",
     "broadcaster": "Disney+",
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
     "apiId": "401867224",
@@ -28,20 +28,20 @@
       "name": "Utah Archers",
       "abbreviation": "UTA",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127631.png",
-      "score": 0
+      "score": 13
     },
     "awayTeam": {
       "name": "Carolina Chaos",
       "abbreviation": "CHA",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127634.png",
-      "score": 0
+      "score": 12
     },
     "date": "Sexta-feira, 07/08/2026",
     "time": "21:30",
-    "status": "PRÓXIMO JOGO",
+    "status": "ENCERRADO",
     "venue": "Peter Barton Stadium, Denver CO",
     "broadcaster": "Disney+",
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
     "apiId": "401867225",
@@ -50,20 +50,20 @@
       "name": "New York Atlas",
       "abbreviation": "ATL",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/127632.png",
-      "score": 0
+      "score": 9
     },
     "awayTeam": {
       "name": "Denver Outlaws",
       "abbreviation": "DEN",
       "logo": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/pll/500/122896.png",
-      "score": 0
+      "score": 14
     },
     "date": "Sábado, 08/08/2026",
     "time": "14:00",
-    "status": "PRÓXIMO JOGO",
+    "status": "ENCERRADO",
     "venue": "Peter Barton Stadium, Denver CO",
     "broadcaster": "Disney+",
-    "isUpcoming": true
+    "isUpcoming": false
   },
   {
     "apiId": "401867260",
