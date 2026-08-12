@@ -39,6 +39,45 @@
     "featured": true
   },
   {
+    "id": "nbabrasil-wnba-1408",
+    "title": "WNBA AO VIVO: Dallas Wings x Indiana Fever | COM IMAGENS",
+    "badge": "NBA Brasil",
+    "dateTime": "14 AGO - 20:30",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/9bl01rNrEFY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Prepare-se para assistir a uma partida incrível entre Dallas Wings e Indiana Fever",
+    "youtubeId": "9bl01rNrEFY",
+    "streamUrl": "https://www.youtube.com/watch?v=9bl01rNrEFY",
+    "featured": true
+  },
+  {
+    "id": "nbabrasil-classicos-1308",
+    "title": "NBA AO VIVO COM IMAGENS: Indiana Pacers x New York Knicks (1995) | JOGOS CLÁSSICOS",
+    "badge": "NBA Brasil",
+    "dateTime": "13 AGO - 18:00",
+    "category": "Basquete",
+    "image": "https://i.ytimg.com/vi/WEWh3tQ-zjA/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Confira o Jogo 1 dos JOGOS CLÁSSICOS completo entre Indiana Pacers e New York Knicks, disputado em 07 de maio de 1995.",
+    "youtubeId": "WEWh3tQ-zjA",
+    "streamUrl": "https://www.youtube.com/watch?v=WEWh3tQ-zjA",
+    "featured": true
+  },  
+  {
+    "id": "live-uol-rugby-1208",
+    "title": "BRASIL X USA FALCONS | AMISTOSO DA SELEÇÃO FEMININA DE RUGBY",
+    "badge": "UOL Esportes",
+    "dateTime": "12 AGO - 15:00",
+    "category": "Rugby",
+    "image": "https://i.ytimg.com/vi/dqBTPKHmeuw/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Acompanhe ao vivo o amistoso internacional entre a Seleção Brasileira Feminina de Rugby, as Yaras, e a equipe USA Falcons.",
+    "youtubeId": "dqBTPKHmeuw",
+    "streamUrl": "https://www.youtube.com/watch?v=dqBTPKHmeuw",
+    "featured": true
+  },
+  {
     "id": "berechim-0808",
     "title": "Final 2º divisão do Municipal Barra do Rio Azul. Palometa x Rio Bonito",
     "badge": "Bochas Erechim",
