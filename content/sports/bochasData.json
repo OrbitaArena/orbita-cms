@@ -179,6 +179,17 @@
     }
   ],
   "videos": [
+        {
+      "id": "canalbochas-005",
+      "title": "MELHORES MOMENTOS: Torneio Individual 2° Força Canal Bochas - Santa Maria",
+      "duration": "08:13",
+      "image": "https://i.ytimg.com/vi/cV0rnvNrLMY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+      "canal": "Canal Bochas",
+      "category": "Bocha",
+      "youtubeId": "cV0rnvNrLMY",
+      "description": "Torneio Individual 2° Força Canal Bochas - Santa Maria",
+      "hasFlame": true
+    },
     {
       "id": "canalbochas-004",
       "title": "MELHORES MOMENTOS: 38° Torneio Integração João Bastos - Júlio De Castilhos",
