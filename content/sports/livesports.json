@@ -77,6 +77,19 @@
     "streamUrl": "https://www.youtube.com/watch?v=mjCX7yxSuwA",
     "featured": true
   },
+{
+  "id": "live-new-281",
+  "title": "Final Municipal Feminino de Equipe de Erechim. Piscina Clube x Esperança/Proty",
+  "badge": "Bochas Erechim",
+  "dateTime": "12 AGO - 19:00",
+  "category": "Bocha",
+  "image": "https://i.ytimg.com/vi/EX2KYFvkbNI/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+  "isLive": true,
+  "videoUrlPlaceholder": "Final Municipal Feminino de Equipe de Erechim. Piscina Clube x Esperança/Proty",
+  "youtubeId": "EX2KYFvkbNI",
+  "streamUrl": "https://www.youtube.com/watch?v=EX2KYFvkbNI",
+  "featured": true
+},
   {
     "id": "live-uol-rugby-1208",
     "title": "BRASIL X USA FALCONS | AMISTOSO DA SELEÇÃO FEMININA DE RUGBY",
@@ -84,7 +97,7 @@
     "dateTime": "12 AGO - 15:00",
     "category": "Rugby",
     "image": "https://i.ytimg.com/vi/dqBTPKHmeuw/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": true,
+    "isLive": false,
     "videoUrlPlaceholder": "Acompanhe ao vivo o amistoso internacional entre a Seleção Brasileira Feminina de Rugby, as Yaras, e a equipe USA Falcons.",
     "youtubeId": "dqBTPKHmeuw",
     "streamUrl": "https://www.youtube.com/watch?v=dqBTPKHmeuw",
