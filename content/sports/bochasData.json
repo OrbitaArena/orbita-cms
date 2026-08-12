@@ -141,6 +141,15 @@
     }    
   ],
   "jogosBochas": [
+  {
+      "id": "bocha-erechim-2026-03-live",
+      "evento": "Final Municipal Feminino de Equipe de Erechim. Piscina Clube x Esperança/Proty",
+      "data": "12/08/2026",
+      "horario": "20:00",
+      "canal": "Bochas Erechim",
+      "link": "https://www.youtube.com/watch?v=DZ58WlLWqYw",
+      "status": "AO VIVO"
+    },
     {
       "id": "bocha-erechim-2026-02-live",
       "evento": "Final 2º divisão do Municipal Barra do Rio Azul. Palometa x Rio Bonito",
@@ -148,7 +157,7 @@
       "horario": "16:00",
       "canal": "Bochas Erechim",
       "link": "https://www.youtube.com/watch?v=kOlCVDDfemk",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-cbo-2026-02-live",
@@ -157,7 +166,7 @@
       "horario": "10:00",
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/watch?v=a24kUhsh4PM",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-erechim-2026-01-live",
