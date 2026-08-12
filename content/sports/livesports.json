@@ -63,7 +63,20 @@
     "youtubeId": "WEWh3tQ-zjA",
     "streamUrl": "https://www.youtube.com/watch?v=WEWh3tQ-zjA",
     "featured": true
-  },  
+  },
+  {
+    "id": "bocha-sidera-1208",
+    "title": "MUNICIPAL DE BOCHA SIDERÓPOLIS - SÃO MARTINHO ALTO X ESTRELA",
+    "badge": "Sidera",
+    "dateTime": "12 AGO - 19:30",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/mjCX7yxSuwA/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "MUNICIPAL DE BOCHA SIDERÓPOLIS - SÃO MARTINHO ALTO X ESTRELA",
+    "youtubeId": "mjCX7yxSuwA",
+    "streamUrl": "https://www.youtube.com/watch?v=mjCX7yxSuwA",
+    "featured": true
+  },
   {
     "id": "live-uol-rugby-1208",
     "title": "BRASIL X USA FALCONS | AMISTOSO DA SELEÇÃO FEMININA DE RUGBY",
