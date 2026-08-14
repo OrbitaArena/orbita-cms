@@ -13,6 +13,19 @@
     "featured": true
   },
   {
+    "id": "cazetv-supercopa-1608",
+    "title": "AO VIVO: PSG X LENS | FINAL DA SUPERCOPA DA FRANÇA",
+    "badge": "CazéTV",
+    "dateTime": "16 AGO - 14:15",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/rlPrTsnFKr4/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "Paris Saint-Germain x Lens AO VIVO E COM IMAGENS valendo o título da Supercopa da França!",
+    "youtubeId": "rlPrTsnFKr4",
+    "streamUrl": "https://www.youtube.com/watch?v=rlPrTsnFKr4",
+    "featured": true
+  },
+  {
     "id": "piahtv-1608",
     "title": "SUPERLIGA FEMININA DE FUTEBOL AMERICANO - CURITIBA SILVERHAWKS X CURITIBA PHOENIX",
     "badge": "Piah TV",
@@ -78,6 +91,19 @@
     "featured": true
   },
   {
+    "id": "live-futsal-1408",
+    "title": "SEMIFINAIS 2ª COPA PUBGOL FUT 7 2026",
+    "badge": "Jogo Decisivo",
+    "dateTime": "14 AGO - 19:20",
+    "category": "Futsal",
+    "image": "https://i.ytimg.com/vi/v4XeYo4CLWY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "SEMIFINAIS 2ª COPA PUBGOL FUT 7 2026",
+    "youtubeId": "v4XeYo4CLWY",
+    "streamUrl": "https://www.youtube.com/watch?v=v4XeYo4CLWY",
+    "featured": false
+  },
+  {
     "id": "cbochas-1408",
     "title": "ESQUENTA BRAÇO DE DUPLAS - JAGUARI",
     "badge": "Canal Bochas",
@@ -88,6 +114,19 @@
     "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: ESQUENTA BRAÇO DE DUPLAS - JAGUARI",
     "youtubeId": "ijLWJVQN-QU",
     "streamUrl": "https://www.youtube.com/watch?v=ijLWJVQN-QU",
+    "featured": true
+  },
+  {
+    "id": "live-padel-1408",
+    "title": "BRASIL X EQUADOR - AMERICA PADEL CUP - JOGO 1",
+    "badge": "Programa PLAY BT",
+    "dateTime": "14 AGO - 18:00",
+    "category": "Padel",
+    "image": "https://i.ytimg.com/vi/fBaoNqJw5VI/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "BRASIL X EQUADOR - AMERICA PADEL CUP - JOGO 1",
+    "youtubeId": "fBaoNqJw5VI",
+    "streamUrl": "https://www.youtube.com/watch?v=fBaoNqJw5VI",
     "featured": true
   },
   {
