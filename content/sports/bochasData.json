@@ -98,6 +98,21 @@
   ],
   "campeonatos": [
     {
+      "id": "bocha-cbo-ago26-3",
+      "nome": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI",
+      "local": "Jaguari - RS",
+      "dataExibicao": "14 a 16 de Agosto de 2026",
+      "datasIndividuais": ["14/08/2026", "15/08/2026", "16/08/2026"],
+      "horario": "09:00",
+      "categoria": "Trios",
+      "regra": "Panamericana",
+      "premiacao": "1° R$ 4.000, 2° R$ 3.000, 3° R$ 1.000",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/@CanalBochas",
+      "banner": "https://i.ytimg.com/vi/y8zUQw-msSw/hq720.jpg",
+      "status": "AGENDADO"
+    },
+    {
       "id": "bocha-cbo-ago26-2",
       "nome": "TORNEIO INDIVIDUAL 2° FORÇA CANAL BOCHAS - SANTA MARIA",
       "local": "Santa Maria - RS",
@@ -105,11 +120,11 @@
       "datasIndividuais": ["08/08/2026"],
       "horario": "10:00",
       "categoria": "Individual",
-      "premiacao": "1° R$ 1.300, 2° R$ 700, Copo Stanley Personalizado",
+      "premiacao": "1° R$ 1.300, 2° R$ 700, 3° Copo Stanley Personalizado",
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/@CanalBochas",
       "banner": "https://i.ytimg.com/vi/a24kUhsh4PM/hq720.jpg",
-      "status": "ANDAMENTO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-admidom-ago26",
@@ -123,7 +138,7 @@
       "canal": "Amigos do Dom",
       "link": "https://www.facebook.com/amigosdodom",
       "banner": "https://scontent.ffor4-1.fna.fbcdn.net/v/t39.30808-6/758964171_982238471512894_5722504978441716984_n.jpg?stp=dst-jpg_tt6&cstp=mx853x1280&ctp=s853x1280&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=4-YmVJHGcSwQ7kNvwF2E671&_nc_oc=AdpwtVBK3zZWULu7ojqqBnnsODTMT0uLu7DDr2C0J51Ew4hJmA3nPuMnBcJP3GkgK8I2GyqfA046U8XrUrob8pxH&_nc_zt=23&_nc_ht=scontent.ffor4-1.fna&_nc_gid=cQbVzPV-lKl9Gf8zDDqRAw&_nc_ss=7b289&oh=00_AQHaIEqLDFWZeqMC6cBTjtKgBLAhyY7vohfHuZRvUcdi3A&oe=6A71E3EB",
-      "status": "ANDAMENTO"
+      "status": "ENCERRADO"
     },    
     {
       "id": "bocha-cbo-ago26",
@@ -141,6 +156,34 @@
     }    
   ],
   "jogosBochas": [
+
+  {
+      "id": "bocha-cbo-2026-04-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI",
+      "data": "15/08/2026",
+      "horario": "09:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=y8zUQw-msSw",
+      "status": "AO VIVO"
+    },
+    {
+      "id": "bocha-webtv-2026-01-live",
+      "evento": "CAMINHO DO MORRO X CANCHA SCHNEIDER | FINAL (TAÇA OURO) | MUNICIPAL DE BOCHA - DONA EMMA",
+      "data": "14/08/2026",
+      "horario": "19:30",
+      "canal": "VM Web TV",
+      "link": "https://www.youtube.com/watch?v=c1Tdl2pqTKs",
+      "status": "AO VIVO"
+    },
+  {
+      "id": "bocha-cbo-2026-03-live",
+      "evento": "ESQUENTA BRAÇO DE DUPLAS - JAGUARI",
+      "data": "14/08/2026",
+      "horario": "18:30",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=ijLWJVQN-QU",
+      "status": "AO VIVO"
+    },
   {
       "id": "bocha-erechim-2026-03-live",
       "evento": "Final Municipal Feminino de Equipe de Erechim. Piscina Clube x Esperança/Proty",
@@ -148,7 +191,7 @@
       "horario": "20:00",
       "canal": "Bochas Erechim",
       "link": "https://www.youtube.com/watch?v=DZ58WlLWqYw",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-erechim-2026-02-live",
