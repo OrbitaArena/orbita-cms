@@ -1,0 +1,36 @@
+{
+  "torneios": [
+    {
+      "id": "padel-ago26",
+      "nome": "AMERICA PADEL CUP",
+      "local": "Itajaí - SC",
+      "dataExibicao": "14 a 16 de Agosto de 2026",
+      "datasIndividuais": ["14/08/2026", "15/08/2026", "16/08/2026"],
+      "horario": "16:00",
+      "esporte": "Padel",
+      "categoria": "",
+      "regra": "",
+      "premiacao": "",
+      "canal": "Programa PLAY BT",
+      "link": "https://www.youtube.com/@ProgramaPLAYBT/streams",
+      "banner": "https://i.ytimg.com/vi/zlQdF14VawY/hq720.jpg",
+      "status": "ANDAMENTO"
+    },
+    {
+      "id": "bocha-cbo-ago26-001",
+      "nome": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI",
+      "local": "Jaguari - RS",
+      "dataExibicao": "14 a 16 de Agosto de 2026",
+      "datasIndividuais": ["14/08/2026", "15/08/2026", "16/08/2026"],
+      "horario": "09:00",
+      "esporte": "Bocha",
+      "categoria": "Trios",
+      "regra": "Panamericana",
+      "premiacao": "1° R$ 4.000, 2° R$ 3.000, 3° R$ 1.000",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/@CanalBochas",
+      "banner": "https://i.ytimg.com/vi/y8zUQw-msSw/hq720.jpg",
+      "status": "ANDAMENTO"
+    }
+  ]
+}
