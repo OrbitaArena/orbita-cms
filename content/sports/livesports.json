@@ -65,6 +65,19 @@
     "featured": true
   },
   {
+    "id": "goat-nwsl-1408",
+    "title": "GOTHAM FC X KC CURRENT | AO VIVO E COM IMAGENS | NWSL",
+    "badge": "Canal GOAT",
+    "dateTime": "14 AGO - 21:00",
+    "category": "Futebol",
+    "image": "https://i.ytimg.com/vi/FLd2tvROSwY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": true,
+    "videoUrlPlaceholder": "O GOTHAM FC encara o KC CURRENT em partida válida pela NWSL! Assista AO VIVO e COM IMAGENS na tela do Canal GOAT!",
+    "youtubeId": "FLd2tvROSwY",
+    "streamUrl": "https://www.youtube.com/watch?v=FLd2tvROSwY",
+    "featured": true
+  },
+  {
     "id": "nbabrasil-wnba-1408",
     "title": "WNBA AO VIVO: Dallas Wings x Indiana Fever | COM IMAGENS",
     "badge": "NBA Brasil",
@@ -96,11 +109,24 @@
     "badge": "Jogo Decisivo",
     "dateTime": "14 AGO - 19:20",
     "category": "Futsal",
-    "image": "https://i.ytimg.com/vi/v4XeYo4CLWY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "image": "https://i.ytimg.com/vi/v4XeYo4CLWY/hqdefault.jpg?auto=format&fit=crop&q=80&w=500",
     "isLive": true,
     "videoUrlPlaceholder": "SEMIFINAIS 2ª COPA PUBGOL FUT 7 2026",
     "youtubeId": "v4XeYo4CLWY",
     "streamUrl": "https://www.youtube.com/watch?v=v4XeYo4CLWY",
+    "featured": false
+  },
+  {
+    "id": "bochaserechim-1408",
+    "title": "Final Municipal Feminino da Barra do Rio Azul. Paloma x Bela Vista",
+    "badge": "Bochas Erechim",
+    "dateTime": "14 AGO - 19:00",
+    "category": "Bocha",
+    "image": "https://i.ytimg.com/vi/Epcqbax0N3U/hq720.jpg?auto=format&fit=crop&q=80&w=500",
+    "isLive": false,
+    "videoUrlPlaceholder": "Final Municipal Feminino da Barra do Rio Azul. Paloma x Bela Vista",
+    "youtubeId": "Epcqbax0N3U",
+    "streamUrl": "https://www.youtube.com/watch?v=Epcqbax0N3U",
     "featured": false
   },
   {
