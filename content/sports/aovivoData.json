@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "id": "stream-1",
+      "date": "2026-08-15",
+      "matchId": "bsd-10069",
+      "homeTeam": "Juventude",
+      "awayTeam": "Fortaleza",
+      "youtubeId": "7BXXw_h75cA",
+      "title": "JUVENTUDE X FORTALEZA | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
+      "channel": "Canal GOAT",
+      "sport": "Futebol",
+      "league": "Brasileirão Série B",
+      "active": true
+    },
+    {
+      "id": "stream-2",
+      "date": "2026-08-14",
+      "matchId": "bsd-216406",
+      "homeTeam": "NJ/NY Gotham FC",
+      "awayTeam": "Kansas City Current",
+      "youtubeId": "FLd2tvROSwY",
+      "title": "GOTHAM FC X KC CURRENT | AO VIVO E COM IMAGENS | NWSL",
+      "channel": "Canal GOAT",
+      "sport": "Futebol",
+      "league": "NWSL",
+      "active": true
+    }
+  ]
+}
