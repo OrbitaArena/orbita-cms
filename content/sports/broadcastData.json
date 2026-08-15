@@ -1,6 +1,17 @@
 {
   "broadcastOverrides": [
     {
+      "matchId": "216406",
+      "home": "NJ/NY Gotham FC",
+      "away": "Kansas City Current",
+      "league": "NWSL",
+      "channels": [
+        "Canal GOAT",
+        "Betano"
+      ],
+      "active": true
+    },
+    {
       "matchId": "223512",
       "home": "Newell's Old Boys",
       "away": "Boca Juniors",
