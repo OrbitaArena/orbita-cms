@@ -110,7 +110,7 @@
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/@CanalBochas",
       "banner": "https://i.ytimg.com/vi/y8zUQw-msSw/hq720.jpg",
-      "status": "AGENDADO"
+      "status": "ANDAMENTO"
     },
     {
       "id": "bocha-cbo-ago26-2",
@@ -173,7 +173,16 @@
       "horario": "19:30",
       "canal": "VM Web TV",
       "link": "https://www.youtube.com/watch?v=c1Tdl2pqTKs",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "bocha-erechim-2026-04-live",
+      "evento": "Final Municipal Feminino da Barra do Rio Azul. Paloma x Bela Vista",
+      "data": "14/08/2026",
+      "horario": "19:00",
+      "canal": "Bochas Erechim",
+      "link": "https://www.youtube.com/watch?v=Epcqbax0N3U",
+      "status": "ENCERRADO"
     },
   {
       "id": "bocha-cbo-2026-03-live",
@@ -182,7 +191,7 @@
       "horario": "18:30",
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/watch?v=ijLWJVQN-QU",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
     },
   {
       "id": "bocha-erechim-2026-03-live",
