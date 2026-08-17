@@ -67,7 +67,7 @@
       "streamUrl": "https://www.youtube.com/@MaiconQuintana",
       "image": "https://yt3.googleusercontent.com/Zqkk8P2eKeQ_H0g3Y1M7p_Tb9id0UIThJ-TJ11r4AHio_4MR13n5HGWISYwxtDBHo6bqoqfKGw=s160-c-k-c0x00ffffff-no-rj",
       "summary": "Cobertura vibrante de eventos de bocha e transmissões com Maicon Quintana.",
-      "isLive": false,
+      "isLive": true,
       "socials": {
         "youtube": "https://www.youtube.com/@MaiconQuintana",
         "instagram": "",
@@ -110,7 +110,7 @@
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/@CanalBochas",
       "banner": "https://i.ytimg.com/vi/y8zUQw-msSw/hq720.jpg",
-      "status": "ANDAMENTO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-cbo-ago26-2",
@@ -156,7 +156,60 @@
     }    
   ],
   "jogosBochas": [
-
+    {
+      "id": "bocha-cbo-2026-08-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - SEMIFINAL / FINAL",
+      "data": "16/08/2026",
+      "horario": "20:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=eI-QWLXQ_14",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "bocha-erechim-2026-05-live",
+      "evento": "Final Municipal Barra do Rio Azul. Paloma x Bela Vista",
+      "data": "16/08/2026",
+      "horario": "15:00",
+      "canal": "Bochas Erechim",
+      "link": "https://www.youtube.com/watch?v=K8ifYZdhe78",
+      "status": "ENCERRADO"
+    },
+  {
+      "id": "bocha-cbo-2026-08-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - 5° FASE",
+      "data": "16/08/2026",
+      "horario": "14:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=eI-QWLXQ_14",
+      "status": "ENCERRADO"
+    },
+  {
+      "id": "bocha-cbo-2026-07-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - 4° FASE",
+      "data": "16/08/2026",
+      "horario": "09:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=c3H-BMtZOw0",
+      "status": "ENCERRADO"
+    },
+  {
+      "id": "bocha-cbo-2026-06-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - 3° FASE",
+      "data": "15/08/2026",
+      "horario": "19:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=_EUh-wjFaRM",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "bocha-cbo-2026-05-live",
+      "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - 2° FASE",
+      "data": "15/08/2026",
+      "horario": "15:00",
+      "canal": "Canal Bochas",
+      "link": "https://www.youtube.com/watch?v=42Jv50MmXcM",
+      "status": "ENCERRADO"
+    },
   {
       "id": "bocha-cbo-2026-04-live",
       "evento": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI",
@@ -164,7 +217,7 @@
       "horario": "09:00",
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/watch?v=y8zUQw-msSw",
-      "status": "AO VIVO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-webtv-2026-01-live",
