@@ -14,7 +14,7 @@
       "canal": "Programa PLAY BT",
       "link": "https://www.youtube.com/@ProgramaPLAYBT/streams",
       "banner": "https://i.ytimg.com/vi/zlQdF14VawY/hq720.jpg",
-      "status": "ANDAMENTO"
+      "status": "ENCERRADO"
     },
     {
       "id": "bocha-cbo-ago26-001",
@@ -30,7 +30,71 @@
       "canal": "Canal Bochas",
       "link": "https://www.youtube.com/@CanalBochas",
       "banner": "https://i.ytimg.com/vi/y8zUQw-msSw/hq720.jpg",
-      "status": "ANDAMENTO"
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "opensertao-001",
+      "nome": "2° OPEN SERTÃO BEACH",
+      "local": "Jaguaribe, CE",
+      "dataExibicao": "13 a 16 de Agosto de 2026",
+      "datasIndividuais": ["13/08/2026", "14/08/2026", "15/08/2026", "16/08/2026"],
+      "horario": "",
+      "esporte": "Beach Tennis",
+      "categoria": "",
+      "regra": "",
+      "premiacao": "",
+      "canal": "Play com Amigos",
+      "link": "https://www.youtube.com/@playcomamigos/streams",
+      "banner": "https://i.ytimg.com/vi/nF55E_1dMVc/hq720.jpg",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "beisebol-001",
+      "nome": "XXII Campeonato Paulista de Beisebol Adulto",
+      "local": "São Paulo, SP",
+      "dataExibicao": "15 e 16 de Agosto de 2026",
+      "datasIndividuais": ["15/08/2026", "16/08/2026"],
+      "horario": "",
+      "esporte": "Beisebol",
+      "categoria": "",
+      "regra": "",
+      "premiacao": "",
+      "canal": "Federação Paulista de Beisebol e Softbol",
+      "link": "https://www.youtube.com/@fpbsbrasil/streams",
+      "banner": "https://i.ytimg.com/vi/mls2F1TQoH4/hq720.jpg",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "badminton-002",
+      "nome": "2º Campeonato Nacional de Airbadminton",
+      "local": "Toledo, PR",
+      "dataExibicao": "15 e 16 de Agosto de 2026",
+      "datasIndividuais": ["15/08/2026", "16/08/2026"],
+      "horario": "",
+      "esporte": "Badminton",
+      "categoria": "Trios",
+      "regra": "",
+      "premiacao": "",
+      "canal": "Confederação Brasileira de Badminton",
+      "link": "https://www.youtube.com/@tvcbbd/streams",
+      "banner": "https://i.ytimg.com/vi/PprQDOB-C30/hq720.jpg",
+      "status": "ENCERRADO"
+    },
+    {
+      "id": "badminton-001",
+      "nome": "3ª Etapa do Circuito Nacional Badminton Por Equipes",
+      "local": "Toledo, PR",
+      "dataExibicao": "12 a 16 de Agosto de 2026",
+      "datasIndividuais": ["12/08/2026", "13/08/2026", "14/08/2026", "15/08/2026", "16/08/2026"],
+      "horario": "",
+      "esporte": "Badminton",
+      "categoria": "Equipes Mistas",
+      "regra": "",
+      "premiacao": "",
+      "canal": "Confederação Brasileira de Badminton",
+      "link": "https://www.youtube.com/@tvcbbd/streams",
+      "banner": "https://i.ytimg.com/vi/lHbIiH2MI9I/hq720.jpg",
+      "status": "ENCERRADO"
     }
   ]
 }
