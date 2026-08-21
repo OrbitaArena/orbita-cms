@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ticker-1",
+    "category": "MLB",
+    "topic": "Rangers",
+    "headline": "Pitcher \"Jacob deGrom\" chega a marca de 2,000 strikeouts",
+    "timestamp": "20/ago",
+    "categoryColor": "bg-blue-600 text-white border-blue-400"
+  },
+  {
+    "id": "ticker-2",
+    "category": "FUT",
+    "topic": "Virada Épica",
+    "headline": "Vasco goleia o Olímpia e se classifica na Sul-Americana",
+    "timestamp": "20/ago",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-3",
+    "category": "FUT",
+    "topic": "Corinthians",
+    "headline": "Corinthians renova com Memphis Depay por mais 2 temporadas",
+    "timestamp": "20/ago",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-4",
+    "category": "FEM",
+    "topic": "Copa 2027",
+    "headline": "FIFA divulga calendário de jogos da Copa do Mundo Feminina 2027",
+    "timestamp": "19/ago",
+    "categoryColor": "bg-pink-600 text-white border-pink-400"
+  },
+  {
+    "id": "ticker-5",
+    "category": "NEWS",
+    "topic": "Mídia Esportiva",
+    "headline": "Victoria Leite deixa CazeTV e assina com TNT Sports",
+    "timestamp": "14/ago",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
+  }
+]
