@@ -1,75 +1,53 @@
 # JOGOS DE HOJE
 
-## Domingo, 2/ago
+## Sábado, 22/ago
 
-04:00 - Mundial Lacrosse F: Israel x Haudenosaunee • Bronze (📺 WL TV)
+08:30 - Premier League: Hull City x Manchester United (📺 ESPN)
 
-04:40 - VNL: Japão x Eslovênia • Bronze (📺 SPORTV2)
+11:00 - Premier League: Everton x Crystal Palace (📺 ESPN BRASIL YT)
 
-07:00 - Mundial Lacrosse F: EUA x Canadá • FINAL (📺 WL TV)
+11:00 - Championship: West Ham x Charlton (📺 ESPN4, BETANO)
 
-08:30 - VNL: EUA x Polônia • FINAL (📺 SPORTV2)
+12:00 - La Liga: Athletic Bilbao x Sevilla (📺 CAZÉTV)
 
-10:00 - Senior League Baseball: Toda a janela de jogos (📺 DISNEY+)
+13:00 - NFL: Detroit Lions x Washington Commanders (📺 Disney+)
 
-10:45 - Ciclismo: Tour de France F • Etapa 2 (📺 ESPN3)
+13:30 - Premier League: Brentford x Tottenham (📺 DISNEY+)
 
-11:00 - LBF: Campinas x Sampaio • Jogo 4 (📺 ESPN4, TVBRASIL)
+15:45 - Supercopa Alemã: Dortmund x Bayern Munique (📺 SPORTV, CAZÉTV, XSPORTS)
 
-11:00 - Brasileirão F: Palmeiras x Internacional (📺 SPORTV)
+16:00 - Brasileirão Série A: Fluminense x Remo (📺 PREMIERE)
 
-11:00 - Brasileirão F: Santos x Juventude (📺 XSPORTS)
+16:00 - Serie A ITA: Genoa x Napoli (📺 ESPN, DISNEY+)
 
-11:00 - Little League Softball World Series: Toda a janela de jogos (📺 DISNEY+)
+16:30 - La Liga: Espanyol x Real Madrid (📺 CAZÉTV)
 
-12:00 - Uruguaio: Racing x Boston River (📺 DISNEY+)
+16:30 - Português: Sporting x Alverca (📺 ESPN4, DISNEY+)
 
-12:15 - Russo: Krasnodar x Voronezh (📺 GOL BRASIL)
+17:00 - Brasileirão Série C: Ituano-SP x Paysandu (📺 BAND, SPORTYNET)
 
-13:00 - Supercopa HOL: PSV x AZ Alkmaar • FINAL (📺 NSPORTS)
+17:00 - Brasileirão Série D: Uberlândia x ABC (📺 Metrópoles)
 
-13:00 - Amistoso: Wrexham x Sunderland (📺 SPORTYNET)
+18:00 - Brasileirão Série B: Ceará x Londrina (📺 ESPN, DISNEY+)
 
-13:00 - Intermediate League Baseball: Toda a janela de jogos (📺 DISNEY+)
+18:00 - Brasileirão F: Cruzeiro x Palmeiras (📺 SPORTV3)
 
-14:00 - Junior League Softball: Toda a janela de jogos (📺 DISNEY+)
+18:00 - Brasileirão F: Flamengo x Atlético-MG (📺 TVBRASIL)
 
-14:00 - WNBA: Minnesota Lynx x Indiana Fever (📺 ESPN4)
+18:30 - Brasileirão Série A: Internacional x Atlético/MG (📺 SPORTV, PREMIERE)
 
-14:30 - Russo: Akhmat Grozny x Spartak Moscow (📺 XSPORTS)
+18:30 - Brasileirão Série B: Cuiabá x Goiás (📺 DISNEY+)
 
-16:00 - Copa do Brasil: Palmeiras x Fortaleza • OF IDA (📺 SPORTV, GLOBO, AMAZON)
+18:30 - Uruguaio: Deportivo Maldonado x Peñarol (📺 DISNEY+)
 
-16:00 - PLL Lacrosse: Atlas x Redwoods (📺 Disney+)
+19:30 - Brasileirão Série C: Santa Cruz x Caxias (📺 SPORTYNET)
 
-17:00 - Amistoso: Liverpool x Leeds (📺 SPORTYNET)
+20:00 - NFL: Philadelphia Eagles x New England Patriots (📺 ESPN2, ESPN4, Disney+)
 
-17:00 - Argentino: Newell's Old Boys x Boca Juniors (📺 ESPN)
+20:15 - MLB: Los Angeles Dodgers x Pittsburgh Pirates (📺 Disney+)
 
-17:00 - NWSL: Washington Spirit x San Diego Wave (📺 XSPORTS, GOAT)
+21:45 - NWSL: Portland Thorns x Denver Summit (📺 GOAT)
 
-18:00 - Copa do Brasil: Mirassol x Grêmio • OF IDA (📺 AMAZON)
-
-18:00 - Brasileirão F: Ferroviária x Bahia (📺 NSPORTS)
-
-18:30 - Copa do Brasil: Chapecoense x Cruzeiro • OF IDA (📺 SPORTV, PREMIERE)
-
-19:15 - Argentino: River Plate x Rosario Central (📺 ESPN)
-
-19:30 - Copa do Brasil: Internacional x Corinthians • OF IDA (📺 AMAZON)
-
-20:00 - MLB: Boston Red Sox x Los Angeles Dodgers (📺 ESPN3, DISNEY+)
-
-20:00 - Mexicano: América x Santos Laguna (📺 SPORTYNET)
-
-20:00 - WNBA: Dallas Wings x Connecticut Sun (📺 ESPN4)
-
-21:00 - LMB: Pericos de Puebla x Leones de Yucatán (📺 DISNEY+)
-
-22:00 - Mexicano: Toluca x Necaxa (📺 SPORTYNET)
-
-22:00 - LMB: Saraperos de Saltillo x Tecos de los Dos Laredos (📺 DISNEY+)
-
-22:00 - NWSL: Denver Summit x Boston Legacy (📺 ESPN4)
+22:30 - Brasileirão Série A: Cruzeiro x Flamengo (📺 AMAZON)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
