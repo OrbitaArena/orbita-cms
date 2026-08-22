@@ -20,7 +20,7 @@ Sábado, 22/ago
 
 Domingo, 23/ago
 
-20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3)
+20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
 
 ## BEISEBOL E SOFTBOL NO DISNEY+
 
