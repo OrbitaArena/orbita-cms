@@ -30,6 +30,8 @@ Segunda, 24/ago
 
 ## BRASILEIRO SÉRIE B
 
+Sábado, 22/ago
+
 18:00 - Brasileirão Série B: Ceará x Londrina (📺 ESPN, DISNEY+)
 
 18:30 - Brasileirão Série B: Cuiabá x Goiás (📺 DISNEY+)
@@ -45,6 +47,8 @@ Domingo, 23/ago
 18:30 - Brasileirão Série B: Criciúma x Fortaleza (📺 ESPN, SPORTYNET, XSPORTS, DISNEY+)
 
 ## BRASILEIRO SÉRIE C
+
+Sábado, 22/ago
 
 17:00 - Brasileirão Série C: Botafogo-PB x Guarani (📺 SPORTYNET+, CANAL DO BENJA)
 
@@ -70,6 +74,8 @@ Domingo, 23/ago
 
 ## BRASILEIRO SÉRIE D
 
+Sábado, 22/ago
+
 17:00 - Brasileirão Série D: Uberlândia x ABC (📺 Metrópoles)
 
 Domingo, 23/ago
@@ -87,8 +93,6 @@ Sábado, 22/ago
 15:00 - Saudita: Al-Ahli x Abha (📺 BAND, GOAT)
 
 15:00 - Uruguaio: Cerro Largo x Defensor Sp. (📺 DISNEY+)
-
-15:45 - Supercopa Alemã: Dortmund x Bayern Munique (📺 SPORTV, CAZÉTV, XSPORTS)
 
 16:00 - Argentino: Gimnasia La Plata x Gimnasia Mendoza (📺 DISNEY+)
 
@@ -192,7 +196,7 @@ Domingo, 23/ago
 
 14:30 - La Liga: Getafe x Racing Santander (📺 CAZÉTV)
 
-15:45- Ligue 1: Rennes x PSG (📺 CAZÉTV, XSPORTS)
+15:45 - Ligue 1: Rennes x PSG (📺 CAZÉTV, XSPORTS)
 
 15:45 - Serie A ITA: Atalanta x Sassuolo (📺 DISNEY+, ESPN BRASIL YT)
 
@@ -207,6 +211,8 @@ Domingo, 23/ago
 Sábado, 22/ago
 
 13:00 - Copa Alemanha: Eintracht Trier x RB Leipzig (📺 DISNEY+)
+
+15:45 - Supercopa Alemã: Dortmund x Bayern Munique (📺 SPORTV, CAZÉTV, XSPORTS)
 
 Domingo, 23/ago
 
@@ -300,6 +306,8 @@ Sábado, 22/ago
 
 21:30 - MLS: Austin x Philadelphia Union (📺 APPLETV)
 
+21:45 - NWSL: Portland Thorns x Denver Summit (📺 GOAT)
+
 22:30 - MLS: Whitecaps x Dallas (📺 APPLETV)
 
 23:30 - MLS: San Jose x Minnesota United (📺 APPLETV)
@@ -307,8 +315,6 @@ Sábado, 22/ago
 23:30 - MLS: San Diego x Colorado Rapids (📺 APPLETV)
 
 23:30 - MLS: Los Angeles FC x Portland Timbers (📺 APPLETV)
-
-21:45 - NWSL: Portland Thorns x Denver Summit (📺 GOAT)
 
 Domingo, 23/ago
 
