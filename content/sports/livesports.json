@@ -78,32 +78,6 @@
     "featured": true
   },
   {
-    "id": "sportynet-sbe-for-1908",
-    "title": "FORTALEZA X SÃO BERNARDO: AO VIVO E COM IMAGENS | RODADA 23 | SÉRIE B",
-    "badge": "SportyNet",
-    "dateTime": "19 AGO - 18:45",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/lXyVex70qEY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "O São Bernardo encara o Fortaleza pela 23ª rodada do BRASILEIRÃO SÉRIE B!",
-    "youtubeId": "lXyVex70qEY",
-    "streamUrl": "https://www.youtube.com/watch?v=lXyVex70qEY",
-    "featured": true
-  },
-  {
-    "id": "sportynet-fer-pay-1708",
-    "title": "FERROVIÁRIA X PAYSANDU: AO VIVO E COM IMAGENS | RODADA 17 | SÉRIE C",
-    "badge": "SportyNet",
-    "dateTime": "17 AGO - 19:15",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/0FAayW_Wvrg/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "A Ferroviária encara o Paysandu pela 17ª rodada do BRASILEIRÃO SÉRIE C!",
-    "youtubeId": "0FAayW_Wvrg",
-    "streamUrl": "https://www.youtube.com/watch?v=0FAayW_Wvrg",
-    "featured": true
-  },
-  {
     "id": "cbochas-1608-final",
     "title": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - SEMIFINAL / FINAL",
     "badge": "Canal Bochas",
@@ -127,19 +101,6 @@
     "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: Final Municipal Barra do Rio Azul. Paloma x Bela Vista",
     "youtubeId": "K8ifYZdhe78",
     "streamUrl": "https://www.youtube.com/watch?v=K8ifYZdhe78",
-    "featured": true
-  },
-  {
-    "id": "cazetv-supercopa-1608",
-    "title": "AO VIVO: PSG X LENS | FINAL DA SUPERCOPA DA FRANÇA",
-    "badge": "CazéTV",
-    "dateTime": "16 AGO - 14:15",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/rlPrTsnFKr4/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "Paris Saint-Germain x Lens AO VIVO E COM IMAGENS valendo o título da Supercopa da França!",
-    "youtubeId": "rlPrTsnFKr4",
-    "streamUrl": "https://www.youtube.com/watch?v=rlPrTsnFKr4",
     "featured": true
   },
   {
@@ -208,19 +169,6 @@
     "featured": true
   },
   {
-    "id": "canalgoat-juv-for-1508",
-    "title": "JUVENTUDE X FORTALEZA | AO VIVO E COM IMAGENS | BRASILEIRÃO SÉRIE B",
-    "badge": "Canal GOAT",
-    "dateTime": "15 AGO - 17:45",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/7BXXw_h75cA/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "O JUVENTUDE encara o FORTALEZA pela 22ª rodada do BRASILEIRÃO SÉRIE B! Assista AO VIVO E COM IMAGENS na tela do Canal GOAT!",
-    "youtubeId": "7BXXw_h75cA",
-    "streamUrl": "https://www.youtube.com/watch?v=7BXXw_h75cA",
-    "featured": true
-  },
-  {
     "id": "cbochas-1608-fase3",
     "title": "39° TORNEIO INTERNACIONAL DE BOCHAS DE JAGUARI - 2° FASE",
     "badge": "Canal Bochas",
@@ -244,19 +192,6 @@
     "videoUrlPlaceholder": "TRANSMISSÃO AO VIVO: 39° TORNEIO INTERNACIONAL DE BOCHAS - JAGUARI",
     "youtubeId": "y8zUQw-msSw",
     "streamUrl": "https://www.youtube.com/watch?v=y8zUQw-msSw",
-    "featured": true
-  },
-  {
-    "id": "goat-nwsl-1408",
-    "title": "GOTHAM FC X KC CURRENT | AO VIVO E COM IMAGENS | NWSL",
-    "badge": "Canal GOAT",
-    "dateTime": "14 AGO - 21:00",
-    "category": "Futebol",
-    "image": "https://i.ytimg.com/vi/FLd2tvROSwY/hq720.jpg?auto=format&fit=crop&q=80&w=500",
-    "isLive": false,
-    "videoUrlPlaceholder": "O GOTHAM FC encara o KC CURRENT em partida válida pela NWSL! Assista AO VIVO e COM IMAGENS na tela do Canal GOAT!",
-    "youtubeId": "FLd2tvROSwY",
-    "streamUrl": "https://www.youtube.com/watch?v=FLd2tvROSwY",
     "featured": true
   },
   {
