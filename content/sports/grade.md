@@ -21,27 +21,27 @@ Sábado, 22/ago
 
 Domingo, 23/ago
 
-20:00 - Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
+20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
 
 Segunda, 24/ago
 
-22:30 - Chicago Cubs x Arizona Diamondbacks (📺 ESPN2, Disney+)
+22:30 - MLB: Chicago Cubs x Arizona Diamondbacks (📺 ESPN2, Disney+)
 
 Terça, 25/ago
 
-20:00 - Houston Astros x New York Yankees (📺 ESPN4, Disney+)
+20:00 - MLB: Houston Astros x New York Yankees (📺 ESPN4, Disney+)
 
 Quarta, 26/ago
 
-20:00 - Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
+20:00 - MLB: Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
 
 Quinta, 27/ago
 
-20:00 - Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
+20:00 - MLB: Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
 
 Sexta, 28/ago
 
-20:00 - San Diego Padres x Tampa Bay Rays (📺 Disney+)
+20:00 - MLB: San Diego Padres x Tampa Bay Rays (📺 Disney+)
 
 ## BEISEBOL E SOFTBOL NO DISNEY+
 
