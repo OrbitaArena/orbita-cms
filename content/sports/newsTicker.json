@@ -1,5 +1,29 @@
 [
   {
+    "id": "ticker-crvg-fem-001",
+    "category": "FUT",
+    "topic": "Fem A1",
+    "headline": "As meninas da colina do Vasco da Gama estão de volta ao BRASILEIRÃO FEMININO A1 2027.",
+    "timestamp": "22/ago",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-darts",
+    "category": "DARDOS",
+    "topic": "Campeão",
+    "headline": "Acabou a espera de 13anos! James Wade é campeão do Australian Masters 🏆",
+    "timestamp": "22/ago",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
+  },
+  {
+    "id": "ticker-epl-001",
+    "category": "FUT",
+    "topic": "Estréia Épica",
+    "headline": "Hull City estreia na Premier League com vitória por 2x0 contra Manchester United.",
+    "timestamp": "22/ago",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
     "id": "ticker-1",
     "category": "MLB",
     "topic": "Rangers",
