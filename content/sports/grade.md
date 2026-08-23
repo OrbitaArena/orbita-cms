@@ -8,6 +8,7 @@ Sábado, 22/ago
 
 20:00 - NFL: Philadelphia Eagles x New England Patriots (📺 ESPN2, ESPN4, Disney+)
 
+
 ## MLB NA ESPN
 
 Sexta, 21/ago
@@ -20,7 +21,27 @@ Sábado, 22/ago
 
 Domingo, 23/ago
 
-20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
+20:00 - Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
+
+Segunda, 24/ago
+
+22:30 - Chicago Cubs x Arizona Diamondbacks (📺 ESPN2, Disney+)
+
+Terça, 25/ago
+
+20:00 - Houston Astros x New York Yankees (📺 ESPN4, Disney+)
+
+Quarta, 26/ago
+
+20:00 - Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
+
+Quinta, 27/ago
+
+20:00 - Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
+
+Sexta, 28/ago
+
+20:00 - San Diego Padres x Tampa Bay Rays (📺 Disney+)
 
 ## BEISEBOL E SOFTBOL NO DISNEY+
 
@@ -31,6 +52,28 @@ Sexta, 21/ago
 21:00 - Banana Ball: Loco Beach Coconuts x Savannah Bananas (📺 Disney+)
 
 22:00 - LMB MEX: Playoffs, jogo a definir (📺 Disney+)
+
+Domingo, 23/ago
+
+10:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
+
+20:00 - LMB MEX: Toros de Tijuana x Charros de Jalisco ● Playoffs (📺 Disney+)
+
+Segunda, 24/ago
+
+14:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
+
+Terça, 25/ago
+
+14:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
+ 
+23:30 - LMB MEX: Charros de Jalisco x Toros de Tijuana ● Playoffs (📺 Disney+)
+
+Quarta, 26/ago
+
+16:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
+
+23:30 - LMB MEX: Charros de Jalisco x Toros de Tijuana ● Playoffs (📺 Disney+)
 
 # BASQUETE NA ESPN: NBA & WNBA
 
