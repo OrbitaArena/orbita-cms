@@ -1,53 +1,71 @@
 # JOGOS DE HOJE
 
-## Sábado, 22/ago
+## Domingo, 23/ago
 
-08:30 - Premier League: Hull City x Manchester United (📺 ESPN)
+08:00 - Championship: West Brom x Burnley (📺 ESPN, DISNEY+)
 
-11:00 - Premier League: Everton x Crystal Palace (📺 ESPN BRASIL YT)
+10:00 - Premier League: Brighton x Aston Villa (📺 ESPN, DISNEY+)
 
-11:00 - Championship: West Ham x Charlton (📺 ESPN4, BETANO)
+10:00 - Premier League: Manchester City x Bournemouth (📺 CAZÉTV, DISNEY+)
 
-12:00 - La Liga: Athletic Bilbao x Sevilla (📺 CAZÉTV)
+12:00 - La Liga: Atlético de Madrid x Villareal (📺 CAZÉTV)
 
-13:00 - NFL: Detroit Lions x Washington Commanders (📺 Disney+)
+12:15 - Ligue 1: Le Havre x Monaco (📺 CAZÉTV, XSPORTS)
 
-13:30 - Premier League: Brentford x Tottenham (📺 DISNEY+)
+12:30 - Premier League: Newcastle x Liverpool (📺 ESPN, DISNEY+)
 
-15:45 - Supercopa Alemã: Dortmund x Bayern Munique (📺 SPORTV, CAZÉTV, XSPORTS)
+13:30 - Serie A ITA: Frosinone x Juventus (📺 SPORTYNET, DISNEY+)
 
-16:00 - Brasileirão Série A: Fluminense x Remo (📺 PREMIERE)
+15:45 - Serie A ITA: Torino x Milan (📺 ESPN, DISNEY+)
 
-16:00 - Serie A ITA: Genoa x Napoli (📺 ESPN, DISNEY+)
+16:00 - Série A: Vitória x Bahia (📺 GLOBO, PREMIERE)
 
-16:30 - La Liga: Espanyol x Real Madrid (📺 CAZÉTV)
+16:00 - Série A: Palmeiras x Vasco (📺 GLOBO, PREMIERE)
 
-16:30 - Português: Sporting x Alverca (📺 ESPN4, DISNEY+)
+16:00 - Série A: Bragantino x Grêmio (📺 GLOBO, PREMIERE)
 
-17:00 - Brasileirão Série C: Ituano-SP x Paysandu (📺 BAND, SPORTYNET)
+16:00 - Brasileirão Série B: Ponte Preta x Avaí (📺 DISNEY+)
 
-17:00 - Brasileirão Série D: Uberlândia x ABC (📺 Metrópoles)
+16:00 - Brasileirão Série B: São Bernardo x Náutico (📺 SPORTV, GLOBO, PREMIERE)
 
-18:00 - Brasileirão Série B: Ceará x Londrina (📺 ESPN, DISNEY+)
+16:00 - Brasileirão Série C: Maringá x Barra FC (📺 SPORTYNET+)
 
-18:00 - Brasileirão F: Cruzeiro x Palmeiras (📺 SPORTV3)
+16:00 - Brasileirão Série C: Brusque x Amazonas (📺 SPORTYNET)
 
-18:00 - Brasileirão F: Flamengo x Atlético-MG (📺 TVBRASIL)
+16:00 - Brasileirão Série C: Inter de Limeira x Figueirense (📺 SPORTYNET+, CANAL DO BENJA)
 
-18:30 - Brasileirão Série A: Internacional x Atlético/MG (📺 SPORTV, PREMIERE)
+16:30 - La Liga: Elche x Barcelona (📺 CAZÉTV)
 
-18:30 - Brasileirão Série B: Cuiabá x Goiás (📺 DISNEY+)
+16:30 - Português: Porto x Arouca (📺 ESPN4, DISNEY+)
 
-18:30 - Uruguaio: Deportivo Maldonado x Peñarol (📺 DISNEY+)
+17:00 - Brasileirão Série D: ASA x Gana (📺 Metrópoles)
 
-19:30 - Brasileirão Série C: Santa Cruz x Caxias (📺 SPORTYNET)
+17:00 - NWSL: Washington Spirit x Orlando Pride (📺 DISNEY+)
 
-20:00 - NFL: Philadelphia Eagles x New England Patriots (📺 ESPN2, ESPN4, Disney+)
+17:30 - MLS: Revolution x New York City (📺 APPLETV)
 
-20:15 - MLB: Los Angeles Dodgers x Pittsburgh Pirates (📺 Disney+)
+18:00 - Brasileirão Série B: Operário-PR x Vila Nova (📺 REDETV, GOAT, DISNEY+)
 
-21:45 - NWSL: Portland Thorns x Denver Summit (📺 GOAT)
+18:30 - Brasileirão Série B: Criciúma x Fortaleza (📺 ESPN, SPORTYNET, XSPORTS, DISNEY+)
 
-22:30 - Brasileirão Série A: Cruzeiro x Flamengo (📺 AMAZON)
+18:30 - Série A: Chapecoense x São Paulo (📺 RECORD, CAZÉTV, PREMIERE)
+
+18:30 - Série A: Santos x Mirassol (📺 PREMIERE)
+
+18:30 - Brasileirão Série C: Ypiranga-RS x Ferroviária (📺 SPORTYNET+)
+
+18:30 - Brasileirão Série C: Maranhão-MA x Itabaiana-SE (📺 SPORTYNET+)
+
+19:15 - Argentino: River Plate Vélez Sarsfield (📺 ESPN4, DISNEY+)
+
+19:30 - Série A: Coritiba x Corinthians (📺 PREMIERE)
+
+20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
+
+20:00 - LMB MEX: Toros de Tijuana x Charros de Jalisco ● Playoffs (📺 Disney+)
+
+20:00 - MLS: Atlanta United x Sporting KC (📺 APPLETV)
+
+21:30 - Argentino: Racing x Boca Juniors (📺 ESPN4, DISNEY+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
