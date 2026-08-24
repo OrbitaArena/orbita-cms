@@ -1,5 +1,13 @@
 [
   {
+    "id": "ticker-lacrosse-001",
+    "category": "LACROSSE",
+    "topic": "🇨🇦9x8🇺🇸",
+    "headline": "Virada Épica, Canadá são campeões do Pan-Americano Masculino 🥍",
+    "timestamp": "23/ago",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+{
     "id": "ticker-crvg-fem-001",
     "category": "FUT",
     "topic": "Fem A1",
