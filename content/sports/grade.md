@@ -2,87 +2,78 @@
 
 ## NFL NA ESPN
 
-Sábado, 22/ago
+Domingo, 11/out
 
-13:00 - NFL: Detroit Lions x Washington Commanders (📺 Disney+)
+14:00 - NFL: NFL: Chicago Bears x Green Bay Packers (📺 ESPN2, Disney+)
 
-20:00 - NFL: Philadelphia Eagles x New England Patriots (📺 ESPN2, ESPN4, Disney+)
+17:00 - NFL: Denver Broncos x Los Angeles Chargers (📺 ESPN2, Disney+)
 
+Segunda, 12/out
+
+21:00 - NFL: Buffalo Bills x Los Angeles Rams (📺 ESPN2, Disney+)
+
+# COLLEGE FOOTBALL NA ESPN
+
+Domingo, 11/out
+
+00:00 - NCAAF: Kansas x Utah (📺 ESPN3, Disney+)
+
+Quinta, 15/out
+
+20:30 - NHL: Montreal Canadiens x Washington Capitals (📺 ESPN3, Disney+)
 
 ## MLB NA ESPN
 
-Sexta, 21/ago
+Sexta, 9/out
 
-23:00 - MLB: Chicago Cubs x Seattle Mariners (📺 Disney+)
+17:30 - MLB: San Diego Padres x Milwaukee Brewers (📺 ESPN3, Disney+)
 
-Sábado, 22/ago
+21:00 - MLB: Atlanta Braves x Los Angeles Dodgers (📺 ESPN3, Disney+)
 
-20:15 - MLB: Los Angeles Dodgers x Pittsburgh Pirates (📺 Disney+)
+Sábado, 10/out
 
-Domingo, 23/ago
+18:00 - MLB: Chicago White Sox x Cleveland Guardians (📺 ESPN3, Disney+)
 
-20:00 - MLB: Atlanta Braves x Milwaukee Brewers (📺 ESPN3, Disney+)
+21:00 - MLB: New York Yankees x Tampa Bay Rays (📺 ESPN3,  Disney+)
 
-Segunda, 24/ago
+# NHL NA ESPN
 
-22:30 - MLB: Chicago Cubs x Arizona Diamondbacks (📺 ESPN2, Disney+)
+Sábado, 10/out
 
-Terça, 25/ago
+14:00 - NHL: Philadelphia Flyers x Boston Bruins (📺 ESPN3,  Disney+) 
 
-20:00 - MLB: Houston Astros x New York Yankees (📺 ESPN4, Disney+)
+Terça, 13/out
 
-Quarta, 26/ago
+19:00 - NHL: New Jersey Devils x Detroit Red Wings (📺 ESPN3,  Disney+) 
 
-20:00 - MLB: Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
+21:30 - NHL: Colorado Avalanche x Dallas Stars (📺 ESPN3,  Disney+) 
 
-Quinta, 27/ago
+Quarta, 14/out
 
-20:00 - MLB: Los Angeles Dodgers x Atlanta Braves (📺 ESPN4, Disney+)
-
-Sexta, 28/ago
-
-20:00 - MLB: San Diego Padres x Tampa Bay Rays (📺 Disney+)
-
-## BEISEBOL E SOFTBOL NO DISNEY+
-
-Sexta, 21/ago
-
-14:00 - Little League World Series: : Toda a janela de jogos (📺 Disney+)
-
-21:00 - Banana Ball: Loco Beach Coconuts x Savannah Bananas (📺 Disney+)
-
-22:00 - LMB MEX: Playoffs, jogo a definir (📺 Disney+)
-
-Domingo, 23/ago
-
-10:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
-
-20:00 - LMB MEX: Toros de Tijuana x Charros de Jalisco ● Playoffs (📺 Disney+)
-
-Segunda, 24/ago
-
-14:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
-
-Terça, 25/ago
-
-14:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
- 
-23:30 - LMB MEX: Charros de Jalisco x Toros de Tijuana ● Playoffs (📺 Disney+)
-
-Quarta, 26/ago
-
-16:00 - Little League World Series: Toda a janela de jogos (📺 Disney+)
-
-23:30 - LMB MEX: Charros de Jalisco x Toros de Tijuana ● Playoffs (📺 Disney+)
+20:30 - NHL: NHL: Montreal Canadiens x Washington Capitals (📺 ESPN3,  Disney+) 
 
 # BASQUETE NA ESPN: NBA & WNBA
 
+Sexta, 09/out
+
+20:30 - WNBA: Atlanta Dream x New York Liberty (📺 ESPN2, Disney+) 
+
+Sábado, 10/out
+
+19:30 - NBA: Los Angeles Clippers x Toronto Raptors (📺 ESPN2, Disney+)
+
+23:30 - NBA: San Antonio Spurs x Phoenix Suns (📺 ESPN2, Disney+)
+
+Domingo, 11/out
+
+07:00 - NBA: Dallas Mavericks x Houston Rockets (📺 ESPN4, Disney+)
+
+15:00 - WNBA: Atlanta Dream x New York Liberty (📺 ESPN3,  Disney+) 
+
+19:30 - NBA: Orlando Magic x Cleveland Cavaliers (📺 ESPN3,  Disney+) 
+
+22:00 - NBA: Chicago Bulls x Denver Nuggets (📺 ESPN2, Disney+)
+
 # LACROSSE NO DISNEY
-
-Sábado, 29/ago
-
-19:00 - PLL Lacrosse: Outlaws x Redwoods (📺 Disney+)
-
-21:30 - PLL Lacrosse: Whipsnakes x Cannons (📺 Disney+)
 
 Obs: Horários de Brasília. Grades sujeitas a alteração
