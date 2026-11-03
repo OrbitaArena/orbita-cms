@@ -1,11 +1,67 @@
 [
   {
+    "id": "ticker-darts-005",
+    "category": "DARDOS",
+    "topic": "Campeã",
+    "headline": "Fallon Sherrock é campeã do evento especial da Netflix 'Beat Luke Littler' 🏆",
+    "timestamp": "30/out",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
+  },
+  {
+    "id": "ticker-mlb-001",
+    "category": "BEISEBOL",
+    "topic": "MLB",
+    "headline": "Milwaukee Brewers é o campeão do World Series 2026 🏆",
+    "timestamp": "28/out",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+   {
+    "id": "ticker-mlb-001",
+    "category": "BEISEBOL",
+    "topic": "Japan Series",
+    "headline": "Fukuoka SoftBank Hawks é o campeão do Japan Series 2026 🏆",
+    "timestamp": "28/out",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-liberta-001",
+    "category": "FUT",
+    "topic": "Libertadores",
+    "headline": "Estudiantes elimina o Flamengo e se classifica para a final da Libertadores",
+    "timestamp": "22/out",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-liberta-001",
+    "category": "FUT",
+    "topic": "Libertadores",
+    "headline": "Palmeiras classificado para a final da Libertadores",
+    "timestamp": "21/out",
+    "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-darts-004",
+    "category": "DARDOS",
+    "topic": "Campeã",
+    "headline": "Beau Greaves termina a temporada com 17 títulos em 24 eventos 🏆",
+    "timestamp": "11/out",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
+  },
+  {
     "id": "ticker-banana-001",
     "category": "BEISEBOL",
     "topic": "Banana Bowl",
     "headline": "Texas Tailgaters são os campeões do 1o Banana Bowl 🏆",
     "timestamp": "10/out",
     "categoryColor": "bg-emerald-600 text-white border-emerald-400"
+  },
+  {
+    "id": "ticker-darts-003",
+    "category": "DARDOS",
+    "topic": "Campeão",
+    "headline": "Luke Humphries é o campeão do World Grand Prix 🏆",
+    "timestamp": "04/out",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
   },
   {
     "id": "ticker-crvg-fem-001",
@@ -16,6 +72,14 @@
     "categoryColor": "bg-emerald-600 text-white border-emerald-400"
   },
   {
+    "id": "ticker-darts-002",
+    "category": "DARDOS",
+    "topic": "Campeão",
+    "headline": "Ross Smith é o campeão do World Series of Darts 🏆",
+    "timestamp": "20/set",
+    "categoryColor": "bg-amber-600 text-white border-amber-400"
+  },
+  {
     "id": "ticker-lacrosse-001",
     "category": "LACROSSE",
     "topic": "🇨🇦9x8🇺🇸",
@@ -24,7 +88,7 @@
     "categoryColor": "bg-emerald-600 text-white border-emerald-400"
   },
   {
-    "id": "ticker-darts",
+    "id": "ticker-darts-001",
     "category": "DARDOS",
     "topic": "Campeão",
     "headline": "Acabou a espera de 13anos! James Wade é campeão do Australian Masters 🏆",
